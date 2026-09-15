@@ -3,7 +3,8 @@ import subprocess
 import sys
 from godot_runtime import ROOT, find_godot
 
-# Focused, maintained checks; hardware and screenshot labs run separately.
+# Deterministic 60 Hz simulation runs without real-time pacing.
+# Hardware and screenshot labs run separately.
 GODOT_TESTS = ["curriculum", "speedrun", "gentle_flow",
                "powers_continuity", "adventure_terrain", "player_fast_fall",
                "sensor_game_jump", "sensor_repeat_jumps", "sensor_wifi_timeout", "acceptance"]
@@ -19,7 +20,7 @@ def main():
     run([godot, "--headless", "--path", str(ROOT / "game"), "--editor", "--import", "--log-file", str(ROOT / "evidence/import.log")])
     for test in GODOT_TESTS:
         print("Running Godot test:", test, flush=True)
-        run([godot, "--headless", "--path", str(ROOT / "game"),
+        run([godot, "--headless", "--fixed-fps", "60", "--path", str(ROOT / "game"),
              "--log-file", str(ROOT / ("evidence/" + test + ".log")),
              "--script", "res://tests/" + test + ".gd", "--", "--test"])
     print("All selected tests passed.")
