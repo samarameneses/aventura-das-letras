@@ -44,7 +44,7 @@ func run():
  main.on_answer(3,"BU")
  check(main.screen=="playing" and main.world.active and not main.menu.visible,"wrong answer never opens an overlay or pauses play")
  check(main.world.player.position.x==x and main.run_clock.running,"wrong answer does not rewind or stop the clock")
- check(main.feedback.text.is_empty() and not main.success_banner.visible,"wrong answer shows neither retry message nor false celebration")
+ check(main.feedback.text.contains("Ops!") and main.feedback_timer>0 and not main.success_banner.visible,"wrong answer gives brief feedback without a retry dialog or false celebration")
  check(data.lives_remaining()==2 and data.speedrun_attempts.size()==3,"wrong answer is recorded once and changes only the small heart counter")
  check(data.activities[3].id in main.world.skipped,"wrong running choice is passed automatically")
  await frames(5)
@@ -64,7 +64,9 @@ func run():
   main.on_answer(index,str(a.options[0] if a.options[0]!=a.target else a.options[1]))
   check(main.screen=="playing" and main.world.active and main.run_clock.running and not main.menu.visible,"wrong answer "+str(index)+" keeps running without a prompt")
  check(data.lives_remaining()==3 and data.round_progress().completed==completed,"third wrong answer silently renews hearts without losing discoveries")
- check(main.feedback.text.is_empty() and data.speedrun_attempts.size()==4,"repeated errors have no retry message and no duplicate history")
+ check(main.feedback.text.contains("Ops!") and data.speedrun_attempts.size()==4,"repeated errors give brief feedback without duplicate history")
+ await frames(120)
+ check(main.feedback.text.is_empty(),"brief error feedback clears automatically")
  # Manual adventure and a previously saved zero-heart round also stay uninterrupted.
  main.show_menu();main.start_game();await frames(3);main.on_answer(0,"BA")
  main.world.player.has_power=true;data.round_progress().power_available=true
