@@ -2,7 +2,11 @@
 
 A direção atual é pixel art de plataforma lateral. João Miguel, Luna, Lucas o Engenheiro e Samara foram criados a partir das referências pessoais fornecidas. Samara usa moletom marrom, jeans claro largo e sapatos escuros, conforme o look Nude Project. A referência de roupa não substituiu o rosto da Samara.
 
-[Galeria com animações](GALERIA.html) · [Manifesto](../assets/manifest.json) · [Prompts exatos](prompts/) · [Jogo e testes](../docs/10-entrega-e-sensor.md)
+[Galeria com animações](GALERIA.html) · [Manifesto](../assets/manifest.json) · [Prompts de referência](prompts/) · [Jogo e testes](../docs/10-entrega-e-sensor.md)
+
+Para começar uma aventura com seus próprios personagens, consulte o [prompt mestre personalizável](../docs/PROMPT-MESTRE.md).
+
+Os textos públicos dos prompts e do manifesto passaram por revisão editorial para descrever a estética em termos genéricos de pixel art e plataforma retrô. Eles servem como referências reutilizáveis; não são transcrições literais de todas as solicitações originais. Os arquivos de imagem permanecem os mesmos.
 
 ## Conjunto atual
 

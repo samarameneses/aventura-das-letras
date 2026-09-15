@@ -3,14 +3,16 @@
 > Documento de planejamento. Estado implementado e evidências da versão 0.1.0 em [Entrega e sensor](10-entrega-e-sensor.md).
 
 
-Estes prompts são modelos reutilizáveis. O lote atual de pixel art já foi criado; os prompts efetivamente usados estão no [registro de produção](../production/README.md). Ainda não há código de jogo. Toda geração de imagens deve usar **ChatGPT Image 2.5**, conforme pedido da família. Confirmar o modelo acessível antes de executar, sem substituição silenciosa. As referências dos quatro personagens já estão organizadas no projeto. Campos entre colchetes serão preenchidos com informações reais.
+Para iniciar uma nova aventura com seu próprio elenco, use o **[prompt mestre personalizável](PROMPT-MESTRE.md)**. Os exemplos abaixo documentam a direção de arte deste jogo e podem ser adaptados.
+
+As versões públicas dos prompts de produção estão no [registro de produção](../production/README.md). O projeto jogável fica em `game/`. Na produção original, a família solicitou ChatGPT Image 2.5, mas a ferramenta não expôs a versão efetivamente utilizada. Em um novo projeto, confirme a disponibilidade do modelo antes de gerar imagens e registre apenas informações verificadas. Preencha os campos entre colchetes com as características do seu elenco.
 
 ## 1. Direção visual da fase
 
 ```text
 Crie uma imagem de direção de arte para “Aventura das Letras”, jogo 2D de
 plataforma com visão lateral e rolagem horizontal, inspirado no estilo de
-jogo dos Super Mario clássicos. Use PIXEL ART de baixa resolução, pixels
+jogos clássicos de plataforma. Use PIXEL ART de baixa resolução, pixels
 quadrados grandes, paleta reduzida, contornos em degraus e acabamento de 16 bits.
 Sem gradientes, antialiasing ou linhas de ilustração lisa.
 

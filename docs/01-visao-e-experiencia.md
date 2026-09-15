@@ -5,7 +5,7 @@
 
 ## Proposta
 
-**Aventura das Letras** é o nome provisório de um jogo de plataforma 2D inspirado nos jogos clássicos pixelados de Super Mario, com pixel art como direção visual obrigatória: visão lateral, caminhada para direita e esquerda, saltos, plataformas, itens, poderes e chegada ao final de cada fase. A arte será personalizada, com personagens baseados nas referências da família.
+**Aventura das Letras** é o nome provisório de um jogo de plataforma 2D inspirado nos jogos clássicos de plataforma em pixel art, com pixel art como direção visual obrigatória: visão lateral, caminhada para direita e esquerda, saltos, plataformas, itens, poderes e chegada ao final de cada fase. A arte será personalizada, com personagens baseados nas referências da família.
 
 O objetivo educacional permanece: brincar com letras, sons, sílabas, palavras e quantidades, respeitando o repertório da criança. Pontuação e conclusão de fase não são prova de alfabetização.
 

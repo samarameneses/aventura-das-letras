@@ -3,6 +3,7 @@
 ## Comece aqui
 
 - [README e instalação](../README.md)
+- [Prompt mestre: crie seu jogo com personagens próprios](PROMPT-MESTRE.md)
 - [Como jogar](../COMO-JOGAR.md)
 - [Desenvolvimento e contribuições](../CONTRIBUTING.md)
 - [Sensor ESP32: preparação a partir de um clone](SENSOR.md)

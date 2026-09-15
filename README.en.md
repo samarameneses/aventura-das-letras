@@ -20,6 +20,10 @@ The game runs locally without an account, API key or sensor. Optional narration 
 
 The optional ESP32/IMU integration sends USB or local Wi-Fi samples to a Python jump detector. See [sensor setup](docs/SENSOR.md). Hardware behavior needs validation for each setup.
 
+## Start your own game from scratch
+
+Use the **[customizable master prompt (Portuguese)](docs/PROMPT-MESTRE.md)** to describe your own characters, audience, hardware and visual direction. It guides an assistant through feasibility, a first playable level, artwork, optional motion input and Markdown documentation. You can also fork this repository to adapt the existing game.
+
 ## Development
 
 Use Python 3.10+ and Godot 4.7.2. `python3 tools/run_game.py` locates Godot automatically; set `GODOT_BIN` if needed. Run `python3 tools/check_publication.py` and `python3 tools/run_tests.py` before contributing. USB dependencies are listed separately in `requirements-sensor.txt`.

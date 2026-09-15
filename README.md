@@ -47,6 +47,12 @@ Também é possível executar `python3 tools/run_game.py`, com Godot instalado n
 
 Há botões na tela e suporte a controle compatível. Veja todas as opções em [Como jogar](COMO-JOGAR.md).
 
+## Crie seu próprio jogo do zero
+
+Quer construir uma aventura com seus próprios personagens? Use o **[prompt mestre personalizável](docs/PROMPT-MESTRE.md)**: substitua o elenco, informe a faixa etária e o computador e comece pelo planejamento de uma primeira fase. O guia inclui arte em pixel art, aprendizagem progressiva, sensor opcional e documentação em Markdown.
+
+Você também pode fazer um fork deste repositório para adaptar o jogo existente.
+
 ## Sensor opcional
 
 O firmware para ESP32 e o receptor Python estão incluídos. Consulte [Instalar e conectar o sensor](docs/SENSOR.md) para gerar **suas próprias** configurações de rede e pareamento. O sensor é uma integração experimental; a montagem de referência foi experimentada fisicamente, mas outras placas, sistemas e movimentos precisam de validação.

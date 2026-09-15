@@ -3,11 +3,11 @@
 > Documento de planejamento. Estado implementado e evidências da versão 0.1.0 em [Entrega e sensor](10-entrega-e-sensor.md).
 
 
-A revisão 2 incorpora a correção explícita da família: plataforma 2D inspirada no estilo de jogo de Super Mario, quatro personagens, imagens no ChatGPT Image 2.5 e opção completa de jogar sem sensor. A proposta anterior de mundo 3D foi substituída.
+A revisão 2 incorpora a correção explícita da família: plataforma 2D inspirada no estilo dos jogos clássicos de plataforma, quatro personagens, imagens no ChatGPT Image 2.5 e opção completa de jogar sem sensor. A proposta anterior de mundo 3D foi substituída.
 
 ## Decisões confirmadas
 
-- Jogo próprio de plataforma 2D com visão lateral, rolagem horizontal e **pixel art obrigatória**, inspirado nos clássicos pixelados de Super Mario.
+- Jogo próprio de plataforma 2D com visão lateral, rolagem horizontal e **pixel art obrigatória**, inspirado nos jogos clássicos de plataforma em pixel art.
 - Samara usa o look Nude Project fornecido: moletom marrom, jeans claro largo e sapatos baixos escuros. A imagem da roupa não substitui sua referência pessoal de rosto/cabelo.
 - Personagens selecionáveis: **João Miguel**, **Luna**, **Lucas o Engenheiro** e **Samara**.
 - A família forneceu as quatro referências, copiadas e identificadas conforme sua mensagem; a primeira arte de cada personagem já foi criada.

@@ -5,7 +5,7 @@
 
 ## Direção e ferramenta de geração
 
-Criar uma aventura de plataforma 2D com visão lateral e **pixel art obrigatória**, conforme correção da família. A referência são os jogos clássicos pixelados de Super Mario. Usar pixels quadrados visíveis, silhuetas compactas, contornos em degraus, paleta reduzida e poucas sombras sólidas. A ilustração lisa do lote anterior foi substituída. Adotar como proposta inicial o acabamento de plataformas clássicos de 16 bits.
+Criar uma aventura de plataforma 2D com visão lateral e **pixel art obrigatória**, conforme correção da família. A referência são os jogos clássicos de plataforma em pixel art. Usar pixels quadrados visíveis, silhuetas compactas, contornos em degraus, paleta reduzida e poucas sombras sólidas. A ilustração lisa do lote anterior foi substituída. Adotar como proposta inicial o acabamento de plataformas clássicos de 16 bits.
 
 **Toda a arte em imagens deve ser gerada com ChatGPT Image 2.5, por solicitação explícita da família.** Isso inclui estudos, personagens, quadros de animação, retratos, cenários, peças de chão/plataforma, objetos, ilustrações educacionais, efeitos e gráficos da interface. Usar os nomes e aparência dos quatro personagens da família na identidade do jogo.
 

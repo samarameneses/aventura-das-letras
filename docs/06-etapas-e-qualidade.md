@@ -23,7 +23,7 @@ A produção visual e a prova do sensor podem ser organizadas em frentes indepen
 
 ## Etapa 0 — Confirmar a base
 
-O formato 2D, a referência de plataforma Super Mario, os quatro personagens, o Image 2.5 solicitado e o modo sem sensor já estão definidos. As referências já foram recebidas e o lote atual de pixel art está gerado. Faltam aparelho e repertório das crianças. Conferir o acesso efetivo ao modelo antes de gerar; não substituir silenciosamente.
+O formato 2D, a referência de plataforma retrô, os quatro personagens, o Image 2.5 solicitado e o modo sem sensor já estão definidos. As referências já foram recebidas e o lote atual de pixel art está gerado. Faltam aparelho e repertório das crianças. Conferir o acesso efetivo ao modelo antes de gerar; não substituir silenciosamente.
 
 Hardware e código do projeto de carros podem ser identificados depois, sem bloquear o protótipo sem sensor. Não comprar peças antes de conhecer o kit existente.
 
@@ -80,4 +80,4 @@ Godot usa licença MIT. O custo de imagens depende do acesso já disponível; ne
 
 ## Correção de direção aplicada
 
-A arte atual é pixel art inspirada nos clássicos de Super Mario. Samara usa moletom marrom e jeans largo da Nude Project. A caminhada ilustrada anterior ficou como histórico; produzir e validar o novo ciclo pixelado antes de multiplicar quadros. Verificar grade lógica, cores sólidas e escala consistente além dos testes já listados.
+A arte atual é pixel art inspirada nos jogos clássicos de plataforma. Samara usa moletom marrom e jeans largo da Nude Project. A caminhada ilustrada anterior ficou como histórico; produzir e validar o novo ciclo pixelado antes de multiplicar quadros. Verificar grade lógica, cores sólidas e escala consistente além dos testes já listados.
