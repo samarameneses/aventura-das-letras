@@ -7,7 +7,7 @@
 - Ambiente: fundo do Jardim das Letras e folha com seis propostas de terreno/plataforma.
 - Animação: folha de estudo com oito poses de caminhada de João Miguel.
 
-[Ver a galeria visual](GALERIA.html) · [Referências organizadas](../references/characters/README.md) · [Manifesto dos assets](../assets/manifest.json)
+[Ver a galeria visual](GALERIA.html) · Referências organizadas — registro local não distribuído (`references/characters/README.md`) · [Manifesto dos assets](../assets/manifest.json)
 
 ## Estado real dos arquivos
 

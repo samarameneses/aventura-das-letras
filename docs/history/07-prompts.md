@@ -3,9 +3,9 @@
 > Documento de planejamento. Estado implementado e evidências da versão 0.1.0 em [Entrega e sensor](10-entrega-e-sensor.md).
 
 
-Para iniciar uma nova aventura com seu próprio elenco, use o **[prompt mestre personalizável](PROMPT-MESTRE.md)**. Os exemplos abaixo documentam a direção de arte deste jogo e podem ser adaptados.
+Para iniciar uma nova aventura com seu próprio elenco, use o **[prompt mestre personalizável](../PROMPT-MESTRE.md)**. Os exemplos abaixo documentam a direção de arte deste jogo e podem ser adaptados.
 
-As versões públicas dos prompts de produção estão no [registro de produção](../production/README.md). O projeto jogável fica em `game/`. Na produção original, a família solicitou ChatGPT Image 2.5, mas a ferramenta não expôs a versão efetivamente utilizada. Em um novo projeto, confirme a disponibilidade do modelo antes de gerar imagens e registre apenas informações verificadas. Preencha os campos entre colchetes com as características do seu elenco.
+As versões públicas dos prompts de produção estão no [registro de produção](../../production/README.md). O projeto jogável fica em `game/`. Na produção original, a família solicitou ChatGPT Image 2.5, mas a ferramenta não expôs a versão efetivamente utilizada. Em um novo projeto, confirme a disponibilidade do modelo antes de gerar imagens e registre apenas informações verificadas. Preencha os campos entre colchetes com as características do seu elenco.
 
 ## 1. Direção visual da fase
 
@@ -172,8 +172,8 @@ Repetir para os quatro retratos e todos os itens necessários. Para efeitos anim
 ## 11. Primeiro protótipo inteiramente sem sensor
 
 ```text
-Leia README.md e docs/01-visao-e-experiencia.md, docs/04-arte-e-personagens.md
-e docs/05-arquitetura.md. Implemente a primeira fase de plataforma 2D em Godot 4
+Leia README.md e docs/history/01-visao-e-experiencia.md, docs/history/04-arte-e-personagens.md
+e docs/history/05-arquitetura.md. Implemente a primeira fase de plataforma 2D em Godot 4
 estável, verificando versão e documentação de APIs via Context7.
 
 Use visão lateral, câmera que acompanha, movimento esquerda/direita, salto,
@@ -199,7 +199,7 @@ quais recursos e imagens ainda são temporários ou não foram implementados.
 ## 12. Sensor como opção adicional
 
 ```text
-Leia docs/02-sensor-e-movimentos.md e docs/05-arquitetura.md.
+Leia docs/history/02-sensor-e-movimentos.md e docs/history/05-arquitetura.md.
 Hardware confirmado: [SENSOR, MÓDULO, PLACA]. Sistema: [PREENCHER].
 Integração anterior: [ANEXAR OU INDICAR]. Não invente pinagem ou tensão.
 
@@ -222,7 +222,7 @@ Verifique que todas as fases e quatro personagens continuam acessíveis sem sens
 ## 13. Atividades de aprendizagem
 
 ```text
-Leia docs/03-aprendizagem.md. Crie cinco atividades em português brasileiro
+Leia docs/history/03-aprendizagem.md. Crie cinco atividades em português brasileiro
 para [HABILIDADE], considerando o repertório informado: [PREENCHER].
 Entregue objetivo, instrução, alternativas, resposta, pistas, pré-requisitos,
 feedback e ilustração necessária. Separe nome da letra, som, sílaba e palavra.
@@ -256,4 +256,4 @@ Aplicar pixel art de baixa resolução também a Luna, João Miguel, Lucas, terr
 
 ## Prompts executados: retratos e objetos
 
-O [Lote 03](../production/LOTE-03.md) registra as oito gerações de retratos e objetos, com referências específicas por personagem e uma peça por arquivo. Os prompts exatos estão em [lote-03-jobs.json](../production/lote-03-jobs.json) e individualmente na pasta de produção. Todos retornaram RGBA com transparência real, sem que isso confirme normalização de pixels ou integração.
+O [Lote 03](../../production/LOTE-03.md) registra as oito gerações de retratos e objetos, com referências específicas por personagem e uma peça por arquivo. Os prompts exatos estão em lote-03-jobs.json — registro local não distribuído (`production/lote-03-jobs.json`) e individualmente na pasta de produção. Todos retornaram RGBA com transparência real, sem que isso confirme normalização de pixels ou integração.

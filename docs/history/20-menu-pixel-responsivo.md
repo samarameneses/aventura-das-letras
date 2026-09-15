@@ -6,7 +6,7 @@ A família enviou uma referência de menu de plataforma e pediu uma abertura atr
 
 O menu usa o pomar de primavera já gerado para o jogo, título desenhado com letras em blocos, verde do jardim, creme e destaque dourado no botão principal. Os quatro personagens aparecem animados na seleção; ao passar o mouse ou levar o foco até um personagem, ele comemora.
 
-A referência orientou a apresentação dos botões grandes. As montanhas, os símbolos e as cores da imagem de referência não foram incorporados como arte do jogo. A cópia enviada está em [referências do menu](../references/menu/menu-plataforma-referencia.webp). Não foram necessárias novas imagens geradas: cenário e personagens usam os assets existentes; o título é texto desenhado pelo jogo.
+A referência orientou a apresentação dos botões grandes. As montanhas, os símbolos e as cores da imagem de referência não foram incorporados como arte do jogo. A cópia enviada está em referências do menu — registro local não distribuído (`references/menu/menu-plataforma-referencia.webp`). Não foram necessárias novas imagens geradas: cenário e personagens usam os assets existentes; o título é texto desenhado pelo jogo.
 
 ## Todos os acessos preservados
 
@@ -28,13 +28,13 @@ A área jogável mantém sua proporção 16:9, centralizada, com os controles co
 
 ## Verificação
 
-[77 verificações de responsividade e navegação](../evidence/responsive-menu-tests.json) aprovadas nos tamanhos 320×568, 390×844, 640×360, 800×600, 960×540, 1280×720, 1920×1080 e 2560×1080. Incluem os menus secundários, acesso aos botões por foco, quatro personagens, troca de perfil/personagem, entrada no jogo, Speed Run e enquadramento da área jogável.
+77 verificações de responsividade e navegação — registro local não distribuído (`evidence/responsive-menu-tests.json`) aprovadas nos tamanhos 320×568, 390×844, 640×360, 800×600, 960×540, 1280×720, 1920×1080 e 2560×1080. Incluem os menus secundários, acesso aos botões por foco, quatro personagens, troca de perfil/personagem, entrada no jogo, Speed Run e enquadramento da área jogável.
 
 Também foram feitas capturas em janelas reais do Godot, incluindo a abertura em formato vertical. Isso valida tamanhos de janela neste Mac; não representa um teste em celulares ou tablets físicos.
 
-Foram repetidas as verificações de [conteúdo e cenários](../evidence/curriculum-tests.json), [regressão geral](../evidence/acceptance.json), [poderes e continuidade](../evidence/powers-continuity-tests.json), [Speed Run](../evidence/speedrun-tests.json), [pausa por foco](../evidence/window-focus-tests.json) e [menus secundários](../evidence/power-ui-tests.json). Os testes usam perfis separados dos perfis da família.
+Foram repetidas as verificações de conteúdo e cenários — registro local não distribuído (`evidence/curriculum-tests.json`), regressão geral — registro local não distribuído (`evidence/acceptance.json`), poderes e continuidade — registro local não distribuído (`evidence/powers-continuity-tests.json`), Speed Run — registro local não distribuído (`evidence/speedrun-tests.json`), pausa por foco — registro local não distribuído (`evidence/window-focus-tests.json`) e menus secundários — registro local não distribuído (`evidence/power-ui-tests.json`). Os testes usam perfis separados dos perfis da família.
 
-[Verificação do pacote 0.10.0](../evidence/pack-verification-v010.json) · [Versão e hash](../release/verification.json).
+Verificação do pacote 0.10.0 — registro local não distribuído (`evidence/pack-verification-v010.json`) · Versão e hash — registro local não distribuído (`release/verification.json`).
 
 ## Espaço durante a atualização
 
@@ -42,8 +42,8 @@ O Mac impediu gravações por falta de espaço. Foi removida apenas a cópia de 
 
 ## Telas
 
-![Menu horizontal](../evidence/v10-menu-960x540.png)
+Menu horizontal — registro local não distribuído (`evidence/v10-menu-960x540.png`)
 
-![Menu vertical](../evidence/v10-menu-390x844.png)
+Menu vertical — registro local não distribuído (`evidence/v10-menu-390x844.png`)
 
 Referências técnicas consultadas pelo Context7: [redimensionamento de Window](https://docs.godotengine.org/en/4.7/classes/class_window.html), [configurações de escala](https://docs.godotengine.org/en/4.7/classes/class_projectsettings.html) e [SubViewportContainer](https://docs.godotengine.org/en/4.7/classes/class_subviewportcontainer.html).

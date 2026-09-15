@@ -1,18 +1,35 @@
 # Documentação
 
-## Comece aqui
+Escolha o caminho conforme o que você quer fazer. Os comandos dos guias partem da raiz do repositório.
 
-- [README e instalação](../README.md)
-- [Prompt mestre: crie seu jogo com personagens próprios](PROMPT-MESTRE.md)
-- [Como jogar](../COMO-JOGAR.md)
-- [Desenvolvimento e contribuições](../CONTRIBUTING.md)
-- [Sensor ESP32: preparação a partir de um clone](SENSOR.md)
-- [Arquitetura](05-arquitetura.md)
+## Jogar
+
+- [Instalar e abrir o jogo](../README.md#comece-em-poucos-minutos)
+- [Como jogar: controles, modos e progresso](COMO-JOGAR.md)
+- [Atalhos para macOS](../launchers/macos/README.md)
+
+## Montar o sensor
+
+- [Preparar o ESP32 e conectar por USB ou Wi-Fi](SENSOR.md)
+- [Firmware e exemplo de configuração](../firmware/aventura_esp32/)
+
+## Criar sua própria aventura
+
+- [Prompt mestre personalizável](PROMPT-MESTRE.md)
+- [Prompts e procedência da arte](../production/README.md)
+
+## Desenvolver e colaborar
+
+- [Guia de contribuição](../CONTRIBUTING.md)
+- [Arquitetura atual](development/ARCHITECTURE.md)
+- [Testes e verificações](development/TESTING.md)
+- [Índice das ferramentas](../tools/README.md)
+- [Roadmap](ROADMAP.md)
 - [Segurança e privacidade](../SECURITY.md)
-- [Próximas contribuições](../ROADMAP.md)
 
-## Notas de desenvolvimento
+## Consultar a evolução do projeto
 
-Os documentos numerados registram decisões e testes em momentos diferentes. Alguns descrevem versões anteriores, ferramentas locais e resultados que não acompanham o clone. Para instalação e estado atual, priorize o README e o guia SENSOR. Referências a `evidence/`, `references/`, instalações e jobs locais identificam material privado ou gerado, não dependências do jogo. Nenhuma fotografia pessoal acompanha a publicação.
+- [Histórico de planejamento e entregas](history/README.md)
+- [Capturas originais do jogo](images/README.md)
 
-O código atual em `game/` é a referência para o comportamento; exportações antigas não são distribuídas neste repositório. Testes locais podem recriar resultados em `evidence/`.
+Os registros históricos podem descrever comportamentos anteriores ou ferramentas de uma instalação local. Para começar hoje, priorize os guias acima e o código atual. Material de referência privado, resultados de testes e exportações antigas não acompanham o clone.

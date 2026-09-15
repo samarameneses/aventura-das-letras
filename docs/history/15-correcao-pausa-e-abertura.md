@@ -6,4 +6,4 @@ O registro da execução anterior também mostrou que a perda de foco podia tent
 
 Seis testes específicos passaram: perda de foco durante remoção de elemento, pausa visível, personagem pausado, continuação da corrida, preservação de uma tela aberta depois da notificação e troca rápida de menus. As 42 verificações de Speed Run também passaram. Os dados das fases e o formato de salvamento permanecem os mesmos.
 
-[Relatório de foco](../evidence/window-focus-tests.json) · [Relatório de Speed Run](../evidence/speedrun-tests.json)
+Relatório de foco — registro local não distribuído (`evidence/window-focus-tests.json`) · Relatório de Speed Run — registro local não distribuído (`evidence/speedrun-tests.json`)

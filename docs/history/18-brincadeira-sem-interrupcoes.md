@@ -16,8 +16,8 @@ As pausas voluntárias e as de proteção por perda de foco ou conexão do senso
 
 ## Verificação
 
-Foram aprovadas [25 verificações específicas](../evidence/uninterrupted-flow-tests.json), incluindo escolhas erradas consecutivas, corações esgotados, movimento contínuo real, ausência de menu e mensagem de erro, manutenção do tempo, acertos, poderes e ponto de retorno, carregamento de salvamento antigo e comemorações de acerto.
+Foram aprovadas 25 verificações específicas — registro local não distribuído (`evidence/uninterrupted-flow-tests.json`), incluindo escolhas erradas consecutivas, corações esgotados, movimento contínuo real, ausência de menu e mensagem de erro, manutenção do tempo, acertos, poderes e ponto de retorno, carregamento de salvamento antigo e comemorações de acerto.
 
-Também passaram [85 verificações de vidas e corrida](../evidence/lives-autorun-tests.json), incluindo as 68 fases completas com saltos, [38 de cronômetro e recordes](../evidence/speedrun-tests.json) e [100 gerais](../evidence/acceptance.json). Os testes usam perfis separados dos perfis da família.
+Também passaram 85 verificações de vidas e corrida — registro local não distribuído (`evidence/lives-autorun-tests.json`), incluindo as 68 fases completas com saltos, 38 de cronômetro e recordes — registro local não distribuído (`evidence/speedrun-tests.json`) e 100 gerais — registro local não distribuído (`evidence/acceptance.json`). Os testes usam perfis separados dos perfis da família.
 
-O pacote entregue é a versão 0.8.0. [Verificação do pacote](../evidence/pack-verification-v08.json) · [Versão e hash](../release/verification.json). A versão anterior foi preservada em `release/Aventura-v0.7.pck`. O sensor físico continua pendente de validação com a família; nenhum novo asset ou conteúdo pedagógico foi alterado.
+O pacote entregue é a versão 0.8.0. Verificação do pacote — registro local não distribuído (`evidence/pack-verification-v08.json`) · Versão e hash — registro local não distribuído (`release/verification.json`). A versão anterior foi preservada em `release/Aventura-v0.7.pck`. O sensor físico continua pendente de validação com a família; nenhum novo asset ou conteúdo pedagógico foi alterado.

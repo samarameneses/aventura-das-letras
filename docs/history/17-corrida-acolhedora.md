@@ -31,18 +31,18 @@ Quedas no vão ainda retornam ao ponto seguro, mantendo acertos e corações. **
 
 ## Verificação
 
-- [18 verificações da experiência acolhedora](../evidence/gentle-flow-tests.json): corrida inteira sem coletar opções, ausência de retorno e penalidade por passagem, escolha após erro, renovação dos corações, preservação de descobertas/ponto de retorno/poderes/tempo e final com parte das atividades coletadas.
-- [88 verificações de vidas e corrida](../evidence/lives-autorun-tests.json), incluindo conclusão das 68 fases usando apenas saltos.
-- [38 verificações de cronômetro e recordes](../evidence/speedrun-tests.json).
-- [397 verificações de conteúdo e cenários](../evidence/curriculum-tests.json) e [100 verificações gerais](../evidence/acceptance.json).
-- [Verificação do pacote entregue](../evidence/pack-verification-v07.json).
+- 18 verificações da experiência acolhedora — registro local não distribuído (`evidence/gentle-flow-tests.json`): corrida inteira sem coletar opções, ausência de retorno e penalidade por passagem, escolha após erro, renovação dos corações, preservação de descobertas/ponto de retorno/poderes/tempo e final com parte das atividades coletadas.
+- 88 verificações de vidas e corrida — registro local não distribuído (`evidence/lives-autorun-tests.json`), incluindo conclusão das 68 fases usando apenas saltos.
+- 38 verificações de cronômetro e recordes — registro local não distribuído (`evidence/speedrun-tests.json`).
+- 397 verificações de conteúdo e cenários — registro local não distribuído (`evidence/curriculum-tests.json`) e 100 verificações gerais — registro local não distribuído (`evidence/acceptance.json`).
+- Verificação do pacote entregue — registro local não distribuído (`evidence/pack-verification-v07.json`).
 
 As verificações usam perfis de teste, separados dos perfis da família. Não houve alteração no conteúdo pedagógico nem no formato do salvamento.
 
 ## Telas
 
-![Escolha acolhedora após pegar outra opção](../evidence/v07-escolha-acolhedora.png)
+Escolha acolhedora após pegar outra opção — registro local não distribuído (`evidence/v07-escolha-acolhedora.png`)
 
-![Chegada após continuar explorando](../evidence/v07-chegada-com-descobertas.png)
+Chegada após continuar explorando — registro local não distribuído (`evidence/v07-chegada-com-descobertas.png`)
 
-O aplicativo local abre `release/Aventura.pck`, correspondente à versão 0.7.0. O pacote anterior está preservado em `release/Aventura-v0.6.pck`. [Versão e verificação](../release/verification.json).
+O aplicativo local abre `release/Aventura.pck`, correspondente à versão 0.7.0. O pacote anterior está preservado em `release/Aventura-v0.6.pck`. Versão e verificação — registro local não distribuído (`release/verification.json`).

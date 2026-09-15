@@ -173,7 +173,7 @@ def main():
             try:
                 import serial
             except ImportError:
-                parser.error('USB requer pyserial. Consulte docs/24-esp32-usb-wifi.md.')
+                parser.error('USB requer pyserial. Consulte docs/SENSOR.md.')
             source = serial.Serial(args.usb,230400,timeout=0)
             source.reset_input_buffer()
         print('Abra Com sensor no jogo e mantenha o dispositivo parado por três segundos.',flush=True)

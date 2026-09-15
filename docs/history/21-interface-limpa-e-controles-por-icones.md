@@ -16,7 +16,7 @@ Os nomes e atalhos aparecem ao passar o mouse; o teclado e o controle continuam 
 
 47 verificações específicas da interface passaram, incluindo posição dos controles em 960×540, 640×360, 390×844 e 1920×1080; 43 verificações de poderes e continuidade e 25 de fluxo agradável passaram. Capturas nativas estão em `evidence/v11-controles-*.png`. O jogo mantém a área de ação em 16:9, com margens em janelas verticais; o tamanho dos controles acompanha essa área, sem prometer otimização para toque em telefone.
 
-![Interface em jogo](../evidence/v11-controles-960x540.png)
+Interface em jogo — registro local não distribuído (`evidence/v11-controles-960x540.png`)
 
 O pacote é verificado antes da substituição do lançador local. Fotos, conteúdo pedagógico e progresso familiar foram preservados. O sensor físico não foi testado nesta alteração.
 
@@ -26,4 +26,4 @@ A janela inicia maximizada, com alternativa de 1280×720 ao restaurar. O menu pr
 
 77 verificações de menus em oito resoluções passaram. Na captura nativa do Mac, a área do jogo foi 3024×1704 e o botão principal mediu 1026×162 pixels; os quatro testes confirmaram ocupação da tela, ampliação dos botões e personagens e ausência de rolagem no menu desktop. O macOS reportou modo de janela normal mesmo com a geometria maximizada, portanto a validação usa a área disponível efetivamente ocupada.
 
-![Menu ampliado](../evidence/v111-menu-desktop.png)
+Menu ampliado — registro local não distribuído (`evidence/v111-menu-desktop.png`)

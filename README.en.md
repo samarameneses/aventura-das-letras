@@ -2,7 +2,7 @@
 
 A Portuguese-language 2D literacy platformer built with Godot. Explore letters, syllables and words using a keyboard, gamepad or optional ESP32 motion sensor.
 
-[Português](README.md) · [Contributing](CONTRIBUTING.md) · [MIT license](LICENSE)
+[Português](README.md) · [How to play (PT)](docs/COMO-JOGAR.md) · [Documentation](docs/README.md) · [Contributing](CONTRIBUTING.md) · [MIT license](LICENSE)
 
 ![Game menu](docs/images/menu.png)
 
@@ -42,8 +42,23 @@ Collecting **CÉU** with a jump triggers a colorful celebration and an encouragi
 
 Use the **[customizable master prompt (Portuguese)](docs/PROMPT-MESTRE.md)** to describe your own characters, audience, hardware and visual direction. It guides an assistant through feasibility, a first playable level, artwork, optional motion input and Markdown documentation. You can also fork this repository to adapt the existing game.
 
+## Repository guide
+
+| Directory | Contents |
+| --- | --- |
+| `game/` | Godot project, game assets, content and tests |
+| `firmware/` | ESP32 firmware and safe configuration example |
+| `tools/` | Launch, sensor, testing and production scripts; see the [tool index](tools/README.md) |
+| `launchers/macos/` | [Double-click launchers](launchers/macos/README.md) for macOS |
+| `assets/`, `production/` | Original artwork, provenance and generation prompts |
+| `docs/` | Current player, hardware and creation guides |
+| `docs/development/` | Current architecture and testing instructions |
+| `docs/history/` | Earlier planning and development records |
+
 ## Development
+
+[Architecture (PT)](docs/development/ARCHITECTURE.md) · [Testing (PT)](docs/development/TESTING.md)
 
 Use Python 3.10+ and Godot 4.7.2. `python3 tools/run_game.py` locates Godot automatically; set `GODOT_BIN` if needed. Run `python3 tools/check_publication.py` and `python3 tools/run_tests.py` before contributing. USB dependencies are listed separately in `requirements-sensor.txt`.
 
-Issues and pull requests in English or Portuguese are welcome. See the [roadmap](ROADMAP.md). Built with assistance from Codex; artwork was generated with an integrated image tool whose exact model version was not exposed. Source code, documentation and project-owned published assets use the MIT license; see [third-party notices](THIRD_PARTY_NOTICES.md).
+Issues and pull requests in English or Portuguese are welcome. See the [roadmap](docs/ROADMAP.md). Built with assistance from Codex; artwork was generated with an integrated image tool whose exact model version was not exposed. Source code, documentation and project-owned published assets use the MIT license; see [third-party notices](THIRD_PARTY_NOTICES.md).

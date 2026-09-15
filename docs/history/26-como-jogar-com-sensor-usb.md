@@ -3,7 +3,7 @@
 A ESP32 já está com o controle do jogo instalado e a calibração em repouso foi testada no Mac. Não é necessário publicar o jogo nem instalar Arduino para jogar.
 
 1. Conecte a ESP32 ao Mac pelo cabo USB, mantendo os fios do sensor como no teste.
-2. Abra **Jogar com sensor USB.command**, na pasta do jogo. Ele abre a conexão e o jogo juntos, no modo **Speed Run com movimento**.
+2. Abra **launchers/macos/Jogar com sensor USB.command**, na pasta do jogo. Ele abre a conexão e o jogo juntos, no modo **Speed Run com movimento**.
 3. Deixe o sensor imóvel sobre a mesa por cerca de três segundos. Aguarde **Sensor pronto**.
 4. Clique em **Entrar no jardim**. O personagem corre automaticamente; você pula com o sensor e usa os poderes pelos botões ou teclado.
 5. Ao terminar, feche a janela do jogo; a conexão USB é encerrada junto.

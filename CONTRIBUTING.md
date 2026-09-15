@@ -6,7 +6,7 @@ Você pode colaborar em português ou inglês. Não precisa ter um sensor para d
 
 - Use Issues para erros reproduzíveis e propostas concretas.
 - Use Discussions para dúvidas, ideias e relatos de uso sem dados pessoais.
-- Consulte o [roadmap](ROADMAP.md) antes de iniciar uma mudança grande.
+- Consulte o [roadmap](docs/ROADMAP.md) antes de iniciar uma mudança grande.
 - Para falhas de segurança, siga [SECURITY.md](SECURITY.md).
 
 ## Fluxo de trabalho
@@ -19,6 +19,10 @@ Você pode colaborar em português ou inglês. Não precisa ter um sensor para d
 6. Abra um pull request descrevendo o problema, o comportamento novo e o que foi testado. Relacione a issue quando existir.
 
 Se Godot não estiver no PATH, defina `GODOT_BIN` com o caminho do executável. Resultados temporários ficam em `evidence/` e não devem entrar no commit. Os testes de hardware e captura são complementares à suíte automática; descreva limitações e seu ambiente.
+
+## Onde trabalhar
+
+Consulte a [arquitetura atual](docs/development/ARCHITECTURE.md), o [guia de testes](docs/development/TESTING.md) e o [índice das ferramentas](tools/README.md). Guias de uso ficam em `docs/`; registros de entregas anteriores ficam em `docs/history/`; atalhos do macOS ficam em `launchers/macos/`.
 
 ## Convenções
 

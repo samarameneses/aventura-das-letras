@@ -13,7 +13,7 @@ Foram criados:
 - `tools/imu_detector.py`: detector experimental no Mac, calibração com três segundos de dados estáveis, sequência impulso/alívio de peso e bloqueio de saltos duplicados.
 - `tools/esp32_receiver.py`: recebe amostras por USB ou Wi-Fi e envia os comandos ao receptor local já existente no jogo.
 - `tools/prepare_esp32.py`: prepara os arquivos locais de configuração, sem instalar, compilar ou gravar a placa.
-- `Conectar sensor Wi-Fi.command`: atalho para iniciar o receptor depois da configuração.
+- `launchers/macos/Conectar sensor Wi-Fi.command`: atalho para iniciar o receptor depois da configuração.
 
 **O firmware foi escrito, mas ainda não foi compilado com a ferramenta do ESP32 nem gravado/testado na placa física.** O detector não está validado para movimentos reais das crianças. Testes sintéticos não demonstram precisão, conforto ou latência do conjunto real.
 
@@ -42,7 +42,7 @@ Esses comandos são instruções de preparação; não foram executados para ins
 2. Obter o IPv4 do Mac nos detalhes da conexão de rede. Reservar esse endereço no roteador evita reconfiguração caso ele mude.
 3. Reexecutar o preparador com os pinos confirmados, acrescentando `--wifi --mac-ip IP_DO_MAC`. Ele solicita o nome e a senha da rede no terminal local. A senha não precisa ser enviada pela conversa. A chave existente é reaproveitada.
 4. Recompilar e gravar o ESP32 ainda pelo cabo; depois usar alimentação portátil apropriada ao módulo, com conexões protegidas, antes do teste sem fio.
-5. Abrir **Conectar sensor Wi-Fi.command** e, no jogo, **Com sensor**. Se o macOS solicitar permissão para o receptor receber conexões locais, permitir para esse teste na rede doméstica. Não abrir portas do roteador para a internet.
+5. Abrir **launchers/macos/Conectar sensor Wi-Fi.command** e, no jogo, **Com sensor**. Se o macOS solicitar permissão para o receptor receber conexões locais, permitir para esse teste na rede doméstica. Não abrir portas do roteador para a internet.
 6. Calibrar e testar. No Speed Run, a corrida é automática; para combinar os modos, abrir Speed Run, selecionar a fase, pausar e escolher **Conectar sensor**. O salto passa a vir do movimento e os poderes continuam disponíveis nos botões.
 
 No modo Wi-Fi, o receptor usa apenas a biblioteca padrão do Python, sem pyserial. O jogo não precisa de nova exportação: o protocolo local é o mesmo. Ao terminar, Ctrl+C encerra o receptor. A ausência de amostras deixa o jogo detectar a desconexão e oferecer a continuação pelos botões.

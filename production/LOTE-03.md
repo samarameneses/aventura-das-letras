@@ -33,7 +33,7 @@ São bases estáticas com aparência pixelada ampliada. A saída ainda apresenta
 
 Foi usada a ferramenta de geração integrada do ChatGPT, `image_gen`, com uma chamada por imagem. O modelo efetivo não é exposto pela interface; portanto, a versão solicitada ChatGPT Image 2.5 continua não confirmada. Não foi usada uma API ou ferramenta de geração alternativa.
 
-Os prompts deste lote estão nos oito arquivos identificados no manifesto pelo campo `prompt_file`. O arquivo [lote-03-jobs.json](lote-03-jobs.json) também reúne prompts, referências e caminhos originais.
+Os prompts deste lote estão nos oito arquivos identificados no manifesto pelo campo `prompt_file`. O arquivo lote-03-jobs.json — registro local não distribuído (`production/lote-03-jobs.json`) também reúne prompts, referências e caminhos originais.
 
 ## Continuidade
 

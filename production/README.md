@@ -2,7 +2,7 @@
 
 A direção atual é pixel art de plataforma lateral. João Miguel, Luna, Lucas o Engenheiro e Samara foram criados a partir das referências pessoais fornecidas. Samara usa moletom marrom, jeans claro largo e sapatos escuros, conforme o look Nude Project. A referência de roupa não substituiu o rosto da Samara.
 
-[Galeria com animações](GALERIA.html) · [Manifesto](../assets/manifest.json) · [Prompts de referência](prompts/) · [Jogo e testes](../docs/10-entrega-e-sensor.md)
+[Galeria com animações](GALERIA.html) · [Manifesto](../assets/manifest.json) · [Prompts de referência](prompts/) · [Jogo e testes](../docs/history/10-entrega-e-sensor.md)
 
 Para começar uma aventura com seus próprios personagens, consulte o [prompt mestre personalizável](../docs/PROMPT-MESTRE.md).
 
@@ -27,4 +27,4 @@ As fotos e os originais HEIC permanecem em `references`. Não são incluídos em
 
 ## Atualização 0.4.0 — primavera e outono
 
-Quatro panoramas novos, gerados com image_gen integrada e preservados sem edição em `assets/backgrounds`. Os 48 cenários do jogo usam composições distintas desses templates. [Prompts e destinos](seasons-jobs.json) · [Conteúdo e validação](../docs/13-palavras-e-estacoes.md).
+Quatro panoramas novos, gerados com image_gen integrada e preservados sem edição em `assets/backgrounds`. Os 48 cenários do jogo usam composições distintas desses templates. Os jobs de geração ficam apenas no ambiente local; consulte os [prompts publicados](prompts/) · [Conteúdo e validação](../docs/history/13-palavras-e-estacoes.md).

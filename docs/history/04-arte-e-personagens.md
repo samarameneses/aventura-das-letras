@@ -17,10 +17,10 @@ As imagens passam por revisão, exportação, recorte e organização de quadros
 
 | Personagem | Referências | Roupa e acessórios | Traços essenciais | Estado |
 | --- | --- | --- | --- | --- |
-| João Miguel | [Recebida](../references/characters/previews/joao_miguel.png) | Blusa verde; calça e tênis completados como proposta | Cabelo escuro curto e sorriso | Arte pixelada criada; normalização e transparência pendentes |
-| Luna | [Recebida](../references/characters/previews/luna.png) | Blusa listrada rosa/vinho, calça rosa, tênis claros | Cabelo loiro comprido, presilha e sorriso | Arte pixelada criada; normalização e transparência pendentes |
-| Lucas o Engenheiro | [Recebida](../references/characters/previews/lucas_engenheiro.png) | Camiseta marrom, calça clara e tênis escuros | Óculos arredondados, cabelo escuro e barba | Arte pixelada criada; normalização e transparência pendentes |
-| Samara | [Recebida](../references/characters/previews/samara.png) | [Look Nude Project](../references/outfits/samara-nude-project.webp): moletom marrom, jeans claro largo e sapatos baixos escuros | Cabelo escuro ondulado e franja; mangas cobrem a tatuagem | Arte pixelada criada; normalização e transparência pendentes |
+| João Miguel | Recebida — registro local não distribuído (`references/characters/previews/joao_miguel.png`) | Blusa verde; calça e tênis completados como proposta | Cabelo escuro curto e sorriso | Arte pixelada criada; normalização e transparência pendentes |
+| Luna | Recebida — registro local não distribuído (`references/characters/previews/luna.png`) | Blusa listrada rosa/vinho, calça rosa, tênis claros | Cabelo loiro comprido, presilha e sorriso | Arte pixelada criada; normalização e transparência pendentes |
+| Lucas o Engenheiro | Recebida — registro local não distribuído (`references/characters/previews/lucas_engenheiro.png`) | Camiseta marrom, calça clara e tênis escuros | Óculos arredondados, cabelo escuro e barba | Arte pixelada criada; normalização e transparência pendentes |
+| Samara | Recebida — registro local não distribuído (`references/characters/previews/samara.png`) | Look Nude Project — registro local não distribuído (`references/outfits/samara-nude-project.webp`): moletom marrom, jeans claro largo e sapatos baixos escuros | Cabelo escuro ondulado e franja; mangas cobrem a tatuagem | Arte pixelada criada; normalização e transparência pendentes |
 
 Preservar cabelo, tom de pele, aparência da idade, proporções, roupas e sinais visuais observados nas referências. Não inventar características e tratá-las como reais. Não presumir que todos são crianças. Capacete, ferramentas e uniforme de Lucas o Engenheiro só entram se estiverem nas referências ou forem pedidos.
 
@@ -99,10 +99,10 @@ Verificar semelhança, proporções, cores, ausência de membros extras, partes 
 
 ## Lote atual em pixel art
 
-As seis bases iniciais de pixel art estão no [registro de produção](../production/README.md) e na [galeria](../production/GALERIA.html): quatro personagens, fundo e terreno. Samara foi gerada combinando sua foto pessoal como identidade e a nova referência como roupa; não foi usada a identidade da modelo do catálogo.
+As seis bases iniciais de pixel art estão no [registro de produção](../../production/README.md) e na [galeria](../../production/GALERIA.html): quatro personagens, fundo e terreno. Samara foi gerada combinando sua foto pessoal como identidade e a nova referência como roupa; não foi usada a identidade da modelo do catálogo.
 
 Essas seis bases são pixel art ampliada em RGB sem alpha; grade lógica uniforme, paleta exata, transparência e integração na engine precisam de preparação/validação. As animações anteriores em ilustração lisa estão superadas e não devem ser misturadas com este lote.
 
 ## Ampliação: retratos e objetos
 
-O [Lote 03](../production/LOTE-03.md) acrescenta oito imagens: quatro retratos, suporte vazio de letra, tênis de velocidade, checkpoint ativado e portal de chegada. Estes oito PNGs são RGBA com transparência real verificada. Normalização de grade, paleta, escala e bordas permanece pendente; ainda não são assets integrados ou animações. Total atual: 14 bases ativas.
+O [Lote 03](../../production/LOTE-03.md) acrescenta oito imagens: quatro retratos, suporte vazio de letra, tênis de velocidade, checkpoint ativado e portal de chegada. Estes oito PNGs são RGBA com transparência real verificada. Normalização de grade, paleta, escala e bordas permanece pendente; ainda não são assets integrados ou animações. Total atual: 14 bases ativas.

@@ -11,7 +11,7 @@ Data: 7 de setembro de 2026. Destino verificado: Mac Apple M4, Godot 4.7.2 ofici
 - Narração do sistema em português do Brasil com volume ajustável. A disponibilidade da voz foi verificada; não foi feita avaliação auditiva humana nem teste com criança.
 - Poder temporário de velocidade, sem acelerar a decisão nas atividades.
 - Receptor opcional e ponte Python para teste da comunicação; timeout, desafio de conexão, sequência, deduplicação e descarte de mensagens atrasadas.
-- Pacote `release/Aventura.pck`, abertura local por `Aventura das Letras.app` / `Jogar.command`, licenças do motor em `release/LICENCAS.txt`.
+- Pacote `release/Aventura.pck`, abertura local por `Aventura das Letras.app` / `launchers/macos/Jogar.command`, licenças do motor em `release/LICENCAS.txt`.
 
 O executável oficial arm64 foi extraído do aplicativo universal do Godot, após conferência do SHA512 oficial. O aplicativo original e seus metadados foram preservados; nenhuma proteção do macOS foi desativada. O launcher local não é uma distribuição notarizada. As fotografias pessoais e referências de roupa não fazem parte do pacote de jogo.
 

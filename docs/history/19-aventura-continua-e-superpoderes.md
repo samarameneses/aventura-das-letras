@@ -46,15 +46,15 @@ As imagens já geradas para personagens e cenários continuam sendo utilizadas. 
 
 ## Verificação
 
-- [43 verificações de poderes e continuidade](../evidence/powers-continuity-tests.json): seleção, persistência, dois controles, recarga, pausa, física dos oito poderes, três trechos consecutivos jogados só com saltos, continuidade do tempo/efeitos/corações, volta ao alfabeto, progresso normal e opção de trecho único.
-- [45 verificações da interface](../evidence/power-ui-tests.json) em uma janela real: seleção dos oito poderes, botões de ativação, efeitos em cena, pausa e configurações dentro da área visível.
-- [85 verificações de vidas/corrida](../evidence/lives-autorun-tests.json), incluindo conclusão das 68 fases com saltos; [397 de conteúdo e cenários](../evidence/curriculum-tests.json); [101 verificações gerais](../evidence/acceptance.json); [38 de cronômetro/recordes](../evidence/speedrun-tests.json); [25 da experiência sem avisos de erro](../evidence/uninterrupted-flow-tests.json); [6 de pausa por foco](../evidence/window-focus-tests.json).
-- [Verificação do pacote final](../evidence/pack-verification-v09.json) e [versão/hash](../release/verification.json).
+- 43 verificações de poderes e continuidade — registro local não distribuído (`evidence/powers-continuity-tests.json`): seleção, persistência, dois controles, recarga, pausa, física dos oito poderes, três trechos consecutivos jogados só com saltos, continuidade do tempo/efeitos/corações, volta ao alfabeto, progresso normal e opção de trecho único.
+- 45 verificações da interface — registro local não distribuído (`evidence/power-ui-tests.json`) em uma janela real: seleção dos oito poderes, botões de ativação, efeitos em cena, pausa e configurações dentro da área visível.
+- 85 verificações de vidas/corrida — registro local não distribuído (`evidence/lives-autorun-tests.json`), incluindo conclusão das 68 fases com saltos; 397 de conteúdo e cenários — registro local não distribuído (`evidence/curriculum-tests.json`); 101 verificações gerais — registro local não distribuído (`evidence/acceptance.json`); 38 de cronômetro/recordes — registro local não distribuído (`evidence/speedrun-tests.json`); 25 da experiência sem avisos de erro — registro local não distribuído (`evidence/uninterrupted-flow-tests.json`); 6 de pausa por foco — registro local não distribuído (`evidence/window-focus-tests.json`).
+- Verificação do pacote final — registro local não distribuído (`evidence/pack-verification-v09.json`) e versão/hash — registro local não distribuído (`release/verification.json`).
 
 Os testes usam perfis próprios, sem preencher as descobertas da família. Sensor e controle físicos ainda precisam de validação com a família.
 
 Referências de implementação consultadas pelo Context7: [movimento CharacterBody2D](https://docs.godotengine.org/en/4.7/tutorials/physics/using_character_body_2d.html) e [alterações de colisão adiadas](https://docs.godotengine.org/en/4.7/getting_started/first_2d_game/03.coding_the_player.html).
 
-![Seleção dos oito poderes](../evidence/v09-oito-poderes.png)
+Seleção dos oito poderes — registro local não distribuído (`evidence/v09-oito-poderes.png`)
 
-![Bolha e asas durante o jogo](../evidence/v09-bolha-em-acao.png)
+Bolha e asas durante o jogo — registro local não distribuído (`evidence/v09-bolha-em-acao.png`)

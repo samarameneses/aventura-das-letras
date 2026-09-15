@@ -4,7 +4,7 @@ O sensor é opcional. O Godot executa o jogo; o ESP32 envia medidas de aceleraç
 
 ## Montagem de referência e estado
 
-A montagem experimentada no desenvolvimento usa ESP32 clássico (NodeMCU ESP-32S/ESP32-D0WD-V3), MPU identificado pelo firmware, SDA no GPIO 21 e SCL no GPIO 22. O sensor foi experimentado fisicamente com o jogo. Isso não estabelece compatibilidade universal ou precisão em todos os movimentos: confira a placa, a alimentação, a identificação do sensor e a pinagem antes de conectar. Leia as notas técnicas em [24 — ESP32](24-esp32-usb-wifi.md) e [25 — MPU](25-teste-fisico-do-mpu.md).
+A montagem experimentada no desenvolvimento usa ESP32 clássico (NodeMCU ESP-32S/ESP32-D0WD-V3), MPU identificado pelo firmware, SDA no GPIO 21 e SCL no GPIO 22. O sensor foi experimentado fisicamente com o jogo. Isso não estabelece compatibilidade universal ou precisão em todos os movimentos: confira a placa, a alimentação, a identificação do sensor e a pinagem antes de conectar. Leia as notas técnicas em [24 — ESP32](history/24-esp32-usb-wifi.md) e [25 — MPU](history/25-teste-fisico-do-mpu.md).
 
 ## Preparação a partir de um clone
 
@@ -55,7 +55,7 @@ O computador e a placa devem se comunicar na mesma rede local. O receptor escuta
 
 ## Atalhos avançados de macOS
 
-`Configurar sensor Wi-Fi.command` e `tools/configure_sensor_wifi.py` automatizam um ambiente de bancada específico: exigem Arduino CLI local, core ESP32, esptool e um firmware USB de recuperação previamente validado. Esses arquivos privados não acompanham o clone. Para uma instalação nova, use o procedimento manual acima. `Jogar com sensor USB.command` e `Jogar com sensor Wi-Fi.command` também pressupõem esse ambiente preparado. O início mais portátil é abrir o receptor e o Godot separadamente.
+`launchers/macos/Configurar sensor Wi-Fi.command` e `tools/configure_sensor_wifi.py` automatizam um ambiente de bancada específico: exigem Arduino CLI local, core ESP32, esptool e um firmware USB de recuperação previamente validado. Esses arquivos privados não acompanham o clone. Para uma instalação nova, use o procedimento manual acima. `launchers/macos/Jogar com sensor USB.command` e `launchers/macos/Jogar com sensor Wi-Fi.command` também pressupõem esse ambiente preparado. O início mais portátil é abrir o receptor e o Godot separadamente.
 
 ## Testes
 

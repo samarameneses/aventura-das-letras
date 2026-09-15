@@ -1,7 +1,7 @@
 #!/bin/sh
-sensor_root="$(cd -- "$(dirname -- "$0")" && pwd)"
+sensor_root="$(cd -- "$(dirname -- "$0")/../.." && pwd)"
 if [ ! -f "$sensor_root/firmware/local/pairing-token.txt" ]; then
-  echo 'Primeiro configure e grave o ESP32. Consulte docs/24-esp32-usb-wifi.md.'
+  echo 'Primeiro configure e grave o ESP32. Consulte docs/SENSOR.md.'
   read -r sensor_wait
   exit 1
 fi

@@ -49,13 +49,13 @@ O formato de salvamento permanece v2. As descobertas e os recordes anteriores co
 
 ## Arquivos e verificação
 
-- [Vocabulário editável](../game/content/disyllables.json): as 100 palavras, divisões e temas.
-- [Currículo integrado](../game/content/curriculum.json): fases, alternativas, instruções, ajuda e cenários.
-- [397 verificações de currículo](../evidence/curriculum-tests.json): contagem, palavras únicas, divisões, percurso físico com saltos por todas as 68 fases, 332 coletas, portais, legibilidade, cenários, navegação e salvamento.
-- [19 verificações da nova interface](../evidence/disyllables-ui.json): avanço de monossílabas para dissílabas, aba e rolagem até a fase 20, ajuda BRIN · CAR, coleta de palavra longa e corrida completa com preservação do progresso da aventura.
-- [100 verificações de regressão](../evidence/acceptance.json) e [42 de Speed Run](../evidence/speedrun-tests.json).
-- [Captura do menu](../evidence/v05-dissilabas-menu.png) e [captura da ajuda](../evidence/v05-ajuda-duas-silabas.png).
+- [Vocabulário editável](../../game/content/disyllables.json): as 100 palavras, divisões e temas.
+- [Currículo integrado](../../game/content/curriculum.json): fases, alternativas, instruções, ajuda e cenários.
+- 397 verificações de currículo — registro local não distribuído (`evidence/curriculum-tests.json`): contagem, palavras únicas, divisões, percurso físico com saltos por todas as 68 fases, 332 coletas, portais, legibilidade, cenários, navegação e salvamento.
+- 19 verificações da nova interface — registro local não distribuído (`evidence/disyllables-ui.json`): avanço de monossílabas para dissílabas, aba e rolagem até a fase 20, ajuda BRIN · CAR, coleta de palavra longa e corrida completa com preservação do progresso da aventura.
+- 100 verificações de regressão — registro local não distribuído (`evidence/acceptance.json`) e 42 de Speed Run — registro local não distribuído (`evidence/speedrun-tests.json`).
+- Captura do menu — registro local não distribuído (`evidence/v05-dissilabas-menu.png`) e captura da ajuda — registro local não distribuído (`evidence/v05-ajuda-duas-silabas.png`).
 
 Os testes usam perfis e arquivos separados dos da família. A revisão visual foi feita no próprio jogo em uma janela no Mac. Sensor físico, controle físico e avaliação com as crianças continuam dependendo de uma sessão com a família.
 
-O pacote 0.5.0 foi exportado e validado com 68 fases, as 100 dissílabas, cenários, animações dos quatro personagens, Speed Run e gravação de progresso. [Validação do pacote](../evidence/pack-verification-v05.json) · [Versão e hash](../release/verification.json). A versão anterior continua preservada em `release/Aventura-v0.4.pck`.
+O pacote 0.5.0 foi exportado e validado com 68 fases, as 100 dissílabas, cenários, animações dos quatro personagens, Speed Run e gravação de progresso. Validação do pacote — registro local não distribuído (`evidence/pack-verification-v05.json`) · Versão e hash — registro local não distribuído (`release/verification.json`). A versão anterior continua preservada em `release/Aventura-v0.4.pck`.

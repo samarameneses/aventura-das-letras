@@ -36,7 +36,7 @@ Foram gerados quatro panoramas originais em pixel art com a ferramenta integrada
 
 As 48 fases usam **48 composições distintas desses quatro panoramas**, com enquadramento, orientação e variação suave de cores. Não são 48 imagens geradas individualmente. A sequência alterna um template de primavera com um de outono, e cada cenário tem um nome no mapa. Ao repetir uma fase, sua composição permanece a mesma, inclusive em Speed Run. Os cenários são decorativos: altura do salto, posições das escolhas, plataformas, pontos de retorno e regras do cronômetro foram preservados.
 
-Os PNGs originais foram copiados sem edição e continuam em [assets/backgrounds](../assets/backgrounds). A composição é feita pelo jogo; não foram criadas cópias rasterizadas para cada enquadramento. Os prompts completos, referências e destinos estão em [production/seasons-jobs.json](../production/seasons-jobs.json) e [production/prompts](../production/prompts). A procedência e os hashes estão em [assets/manifest.json](../assets/manifest.json). A ferramenta utilizada foi **image_gen integrada**, sem CLI/API externa; ela não expõe o identificador do modelo, portanto a versão solicitada “ChatGPT Image 2.5” não foi tecnicamente confirmada.
+Os PNGs originais foram copiados sem edição e continuam em [assets/backgrounds](../../assets/backgrounds). A composição é feita pelo jogo; não foram criadas cópias rasterizadas para cada enquadramento. Os prompts completos, referências e destinos estão em production/seasons-jobs.json — registro local não distribuído (`production/seasons-jobs.json`) e [production/prompts](../../production/prompts). A procedência e os hashes estão em [assets/manifest.json](../../assets/manifest.json). A ferramenta utilizada foi **image_gen integrada**, sem CLI/API externa; ela não expõe o identificador do modelo, portanto a versão solicitada “ChatGPT Image 2.5” não foi tecnicamente confirmada.
 
 | ID estável | Fase | Fundo |
 | --- | --- | --- |
@@ -97,13 +97,13 @@ O progresso segue separado por fase e perfil. As palavras entram depois de K/W/Y
 
 ## Verificação
 
-- **292 verificações de currículo e cenários:** percurso físico por todas as 48 fases, 232 coletas por saltos, chegada ao portal, textos dentro dos limites, 48 composições únicas, recortes dentro das imagens, troca de template entre fases, grafia das palavras, navegação, salvamento e migração. [Relatório](../evidence/curriculum-tests.json).
-- **100 verificações de regressão:** quatro personagens, movimentos, quedas, poderes, pausa, salvamento e conexão local simulada. [Relatório](../evidence/acceptance.json).
-- **42 verificações de Speed Run:** cronômetro, pausas, conclusão, recordes e separação da aventura. [Relatório](../evidence/speedrun-tests.json).
-- **Verificação visual no Mac:** menu Palavras, troca efetiva pelo botão Próxima fase, os quatro templates, acentos, FLOR/TREM, comemoração e corrida com palavras. [Relatório](../evidence/words-ui.json).
+- **292 verificações de currículo e cenários:** percurso físico por todas as 48 fases, 232 coletas por saltos, chegada ao portal, textos dentro dos limites, 48 composições únicas, recortes dentro das imagens, troca de template entre fases, grafia das palavras, navegação, salvamento e migração. Relatório — registro local não distribuído (`evidence/curriculum-tests.json`).
+- **100 verificações de regressão:** quatro personagens, movimentos, quedas, poderes, pausa, salvamento e conexão local simulada. Relatório — registro local não distribuído (`evidence/acceptance.json`).
+- **42 verificações de Speed Run:** cronômetro, pausas, conclusão, recordes e separação da aventura. Relatório — registro local não distribuído (`evidence/speedrun-tests.json`).
+- **Verificação visual no Mac:** menu Palavras, troca efetiva pelo botão Próxima fase, os quatro templates, acentos, FLOR/TREM, comemoração e corrida com palavras. Relatório — registro local não distribuído (`evidence/words-ui.json`).
 
-Capturas de exemplo: [outono com SOL](../evidence/v04-outono-bosque-sol.png), [primavera com PÉ](../evidence/v04-primavera-lago-pe.png), [pomar com TREM](../evidence/v04-primavera-pomar-trem.png).
+Capturas de exemplo: outono com SOL — registro local não distribuído (`evidence/v04-outono-bosque-sol.png`), primavera com PÉ — registro local não distribuído (`evidence/v04-primavera-lago-pe.png`), pomar com TREM — registro local não distribuído (`evidence/v04-primavera-pomar-trem.png`).
 
 As capturas de resultado usam uma partida de teste separada para conferir a interface; os percursos completos com saltos são verificados no teste de currículo. Nenhum perfil da família recebe as conquistas de teste. A validação com as crianças, o controle físico e o sensor físico ainda não foi realizada.
 
-O pacote exportado 0.4.0 também foi aberto e validado: quatro personagens com todas as animações, 48 fases, palavras acentuadas, quatro panoramas, cronômetro e gravação de progresso. [Verificação do pacote](../evidence/pack-verification-v04.json) · [Versão e hash](../release/verification.json). O pacote anterior foi preservado em `release/Aventura-v0.3.pck`.
+O pacote exportado 0.4.0 também foi aberto e validado: quatro personagens com todas as animações, 48 fases, palavras acentuadas, quatro panoramas, cronômetro e gravação de progresso. Verificação do pacote — registro local não distribuído (`evidence/pack-verification-v04.json`) · Versão e hash — registro local não distribuído (`release/verification.json`). O pacote anterior foi preservado em `release/Aventura-v0.3.pck`.

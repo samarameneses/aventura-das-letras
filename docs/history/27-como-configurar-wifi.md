@@ -3,7 +3,7 @@
 ## Configurar uma vez
 
 1. Deixe a ESP32 ligada ao Mac pelo cabo USB, com o sensor conectado como no teste.
-2. Abra **Configurar sensor Wi-Fi.command**, na pasta do jogo.
+2. Abra **launchers/macos/Configurar sensor Wi-Fi.command**, na pasta do jogo.
 3. Digite o nome da rede doméstica com 2,4 GHz e pressione Enter.
 4. Digite a senha e pressione Enter. Por proteção, nenhum caractere aparece enquanto você digita; isso é normal. Não envie a senha no chat.
 5. Aguarde a preparação, a gravação e o teste de recebimento. Não retire o cabo nessa etapa.
@@ -15,7 +15,7 @@ O teste exige 100 amostras válidas recebidas pelo Wi-Fi. Enquanto isso, o cabo 
 
 Feche o jogo, retire o cabo do Mac e conecte a alimentação USB da ESP32 a um power bank. Use a entrada USB da placa; não ligue uma bateria solta diretamente nos pinos. Mantenha placa e fios firmes, com os contatos protegidos. A troca de alimentação reinicia a placa.
 
-Abra **Jogar com sensor Wi-Fi.command**. Aguarde o sinal de pronto e clique em **Jogar com sensor**. O personagem corre automaticamente. O Mac precisa continuar ligado e conectado à mesma rede local. Não é necessário publicar o jogo nem abrir portas no roteador.
+Abra **launchers/macos/Jogar com sensor Wi-Fi.command**. Aguarde o sinal de pronto e clique em **Jogar com sensor**. O personagem corre automaticamente. O Mac precisa continuar ligado e conectado à mesma rede local. Não é necessário publicar o jogo nem abrir portas no roteador.
 
 Se o power bank desligar sozinho, ele pode estar interrompendo a saída com consumo baixo; nesse caso, será necessário usar uma alimentação que mantenha a saída USB ativa para esse dispositivo.
 

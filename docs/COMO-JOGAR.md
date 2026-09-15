@@ -1,26 +1,26 @@
 # Aventura das Letras — como jogar
 
-> **Instalação pelo GitHub:** importe `game/project.godot` no Godot 4.7.2 e pressione F5, ou execute `python3 tools/run_game.py`. Referências abaixo a aplicativos exportados são opções de instalações locais; consulte o [README](README.md) e o [guia do sensor](docs/SENSOR.md) para um clone novo.
+[Instalação](../README.md#comece-em-poucos-minutos) · [Sensor opcional](SENSOR.md) · [Documentação](README.md)
 
-**Erros e acertos (11/09/2026):** errar toca um som breve e mostra um aviso, sem voltar ao início. Quando os corações acabam, as três vidas se renovam no mesmo lugar e os acertos são mantidos. Acertar dispara uma explosão de confetes no personagem e uma chuva colorida pela tela, com um som alegre. Vale para aventura e Speed Run; substitui a regra anterior de reiniciar a família.
+## Abrir o jogo
 
-Alfabeto, sílabas e palavras para este Mac Apple Silicon, versão 0.12.0, 8 de setembro de 2026.
+1. Instale Godot 4.7.2 Standard e baixe ou clone o repositório.
+2. No Godot, importe `game/project.godot` e aguarde a importação dos recursos.
+3. Pressione **F5 (Executar projeto)**.
 
-## Abrir
-
-Na pasta do projeto, abra **Aventura das Letras.app** com dois cliques. O arquivo **Jogar.command** é uma segunda forma de abrir o mesmo jogo. Não é necessário instalar o editor nem conectar o sensor. Mantenha as pastas `tools/runtime` e `release` junto do aplicativo: esta entrega é uma instalação local, não um aplicativo independente para enviar sozinho a outro computador.
+Também é possível executar `python3 tools/run_game.py` na raiz do repositório. No macOS, o atalho **Jogar.command**, dentro de [launchers/macos/](../launchers/macos/README.md), abre o mesmo código-fonte. O clone inclui os recursos do jogo; o motor Godot precisa ser instalado separadamente. O sensor é opcional.
 
 Escolha quem vai brincar (João Miguel, Luna ou Convidado), depois escolha um dos quatro personagens e **Começar aventura**. O perfil guarda as descobertas; o personagem muda a aparência. Qualquer perfil pode escolher João Miguel, Luna, Lucas o Engenheiro ou Samara.
 
-## Novo menu
+## Menu principal
 
 A abertura mostra o pomar, os quatro personagens e as ações principais. Escolha o perfil, clique no personagem e use **Começar aventura** ou **Continuar aventura**. **Speed Run**, **Escolher fase**, **Poderes e duração**, **Com sensor**, **Ajustes** e **Sair** ficam na mesma tela.
 
-Você pode redimensionar a janela. Em formato estreito, o menu vira uma coluna; quando necessário, role para ver as demais opções. Tab, setas e controle também levam o foco aos botões fora da área visível. As fases mantêm sua proporção original, sem esticar personagens. [Telas e detalhes](docs/20-menu-pixel-responsivo.md).
+Você pode redimensionar a janela. Em formato estreito, o menu vira uma coluna; quando necessário, role para ver as demais opções. Tab, setas e controle também levam o foco aos botões fora da área visível. As fases mantêm sua proporção original, sem esticar personagens. [Telas e detalhes](history/20-menu-pixel-responsivo.md).
 
 ## Jogar pelo Godot
 
-Com o projeto aberto no editor, clique no botão **▶ Executar projeto**, no canto superior direito, para abrir o jogo. No menu do jogo, escolha o perfil, o personagem e **Começar aventura** ou **Continuar aventura**. Você também pode abrir **Aventura das Letras.app** diretamente, sem passar pelo editor.
+Com o projeto aberto no editor, clique no botão **▶ Executar projeto**, no canto superior direito, para abrir o jogo. No menu do jogo, escolha o perfil, o personagem e **Começar aventura** ou **Continuar aventura**.
 
 ## Controles
 
@@ -37,7 +37,7 @@ Com o projeto aberto no editor, clique no botão **▶ Executar projeto**, no ca
 
 Os nomes dos botões seguem a disposição Xbox; controles de outras marcas podem ter símbolos diferentes. A navegação foi testada com eventos simulados de controle; nenhum controle físico estava disponível.
 
-Em **Ajustes**, troque teclas, ative/desative a narração ou regule seu volume. As instruções usam uma voz em português do Brasil instalada no Mac. A voz Luciana foi encontrada neste computador. Não há música ou efeitos sonoros nesta primeira entrega.
+Em **Ajustes**, troque teclas, ative/desative a narração ou regule seu volume. A narração usa uma voz em português disponível no sistema operacional. Os acertos têm som e confetes; erros recebem um aviso breve, preservando as descobertas.
 
 ## A primeira aventura
 
@@ -59,7 +59,7 @@ Em **Poderes e duração**, selecione **Poder 1** ou **Poder 2** e depois um dos
 
 Use **E e Q** no teclado, **X e B** no controle ou os dois botões na tela. Os botões mostram o nome do poder, quando está ativo e sua recarga. **Espaço**, A no controle ou o botão **Pular** continuam acionando o salto. O sensor opcional também continua acionando o salto; não é necessário repetir saltos físicos para usar o pulo duplo, pois ele pode ser acionado por botão.
 
-Os poderes são supervelocidade, pulo duplo, asas mágicas, ímã das letras, bolha flutuante, ponte de arco-íris, tempo de tartaruga e luz das descobertas. [Efeitos, duração e recarga](docs/19-aventura-continua-e-superpoderes.md).
+Os poderes são supervelocidade, pulo duplo, asas mágicas, ímã das letras, bolha flutuante, ponte de arco-íris, tempo de tartaruga e luz das descobertas. [Efeitos, duração e recarga](history/19-aventura-continua-e-superpoderes.md).
 
 ## Palavras e mudança de cenário
 
@@ -67,19 +67,19 @@ Abra **Escolher fase → Palavras** para jogar com SOL, MAR, PÉ, MÃO, PÃO, FL
 
 Ao escolher outra fase ou apertar **Próxima fase**, o cenário muda automaticamente. A trilha alterna primavera e outono: pomares floridos, lagos, bosques dourados e vales ao pôr do sol. Cada fase tem um enquadramento e cores próprios, que permanecem iguais ao repeti-la. O nome do cenário aparece no mapa.
 
-[Lista das palavras e cenários](docs/13-palavras-e-estacoes.md).
+[Lista das palavras e cenários](history/13-palavras-e-estacoes.md).
 
 ## Nova etapa: 100 palavras dissílabas
 
 Em **Escolher fase → Dissílabas**, escolha entre 20 fases de cinco palavras: brinquedos, casa, roupas, família, alimentos, animais e outros temas. São palavras como BOLA, CASA, MAMÃE, QUEIJO e BRINCAR. Use **H** para ver a divisão em duas sílabas. A etapa também funciona em **Speed Run → Dissílabas** e vem depois das monossílabas no avanço por **Próxima fase**.
 
-[Lista das 100 palavras](docs/14-cem-palavras-dissilabas.md).
+[Lista das 100 palavras](history/14-cem-palavras-dissilabas.md).
 
 ## Retomar depois
 
 O jogo salva após as descobertas, no ponto de retorno e ao mudar configurações. **Continuar aventura** retoma o último ponto salvo. A posição exata de cada passo não é salva. **Repetir esta fase** reinicia somente a fase escolhida e mantém o histórico de tentativas e as outras fases. Use **Escolher fase** no início ou na pausa para praticar uma família específica.
 
-O progresso fica em `~/Library/Application Support/Godot/app_userdata/Aventura das Letras/progress.json`, com uma cópia `.bak` para recuperação. Na primeira atualização, o arquivo antigo é preservado também em `.v1.bak`. Os testes usam arquivos separados na pasta `evidence`, sem preencher os perfis da família. Se o disco não permitir salvar, o jogo mostra uma mensagem.
+No macOS, o progresso fica em `~/Library/Application Support/Godot/app_userdata/Aventura das Letras/progress.json`, com uma cópia `.bak` para recuperação. Na primeira atualização, o arquivo antigo é preservado também em `.v1.bak`. Os testes usam arquivos separados na pasta `evidence`, sem preencher os perfis da família. Se o disco não permitir salvar, o jogo mostra uma mensagem.
 
 ## Vidas
 
@@ -95,17 +95,17 @@ Os acertos continuam com comemoração. É possível chegar ao portal mesmo deix
 
 O cronômetro segue correndo após erros. A pausa voluntária e a proteção por perda de foco ou conexão do sensor continuam disponíveis. Quedas ainda retornam ao ponto seguro, preservando descobertas e corações.
 
-**Reiniciar corrida** na pausa e **Jogar outra vez** no final são escolhas voluntárias para começar outra partida. Corridas ficam separadas da aventura e não guardam a posição ao sair para os personagens. [Atualização sem interrupções por erro](docs/18-brincadeira-sem-interrupcoes.md).
+**Reiniciar corrida** na pausa e **Jogar outra vez** no final são escolhas voluntárias para começar outra partida. Corridas ficam separadas da aventura e não guardam a posição ao sair para os personagens. [Atualização sem interrupções por erro](history/18-brincadeira-sem-interrupcoes.md).
 
 ## Sensor opcional
 
 O jogo funciona inteiro sem sensor. **Com sensor** está preparado para receber o salto de uma ponte local; o teclado/controle continua responsável por andar e também pode pular. Se a conexão cair, o jogo pausa e oferece **Continuar sem sensor**, preservando o progresso. Pausar e reconectar exige nova calibração.
 
-A placa e o código do projeto de carros ainda não foram informados. A integração do sensor físico e o reconhecimento do gesto ainda não estão concluídos. O simulador entregue serve para testar a comunicação, não para colocar na criança. O [guia de integração](docs/10-entrega-e-sensor.md) registra o que está pronto e o que depende do hardware.
+A integração inclui firmware ESP32 e receptor Python por USB ou Wi-Fi local. A montagem de referência foi experimentada fisicamente; outras placas e movimentos precisam de validação. Siga o [guia do sensor](SENSOR.md) para preparar sua montagem, gerar configurações próprias e conectar o jogo.
 
 ## Primeiro teste em família
 
-Comece pelo teclado, com um adulto acompanhando. Observe se a criança entende como escolher, alcançar a letra e pedir uma pista. Registre quais instruções precisaram ser repetidas e se a altura/distância dos saltos está confortável. Esses resultados orientarão os ajustes de dificuldade e as próximas atividades com palavras mais longas e novos mundos. Consulte a [lista de famílias e combinações](docs/11-alfabeto-silabas-e-comemoracoes.md).
+Comece pelo teclado, com um adulto acompanhando. Observe se a criança entende como escolher, alcançar a letra e pedir uma pista. Registre quais instruções precisaram ser repetidas e se a altura/distância dos saltos está confortável. Esses resultados orientarão os ajustes de dificuldade e as próximas atividades com palavras mais longas e novos mundos. Consulte a [lista de famílias e combinações](history/11-alfabeto-silabas-e-comemoracoes.md).
 
 ## Controles sobre o cenário
 

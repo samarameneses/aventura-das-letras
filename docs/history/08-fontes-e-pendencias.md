@@ -66,4 +66,4 @@ O formato 2D e o modo sem sensor não são pendências. Não reabrir a escolha d
 
 Há uma primeira fase jogável neste Mac Apple M4. O conjunto selecionado tem 35 imagens pixeladas, 30 integradas, incluindo 20 folhas de animação. Os testes de percurso dos quatro personagens e a ponte local do sensor passaram. A precisão do gesto físico, a autonomia do sensor, o desempenho em outros aparelhos e os resultados de aprendizagem ainda dependem de validação específica. Consulte as evidências da versão 0.1.0 no documento de entrega.
 
-Registro do lote: [produção de arte](../production/README.md). A geração integrada utilizada não informou o identificador do modelo; não foi registrada como confirmação de Image 2.5.
+Registro do lote: [produção de arte](../../production/README.md). A geração integrada utilizada não informou o identificador do modelo; não foi registrada como confirmação de Image 2.5.

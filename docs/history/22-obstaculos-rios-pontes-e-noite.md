@@ -29,6 +29,6 @@ O contato com lava é registrado como `lava_contact`, separado de erros nas resp
 
 Os testes usam perfis próprios na pasta `evidence`; não alteram o perfil familiar. O sensor físico não foi testado nesta atualização.
 
-![Lava à noite](../evidence/v12-noite-lava.png)
+Lava à noite — registro local não distribuído (`evidence/v12-noite-lava.png`)
 
-![Ponte de dia](../evidence/v12-dia-ponte.png)
+Ponte de dia — registro local não distribuído (`evidence/v12-dia-ponte.png`)

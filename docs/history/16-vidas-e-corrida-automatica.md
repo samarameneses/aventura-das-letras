@@ -36,15 +36,15 @@ O aplicativo abre o menu normalmente. Para atender à abertura direta da partida
 
 ## Verificação
 
-- [88 verificações de vidas e corrida automática](../evidence/lives-autorun-tests.json): vidas, erros, repetição de colisão, esgotamento, reinício, persistência, compatibilidade, separação de recordes, poder e conclusão das **68 fases usando apenas saltos**, sem comandos de direção.
-- [38 verificações de cronômetro e recordes](../evidence/speedrun-tests.json): pausas, quedas, conclusão, melhor tempo, reinício e preservação do progresso normal.
-- [397 verificações de conteúdo e percurso normal](../evidence/curriculum-tests.json): todas as fases, letras, sílabas, palavras, cenários, textos e salvamento.
-- [100 verificações de regressão](../evidence/acceptance.json): quatro personagens, controles, quedas, poderes, salvamento e comunicação local simulada.
-- [Seis verificações de foco de janela](../evidence/window-focus-tests.json).
-- [Conferência visual da interface](../evidence/autorun-ui.json) e [teste de abertura direta](../evidence/direct-speedrun-tests.json).
+- 88 verificações de vidas e corrida automática — registro local não distribuído (`evidence/lives-autorun-tests.json`): vidas, erros, repetição de colisão, esgotamento, reinício, persistência, compatibilidade, separação de recordes, poder e conclusão das **68 fases usando apenas saltos**, sem comandos de direção.
+- 38 verificações de cronômetro e recordes — registro local não distribuído (`evidence/speedrun-tests.json`): pausas, quedas, conclusão, melhor tempo, reinício e preservação do progresso normal.
+- 397 verificações de conteúdo e percurso normal — registro local não distribuído (`evidence/curriculum-tests.json`): todas as fases, letras, sílabas, palavras, cenários, textos e salvamento.
+- 100 verificações de regressão — registro local não distribuído (`evidence/acceptance.json`): quatro personagens, controles, quedas, poderes, salvamento e comunicação local simulada.
+- Seis verificações de foco de janela — registro local não distribuído (`evidence/window-focus-tests.json`).
+- Conferência visual da interface — registro local não distribuído (`evidence/autorun-ui.json`) e teste de abertura direta — registro local não distribuído (`evidence/direct-speedrun-tests.json`).
 
-Capturas: [corrida e três corações](../evidence/v06-corrida-automatica.png), [vida perdida](../evidence/v06-dois-coracoes.png), [recomeçar](../evidence/v06-recomecar.png).
+Capturas: corrida e três corações — registro local não distribuído (`evidence/v06-corrida-automatica.png`), vida perdida — registro local não distribuído (`evidence/v06-dois-coracoes.png`), recomeçar — registro local não distribuído (`evidence/v06-recomecar.png`).
 
 Os testes usam arquivos próprios, sem preencher conquistas nos perfis da família. Sensor físico e controle físico continuam dependendo de validação com os dispositivos da família; os comandos simulados e a comunicação local foram testados.
 
-O pacote final 0.6.0 também foi validado, incluindo movimento automático real sem direção pressionada e três corações na interface. [Verificação do pacote](../evidence/pack-verification-v06.json) · [Versão e hash](../release/verification.json). A versão anterior permanece em `release/Aventura-v0.5.1.pck`.
+O pacote final 0.6.0 também foi validado, incluindo movimento automático real sem direção pressionada e três corações na interface. Verificação do pacote — registro local não distribuído (`evidence/pack-verification-v06.json`) · Versão e hash — registro local não distribuído (`release/verification.json`). A versão anterior permanece em `release/Aventura-v0.5.1.pck`.

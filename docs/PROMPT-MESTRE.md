@@ -133,4 +133,4 @@ Para a arte, use o guia de consistência criado para o seu elenco antes de solic
 - **Criar do zero:** use o prompt acima em uma conversa e pasta novas. O nome, o elenco, o motor e as escolhas técnicas poderão ser definidos para a sua proposta.
 - **Adaptar a Aventura das Letras:** faça um fork e siga o [README](../README.md) e o [guia de contribuição](../CONTRIBUTING.md). O jogo existente, seus recursos e sua documentação já oferecem uma base para modificações.
 
-Para consultar exemplos de produção deste jogo, veja os [prompts de arte](07-prompts.md), o [registro de produção](../production/README.md) e o [guia do sensor](SENSOR.md). Esses exemplos mostram decisões específicas deste projeto; personalize-os para o seu elenco e ambiente.
+Para consultar exemplos de produção deste jogo, veja os [prompts de arte](history/07-prompts.md), o [registro de produção](../production/README.md) e o [guia do sensor](SENSOR.md). Esses exemplos mostram decisões específicas deste projeto; personalize-os para o seu elenco e ambiente.

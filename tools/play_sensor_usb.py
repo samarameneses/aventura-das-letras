@@ -25,13 +25,13 @@ def main():
         settings_path=root/'firmware/local/wifi-settings.json'
         settings=json.loads(settings_path.read_text()) if settings_path.exists() else {}
         if not settings.get('verified'):
-            print('Abra primeiro Configurar sensor Wi-Fi.command com a ESP32 ligada por USB.')
+            print('Abra primeiro launchers/macos/Configurar sensor Wi-Fi.command com a ESP32 ligada por USB.')
             return 1
         try: address=mac_ip()
         except (OSError,ValueError,subprocess.CalledProcessError):
             print('Conecte este Mac ao Wi-Fi antes de abrir o jogo.');return 1
         if address!=settings.get('mac_ip'):
-            print('O endereço do Mac mudou. Abra Configurar sensor Wi-Fi.command para atualizar a ESP32.')
+            print('O endereço do Mac mudou. Abra launchers/macos/Configurar sensor Wi-Fi.command para atualizar a ESP32.')
             return 1
     probe = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
     try:
