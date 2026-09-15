@@ -99,7 +99,7 @@ func run():
  check(not s.accept_packet(jump_packet,now+3501),"duplicate jump rejected")
  var old=packet(s,4,"jump");old.event_id=2;old.sent_at_ms-=1000
  check(not s.accept_packet(old,now+4000),"late packet rejected")
- main.mode="sensor";main.screen="playing";s.last_seen=Time.get_ticks_msec()-800;s._process(0)
+ main.mode="sensor";main.screen="playing";s.last_seen=Time.get_ticks_msec()-1300;s._process(0)
  check(main.screen=="sensor_lost" and not main.world.player.active,"sensor loss pauses gameplay")
  main.mode="buttons";s.deactivate();main.resume_game()
  check(main.screen=="playing" and data.round_progress().completed==completed,"continue without sensor preserves progress")
