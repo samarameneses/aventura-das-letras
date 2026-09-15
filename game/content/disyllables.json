@@ -1,0 +1,212 @@
+{
+  "description": "Seleção editorial de 100 palavras familiares ao cotidiano infantil; não é um ranking estatístico de frequência.",
+  "sources": [
+    "https://ceale.fae.ufmg.br/glossarioceale/verbetes/silaba",
+    "https://michaelis.uol.com.br/moderno-portugues/nocoes-gramaticais/regras-para-divisao-silabica/",
+    "https://www.dicio.com.br/meia/",
+    "https://www.dicio.com.br/jarra/",
+    "https://www.dicio.com.br/brincar/"
+  ],
+  "groups": [
+    {
+      "title": "Brinquedos",
+      "words": [
+        "BO-LA",
+        "DA-DO",
+        "PI-PA",
+        "JO-GO",
+        "PE-ÇA"
+      ]
+    },
+    {
+      "title": "Brincadeiras",
+      "words": [
+        "PU-LO",
+        "COR-DA",
+        "A-RO",
+        "PAR-QUE",
+        "PRA-ÇA"
+      ]
+    },
+    {
+      "title": "Nossa casa",
+      "words": [
+        "CA-SA",
+        "ME-SA",
+        "CA-MA",
+        "SO-FÁ",
+        "POR-TA"
+      ]
+    },
+    {
+      "title": "Na cozinha",
+      "words": [
+        "CO-PO",
+        "PRA-TO",
+        "GAR-FO",
+        "PO-TE",
+        "JAR-RA"
+      ]
+    },
+    {
+      "title": "No quarto",
+      "words": [
+        "LI-VRO",
+        "LEN-ÇOL",
+        "COL-CHA",
+        "CAI-XA",
+        "BER-ÇO"
+      ]
+    },
+    {
+      "title": "Nossas roupas",
+      "words": [
+        "ROU-PA",
+        "MEI-A",
+        "CAL-ÇA",
+        "BLU-SA",
+        "BO-NÉ"
+      ]
+    },
+    {
+      "title": "Hora de cuidar",
+      "words": [
+        "BA-NHO",
+        "DEN-TE",
+        "PEN-TE",
+        "FRAL-DA",
+        "ROS-TO"
+      ]
+    },
+    {
+      "title": "Nosso corpo",
+      "words": [
+        "BO-CA",
+        "DE-DO",
+        "BRA-ÇO",
+        "PER-NA",
+        "NA-RIZ"
+      ]
+    },
+    {
+      "title": "Nossa família",
+      "words": [
+        "MA-MÃE",
+        "PA-PAI",
+        "VO-VÓ",
+        "VO-VÔ",
+        "BE-BÊ"
+      ]
+    },
+    {
+      "title": "Na aula",
+      "words": [
+        "LÁ-PIS",
+        "TIN-TA",
+        "PIN-CEL",
+        "PA-PEL",
+        "AU-LA"
+      ]
+    },
+    {
+      "title": "Hora do lanche",
+      "words": [
+        "BO-LO",
+        "LEI-TE",
+        "SU-CO",
+        "QUEI-JO",
+        "DO-CE"
+      ]
+    },
+    {
+      "title": "Nossas frutas",
+      "words": [
+        "U-VA",
+        "MA-ÇÃ",
+        "PE-RA",
+        "MAN-GA",
+        "CO-CO"
+      ]
+    },
+    {
+      "title": "Na refeição",
+      "words": [
+        "AR-ROZ",
+        "FEI-JÃO",
+        "CAR-NE",
+        "SO-PA",
+        "O-VO"
+      ]
+    },
+    {
+      "title": "Bichos conhecidos",
+      "words": [
+        "GA-TO",
+        "PA-TO",
+        "SA-PO",
+        "VA-CA",
+        "POR-CO"
+      ]
+    },
+    {
+      "title": "Mais bichos",
+      "words": [
+        "PEI-XE",
+        "UR-SO",
+        "TI-GRE",
+        "ZE-BRA",
+        "RA-TO"
+      ]
+    },
+    {
+      "title": "Na natureza",
+      "words": [
+        "CHU-VA",
+        "VEN-TO",
+        "NU-VEM",
+        "FO-LHA",
+        "PE-DRA"
+      ]
+    },
+    {
+      "title": "Vamos passear",
+      "words": [
+        "CAR-RO",
+        "MO-TO",
+        "BAR-CO",
+        "RU-A",
+        "PON-TE"
+      ]
+    },
+    {
+      "title": "Nossas cores",
+      "words": [
+        "RO-SA",
+        "RO-XO",
+        "VER-DE",
+        "PRE-TO",
+        "BRAN-CO"
+      ]
+    },
+    {
+      "title": "O que sentimos",
+      "words": [
+        "A-MOR",
+        "FE-LIZ",
+        "TRIS-TE",
+        "ME-DO",
+        "RI-SO"
+      ]
+    },
+    {
+      "title": "O que fazemos",
+      "words": [
+        "PU-LAR",
+        "AN-DAR",
+        "BRIN-CAR",
+        "CAN-TAR",
+        "DOR-MIR"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+name: Relatar um erro / Bug report
+description: Ajude a reproduzir e corrigir um problema.
+labels: [bug]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: O que aconteceu?
+      description: Descreva também o comportamento esperado. Não inclua dados pessoais ou credenciais.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Como reproduzir
+      description: Passos, fase, personagem e modo usado.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Ambiente
+      placeholder: Sistema, versão do Godot e revisão do projeto; placa/sensor se aplicável.
+    validations:
+      required: true

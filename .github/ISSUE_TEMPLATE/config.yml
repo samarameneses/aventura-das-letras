@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Dúvidas e ideias
+    url: https://github.com/Sa-Meneses/aventura-das-letras/discussions
+    about: Converse com a comunidade.
+  - name: Relato privado de segurança
+    url: https://github.com/Sa-Meneses/aventura-das-letras/security/advisories/new
+    about: Não publique vulnerabilidades ou credenciais em issues públicas.

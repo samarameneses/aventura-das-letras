@@ -1,0 +1,6 @@
+[
+ {"id":"letra_a","skill":"letter_name","target":"A","options":["A","M"],"instruction":"Encontre a letra A.","spoken":"Encontre a letra á.","hint":"A letra A tem duas pernas e um tracinho no meio.","x":400},
+ {"id":"letra_m","skill":"letter_name","target":"M","options":["A","M"],"instruction":"Encontre a letra M.","spoken":"Encontre a letra eme.","hint":"A letra M tem duas pontas em cima e um encontro no meio.","x":820},
+ {"id":"letra_l","skill":"letter_name","target":"L","options":["L","A"],"instruction":"Encontre a letra L.","spoken":"Encontre a letra ele.","hint":"A letra L tem um traço em pé e outro deitado.","x":1330},
+ {"id":"quantidade_3","skill":"quantity","target":"3","options":["2","3"],"instruction":"Encontre o grupo com 3 estrelas.","spoken":"Encontre o grupo com três estrelas.","hint":"Conte as estrelas com calma: uma, duas, três.","x":1830}
+]

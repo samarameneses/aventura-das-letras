@@ -1,0 +1,45 @@
+# Private configuration, credentials and local measurements
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+firmware/aventura_esp32/config.h
+firmware/local/
+firmware/build/
+evidence/
+references/
+COMO-RETOMAR-PROJETO.md
+.publication-private/
+
+# Installed tools, exports and caches
+tools/.sensor-venv/
+tools/arduino-cli/
+tools/arduino-data/
+tools/arduino-downloads/
+tools/arduino-user/
+tools/runtime/
+release/
+builds/
+*.app/
+.godot/
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+*.log
+*.bak
+*.tmp
+*.pck
+*.bin
+*.elf
+*.tar.gz
+*.zip
+
+# Private generation jobs; prompts and artwork remain versioned
+production/*job*.json
+.codex/
+.agents/

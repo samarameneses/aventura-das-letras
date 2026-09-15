@@ -1,0 +1,6425 @@
+{
+  "version": 1,
+  "stages": [
+    {
+      "id": "alfabeto_01",
+      "title": "Alfabeto · A a E",
+      "group": "alfabeto",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "alfabeto_01_1",
+          "options": [
+            "A",
+            "B"
+          ],
+          "x": 400,
+          "target": "A",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra A.",
+          "spoken": "Encontre a letra á.",
+          "hint": "Procure uma letra igual a esta: A.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_01_2",
+          "options": [
+            "C",
+            "B"
+          ],
+          "x": 820,
+          "target": "B",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra B.",
+          "spoken": "Encontre a letra bê.",
+          "hint": "Procure uma letra igual a esta: B.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_01_3",
+          "options": [
+            "C",
+            "D"
+          ],
+          "x": 1240,
+          "target": "C",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra C.",
+          "spoken": "Encontre a letra cê.",
+          "hint": "Procure uma letra igual a esta: C.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_01_4",
+          "options": [
+            "E",
+            "D"
+          ],
+          "x": 1660,
+          "target": "D",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra D.",
+          "spoken": "Encontre a letra dê.",
+          "hint": "Procure uma letra igual a esta: D.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_01_5",
+          "options": [
+            "E",
+            "A"
+          ],
+          "x": 2080,
+          "target": "E",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra E.",
+          "spoken": "Encontre a letra é.",
+          "hint": "Procure uma letra igual a esta: E.",
+          "example": ""
+        }
+      ],
+      "scenery": {
+        "id": "alfabeto_01",
+        "template": "primavera-pomar",
+        "title": "Primavera · Pomar florido",
+        "view": 0.0,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "alfabeto_02",
+      "title": "Alfabeto · F a J",
+      "group": "alfabeto",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "alfabeto_02_1",
+          "options": [
+            "F",
+            "G"
+          ],
+          "x": 400,
+          "target": "F",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra F.",
+          "spoken": "Encontre a letra éfe.",
+          "hint": "Procure uma letra igual a esta: F.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_02_2",
+          "options": [
+            "H",
+            "G"
+          ],
+          "x": 820,
+          "target": "G",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra G.",
+          "spoken": "Encontre a letra gê.",
+          "hint": "Procure uma letra igual a esta: G.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_02_3",
+          "options": [
+            "H",
+            "I"
+          ],
+          "x": 1240,
+          "target": "H",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra H.",
+          "spoken": "Encontre a letra agá.",
+          "hint": "Procure uma letra igual a esta: H.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_02_4",
+          "options": [
+            "J",
+            "I"
+          ],
+          "x": 1660,
+          "target": "I",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra I.",
+          "spoken": "Encontre a letra i.",
+          "hint": "Procure uma letra igual a esta: I.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_02_5",
+          "options": [
+            "J",
+            "F"
+          ],
+          "x": 2080,
+          "target": "J",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra J.",
+          "spoken": "Encontre a letra jota.",
+          "hint": "Procure uma letra igual a esta: J.",
+          "example": ""
+        }
+      ],
+      "scenery": {
+        "id": "alfabeto_02",
+        "template": "outono-bosque",
+        "title": "Outono · Bosque dourado",
+        "view": 0.0,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "alfabeto_03",
+      "title": "Alfabeto · K a O",
+      "group": "alfabeto",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "alfabeto_03_1",
+          "options": [
+            "K",
+            "L"
+          ],
+          "x": 400,
+          "target": "K",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra K.",
+          "spoken": "Encontre a letra cá.",
+          "hint": "Procure uma letra igual a esta: K.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_03_2",
+          "options": [
+            "M",
+            "L"
+          ],
+          "x": 820,
+          "target": "L",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra L.",
+          "spoken": "Encontre a letra éle.",
+          "hint": "Procure uma letra igual a esta: L.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_03_3",
+          "options": [
+            "M",
+            "N"
+          ],
+          "x": 1240,
+          "target": "M",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra M.",
+          "spoken": "Encontre a letra ême.",
+          "hint": "Procure uma letra igual a esta: M.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_03_4",
+          "options": [
+            "O",
+            "N"
+          ],
+          "x": 1660,
+          "target": "N",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra N.",
+          "spoken": "Encontre a letra êne.",
+          "hint": "Procure uma letra igual a esta: N.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_03_5",
+          "options": [
+            "O",
+            "K"
+          ],
+          "x": 2080,
+          "target": "O",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra O.",
+          "spoken": "Encontre a letra ó.",
+          "hint": "Procure uma letra igual a esta: O.",
+          "example": ""
+        }
+      ],
+      "scenery": {
+        "id": "alfabeto_03",
+        "template": "primavera-lago",
+        "title": "Primavera · Lago das flores",
+        "view": 0.0,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "alfabeto_04",
+      "title": "Alfabeto · P a T",
+      "group": "alfabeto",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "alfabeto_04_1",
+          "options": [
+            "P",
+            "Q"
+          ],
+          "x": 400,
+          "target": "P",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra P.",
+          "spoken": "Encontre a letra pê.",
+          "hint": "Procure uma letra igual a esta: P.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_04_2",
+          "options": [
+            "R",
+            "Q"
+          ],
+          "x": 820,
+          "target": "Q",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra Q.",
+          "spoken": "Encontre a letra quê.",
+          "hint": "Procure uma letra igual a esta: Q.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_04_3",
+          "options": [
+            "R",
+            "S"
+          ],
+          "x": 1240,
+          "target": "R",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra R.",
+          "spoken": "Encontre a letra érre.",
+          "hint": "Procure uma letra igual a esta: R.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_04_4",
+          "options": [
+            "T",
+            "S"
+          ],
+          "x": 1660,
+          "target": "S",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra S.",
+          "spoken": "Encontre a letra ésse.",
+          "hint": "Procure uma letra igual a esta: S.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_04_5",
+          "options": [
+            "T",
+            "P"
+          ],
+          "x": 2080,
+          "target": "T",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra T.",
+          "spoken": "Encontre a letra tê.",
+          "hint": "Procure uma letra igual a esta: T.",
+          "example": ""
+        }
+      ],
+      "scenery": {
+        "id": "alfabeto_04",
+        "template": "outono-vale",
+        "title": "Outono · Vale do pôr do sol",
+        "view": 0.0,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "alfabeto_05",
+      "title": "Alfabeto · U a Z",
+      "group": "alfabeto",
+      "note": "",
+      "length": 2910,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "alfabeto_05_1",
+          "options": [
+            "U",
+            "V"
+          ],
+          "x": 400,
+          "target": "U",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra U.",
+          "spoken": "Encontre a letra u.",
+          "hint": "Procure uma letra igual a esta: U.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_05_2",
+          "options": [
+            "W",
+            "V"
+          ],
+          "x": 820,
+          "target": "V",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra V.",
+          "spoken": "Encontre a letra vê.",
+          "hint": "Procure uma letra igual a esta: V.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_05_3",
+          "options": [
+            "W",
+            "X"
+          ],
+          "x": 1240,
+          "target": "W",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra W.",
+          "spoken": "Encontre a letra dáblio.",
+          "hint": "Procure uma letra igual a esta: W.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_05_4",
+          "options": [
+            "Y",
+            "X"
+          ],
+          "x": 1660,
+          "target": "X",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra X.",
+          "spoken": "Encontre a letra xis.",
+          "hint": "Procure uma letra igual a esta: X.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_05_5",
+          "options": [
+            "Y",
+            "Z"
+          ],
+          "x": 2080,
+          "target": "Y",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra Y.",
+          "spoken": "Encontre a letra ípsilon.",
+          "hint": "Procure uma letra igual a esta: Y.",
+          "example": ""
+        },
+        {
+          "id": "alfabeto_05_6",
+          "options": [
+            "U",
+            "Z"
+          ],
+          "x": 2500,
+          "target": "Z",
+          "skill": "letter_name",
+          "instruction": "Encontre a letra Z.",
+          "spoken": "Encontre a letra zê.",
+          "hint": "Procure uma letra igual a esta: Z.",
+          "example": ""
+        }
+      ],
+      "scenery": {
+        "id": "alfabeto_05",
+        "template": "primavera-pomar",
+        "title": "Primavera · Cerejeiras",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_b",
+      "title": "Família B",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_b_1",
+          "options": [
+            "BA",
+            "BE"
+          ],
+          "x": 400,
+          "target": "BA",
+          "skill": "syllable",
+          "instruction": "Encontre BA.",
+          "spoken": "Encontre bá. Como em bala.",
+          "example": "bala",
+          "hint": "Olhe para a sílaba BA. Como em bala."
+        },
+        {
+          "id": "silabas_b_2",
+          "options": [
+            "BI",
+            "BE"
+          ],
+          "x": 820,
+          "target": "BE",
+          "skill": "syllable",
+          "instruction": "Encontre BE.",
+          "spoken": "Encontre bê. Como em bebê.",
+          "example": "bebê",
+          "hint": "Olhe para a sílaba BE. Como em bebê."
+        },
+        {
+          "id": "silabas_b_3",
+          "options": [
+            "BI",
+            "BO"
+          ],
+          "x": 1240,
+          "target": "BI",
+          "skill": "syllable",
+          "instruction": "Encontre BI.",
+          "spoken": "Encontre bi. Como em bico.",
+          "example": "bico",
+          "hint": "Olhe para a sílaba BI. Como em bico."
+        },
+        {
+          "id": "silabas_b_4",
+          "options": [
+            "BU",
+            "BO"
+          ],
+          "x": 1660,
+          "target": "BO",
+          "skill": "syllable",
+          "instruction": "Encontre BO.",
+          "spoken": "Encontre bô. Como em bola.",
+          "example": "bola",
+          "hint": "Olhe para a sílaba BO. Como em bola."
+        },
+        {
+          "id": "silabas_b_5",
+          "options": [
+            "BU",
+            "BA"
+          ],
+          "x": 2080,
+          "target": "BU",
+          "skill": "syllable",
+          "instruction": "Encontre BU.",
+          "spoken": "Encontre bu. Como em bule.",
+          "example": "bule",
+          "hint": "Olhe para a sílaba BU. Como em bule."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_b",
+        "template": "outono-bosque",
+        "title": "Outono · Folhas de cobre",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_c",
+      "title": "Família C",
+      "group": "familias",
+      "note": "C e G mudam de som diante de E e I; ouvir a palavra de apoio.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_c_1",
+          "options": [
+            "CA",
+            "CE"
+          ],
+          "x": 400,
+          "target": "CA",
+          "skill": "syllable",
+          "instruction": "Encontre CA.",
+          "spoken": "Encontre cá. Como em casa.",
+          "example": "casa",
+          "hint": "Olhe para a sílaba CA. Como em casa."
+        },
+        {
+          "id": "silabas_c_2",
+          "options": [
+            "CI",
+            "CE"
+          ],
+          "x": 820,
+          "target": "CE",
+          "skill": "syllable",
+          "instruction": "Encontre CE.",
+          "spoken": "Encontre cê. Como em cebola.",
+          "example": "cebola",
+          "hint": "Olhe para a sílaba CE. Como em cebola."
+        },
+        {
+          "id": "silabas_c_3",
+          "options": [
+            "CI",
+            "CO"
+          ],
+          "x": 1240,
+          "target": "CI",
+          "skill": "syllable",
+          "instruction": "Encontre CI.",
+          "spoken": "Encontre ci. Como em cidade.",
+          "example": "cidade",
+          "hint": "Olhe para a sílaba CI. Como em cidade."
+        },
+        {
+          "id": "silabas_c_4",
+          "options": [
+            "CU",
+            "CO"
+          ],
+          "x": 1660,
+          "target": "CO",
+          "skill": "syllable",
+          "instruction": "Encontre CO.",
+          "spoken": "Encontre cô. Como em copo.",
+          "example": "copo",
+          "hint": "Olhe para a sílaba CO. Como em copo."
+        },
+        {
+          "id": "silabas_c_5",
+          "options": [
+            "CU",
+            "CA"
+          ],
+          "x": 2080,
+          "target": "CU",
+          "skill": "syllable",
+          "instruction": "Encontre CU.",
+          "spoken": "Encontre cu. Como em cubo.",
+          "example": "cubo",
+          "hint": "Olhe para a sílaba CU. Como em cubo."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_c",
+        "template": "primavera-lago",
+        "title": "Primavera · Cachoeira",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_d",
+      "title": "Família D",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_d_1",
+          "options": [
+            "DA",
+            "DE"
+          ],
+          "x": 400,
+          "target": "DA",
+          "skill": "syllable",
+          "instruction": "Encontre DA.",
+          "spoken": "Encontre dá. Como em dado.",
+          "example": "dado",
+          "hint": "Olhe para a sílaba DA. Como em dado."
+        },
+        {
+          "id": "silabas_d_2",
+          "options": [
+            "DI",
+            "DE"
+          ],
+          "x": 820,
+          "target": "DE",
+          "skill": "syllable",
+          "instruction": "Encontre DE.",
+          "spoken": "Encontre dê. Como em dedo.",
+          "example": "dedo",
+          "hint": "Olhe para a sílaba DE. Como em dedo."
+        },
+        {
+          "id": "silabas_d_3",
+          "options": [
+            "DI",
+            "DO"
+          ],
+          "x": 1240,
+          "target": "DI",
+          "skill": "syllable",
+          "instruction": "Encontre DI.",
+          "spoken": "Encontre di. Como em dia.",
+          "example": "dia",
+          "hint": "Olhe para a sílaba DI. Como em dia."
+        },
+        {
+          "id": "silabas_d_4",
+          "options": [
+            "DU",
+            "DO"
+          ],
+          "x": 1660,
+          "target": "DO",
+          "skill": "syllable",
+          "instruction": "Encontre DO.",
+          "spoken": "Encontre dô. Como em dominó.",
+          "example": "dominó",
+          "hint": "Olhe para a sílaba DO. Como em dominó."
+        },
+        {
+          "id": "silabas_d_5",
+          "options": [
+            "DU",
+            "DA"
+          ],
+          "x": 2080,
+          "target": "DU",
+          "skill": "syllable",
+          "instruction": "Encontre DU.",
+          "spoken": "Encontre du. Como em ducha.",
+          "example": "ducha",
+          "hint": "Olhe para a sílaba DU. Como em ducha."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_d",
+        "template": "outono-vale",
+        "title": "Outono · Moinho distante",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_f",
+      "title": "Família F",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_f_1",
+          "options": [
+            "FA",
+            "FE"
+          ],
+          "x": 400,
+          "target": "FA",
+          "skill": "syllable",
+          "instruction": "Encontre FA.",
+          "spoken": "Encontre fá. Como em fada.",
+          "example": "fada",
+          "hint": "Olhe para a sílaba FA. Como em fada."
+        },
+        {
+          "id": "silabas_f_2",
+          "options": [
+            "FI",
+            "FE"
+          ],
+          "x": 820,
+          "target": "FE",
+          "skill": "syllable",
+          "instruction": "Encontre FE.",
+          "spoken": "Encontre fê. Como em festa.",
+          "example": "festa",
+          "hint": "Olhe para a sílaba FE. Como em festa."
+        },
+        {
+          "id": "silabas_f_3",
+          "options": [
+            "FI",
+            "FO"
+          ],
+          "x": 1240,
+          "target": "FI",
+          "skill": "syllable",
+          "instruction": "Encontre FI.",
+          "spoken": "Encontre fi. Como em fita.",
+          "example": "fita",
+          "hint": "Olhe para a sílaba FI. Como em fita."
+        },
+        {
+          "id": "silabas_f_4",
+          "options": [
+            "FU",
+            "FO"
+          ],
+          "x": 1660,
+          "target": "FO",
+          "skill": "syllable",
+          "instruction": "Encontre FO.",
+          "spoken": "Encontre fô. Como em foca.",
+          "example": "foca",
+          "hint": "Olhe para a sílaba FO. Como em foca."
+        },
+        {
+          "id": "silabas_f_5",
+          "options": [
+            "FU",
+            "FA"
+          ],
+          "x": 2080,
+          "target": "FU",
+          "skill": "syllable",
+          "instruction": "Encontre FU.",
+          "spoken": "Encontre fu. Como em fubá.",
+          "example": "fubá",
+          "hint": "Olhe para a sílaba FU. Como em fubá."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_f",
+        "template": "primavera-pomar",
+        "title": "Primavera · Jardim das maçãs",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_g",
+      "title": "Família G",
+      "group": "familias",
+      "note": "C e G mudam de som diante de E e I; ouvir a palavra de apoio.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_g_1",
+          "options": [
+            "GA",
+            "GE"
+          ],
+          "x": 400,
+          "target": "GA",
+          "skill": "syllable",
+          "instruction": "Encontre GA.",
+          "spoken": "Encontre gá. Como em gato.",
+          "example": "gato",
+          "hint": "Olhe para a sílaba GA. Como em gato."
+        },
+        {
+          "id": "silabas_g_2",
+          "options": [
+            "GI",
+            "GE"
+          ],
+          "x": 820,
+          "target": "GE",
+          "skill": "syllable",
+          "instruction": "Encontre GE.",
+          "spoken": "Encontre gê. Como em gelatina.",
+          "example": "gelatina",
+          "hint": "Olhe para a sílaba GE. Como em gelatina."
+        },
+        {
+          "id": "silabas_g_3",
+          "options": [
+            "GI",
+            "GO"
+          ],
+          "x": 1240,
+          "target": "GI",
+          "skill": "syllable",
+          "instruction": "Encontre GI.",
+          "spoken": "Encontre gi. Como em girafa.",
+          "example": "girafa",
+          "hint": "Olhe para a sílaba GI. Como em girafa."
+        },
+        {
+          "id": "silabas_g_4",
+          "options": [
+            "GU",
+            "GO"
+          ],
+          "x": 1660,
+          "target": "GO",
+          "skill": "syllable",
+          "instruction": "Encontre GO.",
+          "spoken": "Encontre gô. Como em gota.",
+          "example": "gota",
+          "hint": "Olhe para a sílaba GO. Como em gota."
+        },
+        {
+          "id": "silabas_g_5",
+          "options": [
+            "GU",
+            "GA"
+          ],
+          "x": 2080,
+          "target": "GU",
+          "skill": "syllable",
+          "instruction": "Encontre GU.",
+          "spoken": "Encontre gu. Como em gula.",
+          "example": "gula",
+          "hint": "Olhe para a sílaba GU. Como em gula."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_g",
+        "template": "outono-bosque",
+        "title": "Outono · Clareira âmbar",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_j",
+      "title": "Família J",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_j_1",
+          "options": [
+            "JA",
+            "JE"
+          ],
+          "x": 400,
+          "target": "JA",
+          "skill": "syllable",
+          "instruction": "Encontre JA.",
+          "spoken": "Encontre já. Como em jacaré.",
+          "example": "jacaré",
+          "hint": "Olhe para a sílaba JA. Como em jacaré."
+        },
+        {
+          "id": "silabas_j_2",
+          "options": [
+            "JI",
+            "JE"
+          ],
+          "x": 820,
+          "target": "JE",
+          "skill": "syllable",
+          "instruction": "Encontre JE.",
+          "spoken": "Encontre jê. Como em jegue.",
+          "example": "jegue",
+          "hint": "Olhe para a sílaba JE. Como em jegue."
+        },
+        {
+          "id": "silabas_j_3",
+          "options": [
+            "JI",
+            "JO"
+          ],
+          "x": 1240,
+          "target": "JI",
+          "skill": "syllable",
+          "instruction": "Encontre JI.",
+          "spoken": "Encontre ji. Como em jiló.",
+          "example": "jiló",
+          "hint": "Olhe para a sílaba JI. Como em jiló."
+        },
+        {
+          "id": "silabas_j_4",
+          "options": [
+            "JU",
+            "JO"
+          ],
+          "x": 1660,
+          "target": "JO",
+          "skill": "syllable",
+          "instruction": "Encontre JO.",
+          "spoken": "Encontre jô. Como em jogo.",
+          "example": "jogo",
+          "hint": "Olhe para a sílaba JO. Como em jogo."
+        },
+        {
+          "id": "silabas_j_5",
+          "options": [
+            "JU",
+            "JA"
+          ],
+          "x": 2080,
+          "target": "JU",
+          "skill": "syllable",
+          "instruction": "Encontre JU.",
+          "spoken": "Encontre ju. Como em juba.",
+          "example": "juba",
+          "hint": "Olhe para a sílaba JU. Como em juba."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_j",
+        "template": "primavera-lago",
+        "title": "Primavera · Margem florida",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_l",
+      "title": "Família L",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_l_1",
+          "options": [
+            "LA",
+            "LE"
+          ],
+          "x": 400,
+          "target": "LA",
+          "skill": "syllable",
+          "instruction": "Encontre LA.",
+          "spoken": "Encontre lá. Como em lata.",
+          "example": "lata",
+          "hint": "Olhe para a sílaba LA. Como em lata."
+        },
+        {
+          "id": "silabas_l_2",
+          "options": [
+            "LI",
+            "LE"
+          ],
+          "x": 820,
+          "target": "LE",
+          "skill": "syllable",
+          "instruction": "Encontre LE.",
+          "spoken": "Encontre lê. Como em leão.",
+          "example": "leão",
+          "hint": "Olhe para a sílaba LE. Como em leão."
+        },
+        {
+          "id": "silabas_l_3",
+          "options": [
+            "LI",
+            "LO"
+          ],
+          "x": 1240,
+          "target": "LI",
+          "skill": "syllable",
+          "instruction": "Encontre LI.",
+          "spoken": "Encontre li. Como em livro.",
+          "example": "livro",
+          "hint": "Olhe para a sílaba LI. Como em livro."
+        },
+        {
+          "id": "silabas_l_4",
+          "options": [
+            "LU",
+            "LO"
+          ],
+          "x": 1660,
+          "target": "LO",
+          "skill": "syllable",
+          "instruction": "Encontre LO.",
+          "spoken": "Encontre lô. Como em lobo.",
+          "example": "lobo",
+          "hint": "Olhe para a sílaba LO. Como em lobo."
+        },
+        {
+          "id": "silabas_l_5",
+          "options": [
+            "LU",
+            "LA"
+          ],
+          "x": 2080,
+          "target": "LU",
+          "skill": "syllable",
+          "instruction": "Encontre LU.",
+          "spoken": "Encontre lu. Como em lua.",
+          "example": "lua",
+          "hint": "Olhe para a sílaba LU. Como em lua."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_l",
+        "template": "outono-vale",
+        "title": "Outono · Campos dourados",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_m",
+      "title": "Família M",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_m_1",
+          "options": [
+            "MA",
+            "ME"
+          ],
+          "x": 400,
+          "target": "MA",
+          "skill": "syllable",
+          "instruction": "Encontre MA.",
+          "spoken": "Encontre má. Como em mala.",
+          "example": "mala",
+          "hint": "Olhe para a sílaba MA. Como em mala."
+        },
+        {
+          "id": "silabas_m_2",
+          "options": [
+            "MI",
+            "ME"
+          ],
+          "x": 820,
+          "target": "ME",
+          "skill": "syllable",
+          "instruction": "Encontre ME.",
+          "spoken": "Encontre mê. Como em mesa.",
+          "example": "mesa",
+          "hint": "Olhe para a sílaba ME. Como em mesa."
+        },
+        {
+          "id": "silabas_m_3",
+          "options": [
+            "MI",
+            "MO"
+          ],
+          "x": 1240,
+          "target": "MI",
+          "skill": "syllable",
+          "instruction": "Encontre MI.",
+          "spoken": "Encontre mi. Como em mico.",
+          "example": "mico",
+          "hint": "Olhe para a sílaba MI. Como em mico."
+        },
+        {
+          "id": "silabas_m_4",
+          "options": [
+            "MU",
+            "MO"
+          ],
+          "x": 1660,
+          "target": "MO",
+          "skill": "syllable",
+          "instruction": "Encontre MO.",
+          "spoken": "Encontre mô. Como em moto.",
+          "example": "moto",
+          "hint": "Olhe para a sílaba MO. Como em moto."
+        },
+        {
+          "id": "silabas_m_5",
+          "options": [
+            "MU",
+            "MA"
+          ],
+          "x": 2080,
+          "target": "MU",
+          "skill": "syllable",
+          "instruction": "Encontre MU.",
+          "spoken": "Encontre mu. Como em muro.",
+          "example": "muro",
+          "hint": "Olhe para a sílaba MU. Como em muro."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_m",
+        "template": "primavera-pomar",
+        "title": "Primavera · Flores ao vento",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_n",
+      "title": "Família N",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_n_1",
+          "options": [
+            "NA",
+            "NE"
+          ],
+          "x": 400,
+          "target": "NA",
+          "skill": "syllable",
+          "instruction": "Encontre NA.",
+          "spoken": "Encontre ná. Como em navio.",
+          "example": "navio",
+          "hint": "Olhe para a sílaba NA. Como em navio."
+        },
+        {
+          "id": "silabas_n_2",
+          "options": [
+            "NI",
+            "NE"
+          ],
+          "x": 820,
+          "target": "NE",
+          "skill": "syllable",
+          "instruction": "Encontre NE.",
+          "spoken": "Encontre nê. Como em neve.",
+          "example": "neve",
+          "hint": "Olhe para a sílaba NE. Como em neve."
+        },
+        {
+          "id": "silabas_n_3",
+          "options": [
+            "NI",
+            "NO"
+          ],
+          "x": 1240,
+          "target": "NI",
+          "skill": "syllable",
+          "instruction": "Encontre NI.",
+          "spoken": "Encontre ni. Como em ninho.",
+          "example": "ninho",
+          "hint": "Olhe para a sílaba NI. Como em ninho."
+        },
+        {
+          "id": "silabas_n_4",
+          "options": [
+            "NU",
+            "NO"
+          ],
+          "x": 1660,
+          "target": "NO",
+          "skill": "syllable",
+          "instruction": "Encontre NO.",
+          "spoken": "Encontre nô. Como em novelo.",
+          "example": "novelo",
+          "hint": "Olhe para a sílaba NO. Como em novelo."
+        },
+        {
+          "id": "silabas_n_5",
+          "options": [
+            "NU",
+            "NA"
+          ],
+          "x": 2080,
+          "target": "NU",
+          "skill": "syllable",
+          "instruction": "Encontre NU.",
+          "spoken": "Encontre nu. Como em nuvem.",
+          "example": "nuvem",
+          "hint": "Olhe para a sílaba NU. Como em nuvem."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_n",
+        "template": "outono-bosque",
+        "title": "Outono · Cabaninha",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_p",
+      "title": "Família P",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_p_1",
+          "options": [
+            "PA",
+            "PE"
+          ],
+          "x": 400,
+          "target": "PA",
+          "skill": "syllable",
+          "instruction": "Encontre PA.",
+          "spoken": "Encontre pá. Como em pato.",
+          "example": "pato",
+          "hint": "Olhe para a sílaba PA. Como em pato."
+        },
+        {
+          "id": "silabas_p_2",
+          "options": [
+            "PI",
+            "PE"
+          ],
+          "x": 820,
+          "target": "PE",
+          "skill": "syllable",
+          "instruction": "Encontre PE.",
+          "spoken": "Encontre pê. Como em pera.",
+          "example": "pera",
+          "hint": "Olhe para a sílaba PE. Como em pera."
+        },
+        {
+          "id": "silabas_p_3",
+          "options": [
+            "PI",
+            "PO"
+          ],
+          "x": 1240,
+          "target": "PI",
+          "skill": "syllable",
+          "instruction": "Encontre PI.",
+          "spoken": "Encontre pi. Como em pipa.",
+          "example": "pipa",
+          "hint": "Olhe para a sílaba PI. Como em pipa."
+        },
+        {
+          "id": "silabas_p_4",
+          "options": [
+            "PU",
+            "PO"
+          ],
+          "x": 1660,
+          "target": "PO",
+          "skill": "syllable",
+          "instruction": "Encontre PO.",
+          "spoken": "Encontre pô. Como em pote.",
+          "example": "pote",
+          "hint": "Olhe para a sílaba PO. Como em pote."
+        },
+        {
+          "id": "silabas_p_5",
+          "options": [
+            "PU",
+            "PA"
+          ],
+          "x": 2080,
+          "target": "PU",
+          "skill": "syllable",
+          "instruction": "Encontre PU.",
+          "spoken": "Encontre pu. Como em pulo.",
+          "example": "pulo",
+          "hint": "Olhe para a sílaba PU. Como em pulo."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_p",
+        "template": "primavera-lago",
+        "title": "Primavera · Espelho azul",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_r",
+      "title": "Família R",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_r_1",
+          "options": [
+            "RA",
+            "RE"
+          ],
+          "x": 400,
+          "target": "RA",
+          "skill": "syllable",
+          "instruction": "Encontre RA.",
+          "spoken": "Encontre rá. Como em rato.",
+          "example": "rato",
+          "hint": "Olhe para a sílaba RA. Como em rato."
+        },
+        {
+          "id": "silabas_r_2",
+          "options": [
+            "RI",
+            "RE"
+          ],
+          "x": 820,
+          "target": "RE",
+          "skill": "syllable",
+          "instruction": "Encontre RE.",
+          "spoken": "Encontre rê. Como em rede.",
+          "example": "rede",
+          "hint": "Olhe para a sílaba RE. Como em rede."
+        },
+        {
+          "id": "silabas_r_3",
+          "options": [
+            "RI",
+            "RO"
+          ],
+          "x": 1240,
+          "target": "RI",
+          "skill": "syllable",
+          "instruction": "Encontre RI.",
+          "spoken": "Encontre ri. Como em rima.",
+          "example": "rima",
+          "hint": "Olhe para a sílaba RI. Como em rima."
+        },
+        {
+          "id": "silabas_r_4",
+          "options": [
+            "RU",
+            "RO"
+          ],
+          "x": 1660,
+          "target": "RO",
+          "skill": "syllable",
+          "instruction": "Encontre RO.",
+          "spoken": "Encontre rô. Como em roda.",
+          "example": "roda",
+          "hint": "Olhe para a sílaba RO. Como em roda."
+        },
+        {
+          "id": "silabas_r_5",
+          "options": [
+            "RU",
+            "RA"
+          ],
+          "x": 2080,
+          "target": "RU",
+          "skill": "syllable",
+          "instruction": "Encontre RU.",
+          "spoken": "Encontre ru. Como em rua.",
+          "example": "rua",
+          "hint": "Olhe para a sílaba RU. Como em rua."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_r",
+        "template": "outono-vale",
+        "title": "Outono · Colinas de cobre",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_s",
+      "title": "Família S",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_s_1",
+          "options": [
+            "SA",
+            "SE"
+          ],
+          "x": 400,
+          "target": "SA",
+          "skill": "syllable",
+          "instruction": "Encontre SA.",
+          "spoken": "Encontre sá. Como em sapo.",
+          "example": "sapo",
+          "hint": "Olhe para a sílaba SA. Como em sapo."
+        },
+        {
+          "id": "silabas_s_2",
+          "options": [
+            "SI",
+            "SE"
+          ],
+          "x": 820,
+          "target": "SE",
+          "skill": "syllable",
+          "instruction": "Encontre SE.",
+          "spoken": "Encontre sê. Como em selo.",
+          "example": "selo",
+          "hint": "Olhe para a sílaba SE. Como em selo."
+        },
+        {
+          "id": "silabas_s_3",
+          "options": [
+            "SI",
+            "SO"
+          ],
+          "x": 1240,
+          "target": "SI",
+          "skill": "syllable",
+          "instruction": "Encontre SI.",
+          "spoken": "Encontre si. Como em sino.",
+          "example": "sino",
+          "hint": "Olhe para a sílaba SI. Como em sino."
+        },
+        {
+          "id": "silabas_s_4",
+          "options": [
+            "SU",
+            "SO"
+          ],
+          "x": 1660,
+          "target": "SO",
+          "skill": "syllable",
+          "instruction": "Encontre SO.",
+          "spoken": "Encontre sô. Como em sopa.",
+          "example": "sopa",
+          "hint": "Olhe para a sílaba SO. Como em sopa."
+        },
+        {
+          "id": "silabas_s_5",
+          "options": [
+            "SU",
+            "SA"
+          ],
+          "x": 2080,
+          "target": "SU",
+          "skill": "syllable",
+          "instruction": "Encontre SU.",
+          "spoken": "Encontre su. Como em suco.",
+          "example": "suco",
+          "hint": "Olhe para a sílaba SU. Como em suco."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_s",
+        "template": "primavera-pomar",
+        "title": "Primavera · Colinas verdes",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_t",
+      "title": "Família T",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_t_1",
+          "options": [
+            "TA",
+            "TE"
+          ],
+          "x": 400,
+          "target": "TA",
+          "skill": "syllable",
+          "instruction": "Encontre TA.",
+          "spoken": "Encontre tá. Como em tatu.",
+          "example": "tatu",
+          "hint": "Olhe para a sílaba TA. Como em tatu."
+        },
+        {
+          "id": "silabas_t_2",
+          "options": [
+            "TI",
+            "TE"
+          ],
+          "x": 820,
+          "target": "TE",
+          "skill": "syllable",
+          "instruction": "Encontre TE.",
+          "spoken": "Encontre tê. Como em telha.",
+          "example": "telha",
+          "hint": "Olhe para a sílaba TE. Como em telha."
+        },
+        {
+          "id": "silabas_t_3",
+          "options": [
+            "TI",
+            "TO"
+          ],
+          "x": 1240,
+          "target": "TI",
+          "skill": "syllable",
+          "instruction": "Encontre TI.",
+          "spoken": "Encontre ti. Como em tigre.",
+          "example": "tigre",
+          "hint": "Olhe para a sílaba TI. Como em tigre."
+        },
+        {
+          "id": "silabas_t_4",
+          "options": [
+            "TU",
+            "TO"
+          ],
+          "x": 1660,
+          "target": "TO",
+          "skill": "syllable",
+          "instruction": "Encontre TO.",
+          "spoken": "Encontre tô. Como em tomate.",
+          "example": "tomate",
+          "hint": "Olhe para a sílaba TO. Como em tomate."
+        },
+        {
+          "id": "silabas_t_5",
+          "options": [
+            "TU",
+            "TA"
+          ],
+          "x": 2080,
+          "target": "TU",
+          "skill": "syllable",
+          "instruction": "Encontre TU.",
+          "spoken": "Encontre tu. Como em tucano.",
+          "example": "tucano",
+          "hint": "Olhe para a sílaba TU. Como em tucano."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_t",
+        "template": "outono-bosque",
+        "title": "Outono · Colinas de outono",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_v",
+      "title": "Família V",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_v_1",
+          "options": [
+            "VA",
+            "VE"
+          ],
+          "x": 400,
+          "target": "VA",
+          "skill": "syllable",
+          "instruction": "Encontre VA.",
+          "spoken": "Encontre vá. Como em vaca.",
+          "example": "vaca",
+          "hint": "Olhe para a sílaba VA. Como em vaca."
+        },
+        {
+          "id": "silabas_v_2",
+          "options": [
+            "VI",
+            "VE"
+          ],
+          "x": 820,
+          "target": "VE",
+          "skill": "syllable",
+          "instruction": "Encontre VE.",
+          "spoken": "Encontre vê. Como em vela.",
+          "example": "vela",
+          "hint": "Olhe para a sílaba VE. Como em vela."
+        },
+        {
+          "id": "silabas_v_3",
+          "options": [
+            "VI",
+            "VO"
+          ],
+          "x": 1240,
+          "target": "VI",
+          "skill": "syllable",
+          "instruction": "Encontre VI.",
+          "spoken": "Encontre vi. Como em vida.",
+          "example": "vida",
+          "hint": "Olhe para a sílaba VI. Como em vida."
+        },
+        {
+          "id": "silabas_v_4",
+          "options": [
+            "VU",
+            "VO"
+          ],
+          "x": 1660,
+          "target": "VO",
+          "skill": "syllable",
+          "instruction": "Encontre VO.",
+          "spoken": "Encontre vô. Como em vovó.",
+          "example": "vovó",
+          "hint": "Olhe para a sílaba VO. Como em vovó."
+        },
+        {
+          "id": "silabas_v_5",
+          "options": [
+            "VU",
+            "VA"
+          ],
+          "x": 2080,
+          "target": "VU",
+          "skill": "syllable",
+          "instruction": "Encontre VU.",
+          "spoken": "Encontre vu. Como em vulcão.",
+          "example": "vulcão",
+          "hint": "Olhe para a sílaba VU. Como em vulcão."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_v",
+        "template": "primavera-lago",
+        "title": "Primavera · Jardim lilás",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_x",
+      "title": "Família X",
+      "group": "familias",
+      "note": "X tem outros sons em outras palavras; esta família usa o som de xale.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_x_1",
+          "options": [
+            "XA",
+            "XE"
+          ],
+          "x": 400,
+          "target": "XA",
+          "skill": "syllable",
+          "instruction": "Encontre XA.",
+          "spoken": "Encontre xá. Como em xale.",
+          "example": "xale",
+          "hint": "Olhe para a sílaba XA. Como em xale."
+        },
+        {
+          "id": "silabas_x_2",
+          "options": [
+            "XI",
+            "XE"
+          ],
+          "x": 820,
+          "target": "XE",
+          "skill": "syllable",
+          "instruction": "Encontre XE.",
+          "spoken": "Encontre xê. Como em xerife.",
+          "example": "xerife",
+          "hint": "Olhe para a sílaba XE. Como em xerife."
+        },
+        {
+          "id": "silabas_x_3",
+          "options": [
+            "XI",
+            "XO"
+          ],
+          "x": 1240,
+          "target": "XI",
+          "skill": "syllable",
+          "instruction": "Encontre XI.",
+          "spoken": "Encontre xi. Como em xícara.",
+          "example": "xícara",
+          "hint": "Olhe para a sílaba XI. Como em xícara."
+        },
+        {
+          "id": "silabas_x_4",
+          "options": [
+            "XU",
+            "XO"
+          ],
+          "x": 1660,
+          "target": "XO",
+          "skill": "syllable",
+          "instruction": "Encontre XO.",
+          "spoken": "Encontre xô. Como em xodó.",
+          "example": "xodó",
+          "hint": "Olhe para a sílaba XO. Como em xodó."
+        },
+        {
+          "id": "silabas_x_5",
+          "options": [
+            "XU",
+            "XA"
+          ],
+          "x": 2080,
+          "target": "XU",
+          "skill": "syllable",
+          "instruction": "Encontre XU.",
+          "spoken": "Encontre xu. Como em xucro.",
+          "example": "xucro",
+          "hint": "Olhe para a sílaba XU. Como em xucro."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_x",
+        "template": "outono-vale",
+        "title": "Outono · Árvores vermelhas",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_z",
+      "title": "Família Z",
+      "group": "familias",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_z_1",
+          "options": [
+            "ZA",
+            "ZE"
+          ],
+          "x": 400,
+          "target": "ZA",
+          "skill": "syllable",
+          "instruction": "Encontre ZA.",
+          "spoken": "Encontre zá. Como em zabumba.",
+          "example": "zabumba",
+          "hint": "Olhe para a sílaba ZA. Como em zabumba."
+        },
+        {
+          "id": "silabas_z_2",
+          "options": [
+            "ZI",
+            "ZE"
+          ],
+          "x": 820,
+          "target": "ZE",
+          "skill": "syllable",
+          "instruction": "Encontre ZE.",
+          "spoken": "Encontre zê. Como em zebra.",
+          "example": "zebra",
+          "hint": "Olhe para a sílaba ZE. Como em zebra."
+        },
+        {
+          "id": "silabas_z_3",
+          "options": [
+            "ZI",
+            "ZO"
+          ],
+          "x": 1240,
+          "target": "ZI",
+          "skill": "syllable",
+          "instruction": "Encontre ZI.",
+          "spoken": "Encontre zi. Como em zíper.",
+          "example": "zíper",
+          "hint": "Olhe para a sílaba ZI. Como em zíper."
+        },
+        {
+          "id": "silabas_z_4",
+          "options": [
+            "ZU",
+            "ZO"
+          ],
+          "x": 1660,
+          "target": "ZO",
+          "skill": "syllable",
+          "instruction": "Encontre ZO.",
+          "spoken": "Encontre zô. Como em zona.",
+          "example": "zona",
+          "hint": "Olhe para a sílaba ZO. Como em zona."
+        },
+        {
+          "id": "silabas_z_5",
+          "options": [
+            "ZU",
+            "ZA"
+          ],
+          "x": 2080,
+          "target": "ZU",
+          "skill": "syllable",
+          "instruction": "Encontre ZU.",
+          "spoken": "Encontre zu. Como em zulu.",
+          "example": "zulu",
+          "hint": "Olhe para a sílaba ZU. Como em zulu."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_z",
+        "template": "primavera-pomar",
+        "title": "Primavera · Ponte das flores",
+        "view": 1.0,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_quaquequiquo",
+      "title": "QUA · QUE · QUI · QUO",
+      "group": "especiais",
+      "note": "Q vem acompanhado de U. O U é ouvido em quase e quota; não em queijo e quilo. Não criar QA/QE/QI/QO/QU como família regular.",
+      "length": 2070,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_quaquequiquo_1",
+          "options": [
+            "QUA",
+            "QUE"
+          ],
+          "x": 400,
+          "target": "QUA",
+          "skill": "syllable",
+          "instruction": "Encontre QUA.",
+          "spoken": "Encontre quá. Como em quase.",
+          "example": "quase",
+          "hint": "Olhe para a sílaba QUA. Como em quase."
+        },
+        {
+          "id": "silabas_quaquequiquo_2",
+          "options": [
+            "QUI",
+            "QUE"
+          ],
+          "x": 820,
+          "target": "QUE",
+          "skill": "syllable",
+          "instruction": "Encontre QUE.",
+          "spoken": "Encontre quê. Como em queijo.",
+          "example": "queijo",
+          "hint": "Olhe para a sílaba QUE. Como em queijo."
+        },
+        {
+          "id": "silabas_quaquequiquo_3",
+          "options": [
+            "QUI",
+            "QUO"
+          ],
+          "x": 1240,
+          "target": "QUI",
+          "skill": "syllable",
+          "instruction": "Encontre QUI.",
+          "spoken": "Encontre qui. Como em quilo.",
+          "example": "quilo",
+          "hint": "Olhe para a sílaba QUI. Como em quilo."
+        },
+        {
+          "id": "silabas_quaquequiquo_4",
+          "options": [
+            "QUA",
+            "QUO"
+          ],
+          "x": 1660,
+          "target": "QUO",
+          "skill": "syllable",
+          "instruction": "Encontre QUO.",
+          "spoken": "Encontre quó. Como em quota.",
+          "example": "quota",
+          "hint": "Olhe para a sílaba QUO. Como em quota."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_quaquequiquo",
+        "template": "outono-bosque",
+        "title": "Outono · Trilha das folhas",
+        "view": 1.0,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_h",
+      "title": "Família H",
+      "group": "especiais",
+      "note": "H inicial não tem som próprio; ouvir a vogal na palavra de apoio.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_h_1",
+          "options": [
+            "HA",
+            "HE"
+          ],
+          "x": 400,
+          "target": "HA",
+          "skill": "syllable",
+          "instruction": "Encontre HA.",
+          "spoken": "Encontre á. Como em havia.",
+          "example": "havia",
+          "hint": "Olhe para a sílaba HA. Como em havia."
+        },
+        {
+          "id": "silabas_h_2",
+          "options": [
+            "HI",
+            "HE"
+          ],
+          "x": 820,
+          "target": "HE",
+          "skill": "syllable",
+          "instruction": "Encontre HE.",
+          "spoken": "Encontre ê. Como em herói.",
+          "example": "herói",
+          "hint": "Olhe para a sílaba HE. Como em herói."
+        },
+        {
+          "id": "silabas_h_3",
+          "options": [
+            "HI",
+            "HO"
+          ],
+          "x": 1240,
+          "target": "HI",
+          "skill": "syllable",
+          "instruction": "Encontre HI.",
+          "spoken": "Encontre i. Como em hipopótamo.",
+          "example": "hipopótamo",
+          "hint": "Olhe para a sílaba HI. Como em hipopótamo."
+        },
+        {
+          "id": "silabas_h_4",
+          "options": [
+            "HU",
+            "HO"
+          ],
+          "x": 1660,
+          "target": "HO",
+          "skill": "syllable",
+          "instruction": "Encontre HO.",
+          "spoken": "Encontre ô. Como em hotel.",
+          "example": "hotel",
+          "hint": "Olhe para a sílaba HO. Como em hotel."
+        },
+        {
+          "id": "silabas_h_5",
+          "options": [
+            "HU",
+            "HA"
+          ],
+          "x": 2080,
+          "target": "HU",
+          "skill": "syllable",
+          "instruction": "Encontre HU.",
+          "spoken": "Encontre u. Como em humano.",
+          "example": "humano",
+          "hint": "Olhe para a sílaba HU. Como em humano."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_h",
+        "template": "primavera-lago",
+        "title": "Primavera · Águas tranquilas",
+        "view": 1.0,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_cedilhaacedilhaocedilhau",
+      "title": "ÇA · ÇO · ÇU",
+      "group": "especiais",
+      "note": "Ç não é uma letra extra do alfabeto e não ocorre antes de E ou I. As palavras de apoio mostram o uso no interior da palavra.",
+      "length": 1650,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_cedilhaacedilhaocedilhau_1",
+          "options": [
+            "ÇA",
+            "ÇO"
+          ],
+          "x": 400,
+          "target": "ÇA",
+          "skill": "syllable",
+          "instruction": "Encontre ÇA.",
+          "spoken": "Encontre sá. Como em caça.",
+          "example": "caça",
+          "hint": "Olhe para a sílaba ÇA. Como em caça."
+        },
+        {
+          "id": "silabas_cedilhaacedilhaocedilhau_2",
+          "options": [
+            "ÇU",
+            "ÇO"
+          ],
+          "x": 820,
+          "target": "ÇO",
+          "skill": "syllable",
+          "instruction": "Encontre ÇO.",
+          "spoken": "Encontre sô. Como em laço.",
+          "example": "laço",
+          "hint": "Olhe para a sílaba ÇO. Como em laço."
+        },
+        {
+          "id": "silabas_cedilhaacedilhaocedilhau_3",
+          "options": [
+            "ÇU",
+            "ÇA"
+          ],
+          "x": 1240,
+          "target": "ÇU",
+          "skill": "syllable",
+          "instruction": "Encontre ÇU.",
+          "spoken": "Encontre su. Como em açude.",
+          "example": "açude",
+          "hint": "Olhe para a sílaba ÇU. Como em açude."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_cedilhaacedilhaocedilhau",
+        "template": "outono-vale",
+        "title": "Outono · Horizonte coral",
+        "view": 1.0,
+        "mirror": false,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_guegui",
+      "title": "GUE · GUI",
+      "group": "especiais",
+      "note": "O U não é pronunciado nestas palavras de apoio; outras palavras exigem contexto.",
+      "length": 1230,
+      "checkpoint": 96,
+      "activities": [
+        {
+          "id": "silabas_guegui_1",
+          "options": [
+            "GUE",
+            "GUI"
+          ],
+          "x": 400,
+          "target": "GUE",
+          "skill": "syllable",
+          "instruction": "Encontre GUE.",
+          "spoken": "Encontre guê. Como em foguete.",
+          "example": "foguete",
+          "hint": "Olhe para a sílaba GUE. Como em foguete."
+        },
+        {
+          "id": "silabas_guegui_2",
+          "options": [
+            "GUE",
+            "GUI"
+          ],
+          "x": 820,
+          "target": "GUI",
+          "skill": "syllable",
+          "instruction": "Encontre GUI.",
+          "spoken": "Encontre gui. Como em guitarra.",
+          "example": "guitarra",
+          "hint": "Olhe para a sílaba GUI. Como em guitarra."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_guegui",
+        "template": "primavera-pomar",
+        "title": "Primavera · Pétalas rosadas",
+        "view": 0.0,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_ch",
+      "title": "Família CH",
+      "group": "digrafos",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_ch_1",
+          "options": [
+            "CHA",
+            "CHE"
+          ],
+          "x": 400,
+          "target": "CHA",
+          "skill": "syllable",
+          "instruction": "Encontre CHA.",
+          "spoken": "Encontre chá. Como em chave.",
+          "example": "chave",
+          "hint": "Olhe para a sílaba CHA. Como em chave."
+        },
+        {
+          "id": "silabas_ch_2",
+          "options": [
+            "CHI",
+            "CHE"
+          ],
+          "x": 820,
+          "target": "CHE",
+          "skill": "syllable",
+          "instruction": "Encontre CHE.",
+          "spoken": "Encontre chê. Como em chegada.",
+          "example": "chegada",
+          "hint": "Olhe para a sílaba CHE. Como em chegada."
+        },
+        {
+          "id": "silabas_ch_3",
+          "options": [
+            "CHI",
+            "CHO"
+          ],
+          "x": 1240,
+          "target": "CHI",
+          "skill": "syllable",
+          "instruction": "Encontre CHI.",
+          "spoken": "Encontre chi. Como em chinelo.",
+          "example": "chinelo",
+          "hint": "Olhe para a sílaba CHI. Como em chinelo."
+        },
+        {
+          "id": "silabas_ch_4",
+          "options": [
+            "CHU",
+            "CHO"
+          ],
+          "x": 1660,
+          "target": "CHO",
+          "skill": "syllable",
+          "instruction": "Encontre CHO.",
+          "spoken": "Encontre chô. Como em chocolate.",
+          "example": "chocolate",
+          "hint": "Olhe para a sílaba CHO. Como em chocolate."
+        },
+        {
+          "id": "silabas_ch_5",
+          "options": [
+            "CHU",
+            "CHA"
+          ],
+          "x": 2080,
+          "target": "CHU",
+          "skill": "syllable",
+          "instruction": "Encontre CHU.",
+          "spoken": "Encontre chu. Como em chuva.",
+          "example": "chuva",
+          "hint": "Olhe para a sílaba CHU. Como em chuva."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_ch",
+        "template": "outono-bosque",
+        "title": "Outono · Árvores douradas",
+        "view": 0.0,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_lh",
+      "title": "Família LH",
+      "group": "digrafos",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_lh_1",
+          "options": [
+            "LHA",
+            "LHE"
+          ],
+          "x": 400,
+          "target": "LHA",
+          "skill": "syllable",
+          "instruction": "Encontre LHA.",
+          "spoken": "Encontre lhá. Como em lhama.",
+          "example": "lhama",
+          "hint": "Olhe para a sílaba LHA. Como em lhama."
+        },
+        {
+          "id": "silabas_lh_2",
+          "options": [
+            "LHI",
+            "LHE"
+          ],
+          "x": 820,
+          "target": "LHE",
+          "skill": "syllable",
+          "instruction": "Encontre LHE.",
+          "spoken": "Encontre lhê. Como em lhe.",
+          "example": "lhe",
+          "hint": "Olhe para a sílaba LHE. Como em lhe."
+        },
+        {
+          "id": "silabas_lh_3",
+          "options": [
+            "LHI",
+            "LHO"
+          ],
+          "x": 1240,
+          "target": "LHI",
+          "skill": "syllable",
+          "instruction": "Encontre LHI.",
+          "spoken": "Encontre lhi. Como em colhi.",
+          "example": "colhi",
+          "hint": "Olhe para a sílaba LHI. Como em colhi."
+        },
+        {
+          "id": "silabas_lh_4",
+          "options": [
+            "LHU",
+            "LHO"
+          ],
+          "x": 1660,
+          "target": "LHO",
+          "skill": "syllable",
+          "instruction": "Encontre LHO.",
+          "spoken": "Encontre lhô. Como em molho.",
+          "example": "molho",
+          "hint": "Olhe para a sílaba LHO. Como em molho."
+        },
+        {
+          "id": "silabas_lh_5",
+          "options": [
+            "LHU",
+            "LHA"
+          ],
+          "x": 2080,
+          "target": "LHU",
+          "skill": "syllable",
+          "instruction": "Encontre LHU.",
+          "spoken": "Encontre lhu. Como em olhudo.",
+          "example": "olhudo",
+          "hint": "Olhe para a sílaba LHU. Como em olhudo."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_lh",
+        "template": "primavera-lago",
+        "title": "Primavera · Flores na margem",
+        "view": 0.0,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_nh",
+      "title": "Família NH",
+      "group": "digrafos",
+      "note": "NHU é uma combinação rara, praticada sem inventar palavra de apoio. Revisão oral de um adulto é recomendada.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_nh_1",
+          "options": [
+            "NHA",
+            "NHE"
+          ],
+          "x": 400,
+          "target": "NHA",
+          "skill": "syllable",
+          "instruction": "Encontre NHA.",
+          "spoken": "Encontre nhá. Como em unha.",
+          "example": "unha",
+          "hint": "Olhe para a sílaba NHA. Como em unha."
+        },
+        {
+          "id": "silabas_nh_2",
+          "options": [
+            "NHI",
+            "NHE"
+          ],
+          "x": 820,
+          "target": "NHE",
+          "skill": "syllable",
+          "instruction": "Encontre NHE.",
+          "spoken": "Encontre nhê. Como em conhecer.",
+          "example": "conhecer",
+          "hint": "Olhe para a sílaba NHE. Como em conhecer."
+        },
+        {
+          "id": "silabas_nh_3",
+          "options": [
+            "NHI",
+            "NHO"
+          ],
+          "x": 1240,
+          "target": "NHI",
+          "skill": "syllable",
+          "instruction": "Encontre NHI.",
+          "spoken": "Encontre nhi. Como em companhia.",
+          "example": "companhia",
+          "hint": "Olhe para a sílaba NHI. Como em companhia."
+        },
+        {
+          "id": "silabas_nh_4",
+          "options": [
+            "NHU",
+            "NHO"
+          ],
+          "x": 1660,
+          "target": "NHO",
+          "skill": "syllable",
+          "instruction": "Encontre NHO.",
+          "spoken": "Encontre nhô. Como em nhoque.",
+          "example": "nhoque",
+          "hint": "Olhe para a sílaba NHO. Como em nhoque."
+        },
+        {
+          "id": "silabas_nh_5",
+          "options": [
+            "NHU",
+            "NHA"
+          ],
+          "x": 2080,
+          "target": "NHU",
+          "skill": "syllable",
+          "instruction": "Encontre NHU.",
+          "spoken": "Encontre nhu.",
+          "example": "",
+          "hint": "Olhe para a sílaba NHU."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_nh",
+        "template": "outono-vale",
+        "title": "Outono · Vale tranquilo",
+        "view": 0.0,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "ffffff",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_bl",
+      "title": "Família BL",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_bl_1",
+          "options": [
+            "BLA",
+            "BLE"
+          ],
+          "x": 400,
+          "target": "BLA",
+          "skill": "syllable",
+          "instruction": "Encontre BLA.",
+          "spoken": "Encontre blá. Como em nublado.",
+          "example": "nublado",
+          "hint": "Olhe para a sílaba BLA. Como em nublado."
+        },
+        {
+          "id": "silabas_bl_2",
+          "options": [
+            "BLI",
+            "BLE"
+          ],
+          "x": 820,
+          "target": "BLE",
+          "skill": "syllable",
+          "instruction": "Encontre BLE.",
+          "spoken": "Encontre blê. Como em blefe.",
+          "example": "blefe",
+          "hint": "Olhe para a sílaba BLE. Como em blefe."
+        },
+        {
+          "id": "silabas_bl_3",
+          "options": [
+            "BLI",
+            "BLO"
+          ],
+          "x": 1240,
+          "target": "BLI",
+          "skill": "syllable",
+          "instruction": "Encontre BLI.",
+          "spoken": "Encontre bli. Como em biblioteca.",
+          "example": "biblioteca",
+          "hint": "Olhe para a sílaba BLI. Como em biblioteca."
+        },
+        {
+          "id": "silabas_bl_4",
+          "options": [
+            "BLU",
+            "BLO"
+          ],
+          "x": 1660,
+          "target": "BLO",
+          "skill": "syllable",
+          "instruction": "Encontre BLO.",
+          "spoken": "Encontre blô. Como em bloco.",
+          "example": "bloco",
+          "hint": "Olhe para a sílaba BLO. Como em bloco."
+        },
+        {
+          "id": "silabas_bl_5",
+          "options": [
+            "BLU",
+            "BLA"
+          ],
+          "x": 2080,
+          "target": "BLU",
+          "skill": "syllable",
+          "instruction": "Encontre BLU.",
+          "spoken": "Encontre blu. Como em blusa.",
+          "example": "blusa",
+          "hint": "Olhe para a sílaba BLU. Como em blusa."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_bl",
+        "template": "primavera-pomar",
+        "title": "Primavera · Recanto verde",
+        "view": 0.2,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_br",
+      "title": "Família BR",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_br_1",
+          "options": [
+            "BRA",
+            "BRE"
+          ],
+          "x": 400,
+          "target": "BRA",
+          "skill": "syllable",
+          "instruction": "Encontre BRA.",
+          "spoken": "Encontre brá. Como em braço.",
+          "example": "braço",
+          "hint": "Olhe para a sílaba BRA. Como em braço."
+        },
+        {
+          "id": "silabas_br_2",
+          "options": [
+            "BRI",
+            "BRE"
+          ],
+          "x": 820,
+          "target": "BRE",
+          "skill": "syllable",
+          "instruction": "Encontre BRE.",
+          "spoken": "Encontre brê. Como em breve.",
+          "example": "breve",
+          "hint": "Olhe para a sílaba BRE. Como em breve."
+        },
+        {
+          "id": "silabas_br_3",
+          "options": [
+            "BRI",
+            "BRO"
+          ],
+          "x": 1240,
+          "target": "BRI",
+          "skill": "syllable",
+          "instruction": "Encontre BRI.",
+          "spoken": "Encontre bri. Como em briga.",
+          "example": "briga",
+          "hint": "Olhe para a sílaba BRI. Como em briga."
+        },
+        {
+          "id": "silabas_br_4",
+          "options": [
+            "BRU",
+            "BRO"
+          ],
+          "x": 1660,
+          "target": "BRO",
+          "skill": "syllable",
+          "instruction": "Encontre BRO.",
+          "spoken": "Encontre brô. Como em broa.",
+          "example": "broa",
+          "hint": "Olhe para a sílaba BRO. Como em broa."
+        },
+        {
+          "id": "silabas_br_5",
+          "options": [
+            "BRU",
+            "BRA"
+          ],
+          "x": 2080,
+          "target": "BRU",
+          "skill": "syllable",
+          "instruction": "Encontre BRU.",
+          "spoken": "Encontre bru. Como em bruxa.",
+          "example": "bruxa",
+          "hint": "Olhe para a sílaba BRU. Como em bruxa."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_br",
+        "template": "outono-bosque",
+        "title": "Outono · Refúgio do bosque",
+        "view": 0.2,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_cl",
+      "title": "Família CL",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_cl_1",
+          "options": [
+            "CLA",
+            "CLE"
+          ],
+          "x": 400,
+          "target": "CLA",
+          "skill": "syllable",
+          "instruction": "Encontre CLA.",
+          "spoken": "Encontre clá. Como em claro.",
+          "example": "claro",
+          "hint": "Olhe para a sílaba CLA. Como em claro."
+        },
+        {
+          "id": "silabas_cl_2",
+          "options": [
+            "CLI",
+            "CLE"
+          ],
+          "x": 820,
+          "target": "CLE",
+          "skill": "syllable",
+          "instruction": "Encontre CLE.",
+          "spoken": "Encontre clê. Como em bicicleta.",
+          "example": "bicicleta",
+          "hint": "Olhe para a sílaba CLE. Como em bicicleta."
+        },
+        {
+          "id": "silabas_cl_3",
+          "options": [
+            "CLI",
+            "CLO"
+          ],
+          "x": 1240,
+          "target": "CLI",
+          "skill": "syllable",
+          "instruction": "Encontre CLI.",
+          "spoken": "Encontre cli. Como em clima.",
+          "example": "clima",
+          "hint": "Olhe para a sílaba CLI. Como em clima."
+        },
+        {
+          "id": "silabas_cl_4",
+          "options": [
+            "CLU",
+            "CLO"
+          ],
+          "x": 1660,
+          "target": "CLO",
+          "skill": "syllable",
+          "instruction": "Encontre CLO.",
+          "spoken": "Encontre clô. Como em cloro.",
+          "example": "cloro",
+          "hint": "Olhe para a sílaba CLO. Como em cloro."
+        },
+        {
+          "id": "silabas_cl_5",
+          "options": [
+            "CLU",
+            "CLA"
+          ],
+          "x": 2080,
+          "target": "CLU",
+          "skill": "syllable",
+          "instruction": "Encontre CLU.",
+          "spoken": "Encontre clu. Como em clube.",
+          "example": "clube",
+          "hint": "Olhe para a sílaba CLU. Como em clube."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_cl",
+        "template": "primavera-lago",
+        "title": "Primavera · Refúgio azul",
+        "view": 0.2,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_cr",
+      "title": "Família CR",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_cr_1",
+          "options": [
+            "CRA",
+            "CRE"
+          ],
+          "x": 400,
+          "target": "CRA",
+          "skill": "syllable",
+          "instruction": "Encontre CRA.",
+          "spoken": "Encontre crá. Como em cravo.",
+          "example": "cravo",
+          "hint": "Olhe para a sílaba CRA. Como em cravo."
+        },
+        {
+          "id": "silabas_cr_2",
+          "options": [
+            "CRI",
+            "CRE"
+          ],
+          "x": 820,
+          "target": "CRE",
+          "skill": "syllable",
+          "instruction": "Encontre CRE.",
+          "spoken": "Encontre crê. Como em creme.",
+          "example": "creme",
+          "hint": "Olhe para a sílaba CRE. Como em creme."
+        },
+        {
+          "id": "silabas_cr_3",
+          "options": [
+            "CRI",
+            "CRO"
+          ],
+          "x": 1240,
+          "target": "CRI",
+          "skill": "syllable",
+          "instruction": "Encontre CRI.",
+          "spoken": "Encontre cri. Como em criado.",
+          "example": "criado",
+          "hint": "Olhe para a sílaba CRI. Como em criado."
+        },
+        {
+          "id": "silabas_cr_4",
+          "options": [
+            "CRU",
+            "CRO"
+          ],
+          "x": 1660,
+          "target": "CRO",
+          "skill": "syllable",
+          "instruction": "Encontre CRO.",
+          "spoken": "Encontre crô. Como em crocodilo.",
+          "example": "crocodilo",
+          "hint": "Olhe para a sílaba CRO. Como em crocodilo."
+        },
+        {
+          "id": "silabas_cr_5",
+          "options": [
+            "CRU",
+            "CRA"
+          ],
+          "x": 2080,
+          "target": "CRU",
+          "skill": "syllable",
+          "instruction": "Encontre CRU.",
+          "spoken": "Encontre cru. Como em cru.",
+          "example": "cru",
+          "hint": "Olhe para a sílaba CRU. Como em cru."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_cr",
+        "template": "outono-vale",
+        "title": "Outono · Luz entre colinas",
+        "view": 0.2,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "fff5ea",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_dr",
+      "title": "Família DR",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_dr_1",
+          "options": [
+            "DRA",
+            "DRE"
+          ],
+          "x": 400,
+          "target": "DRA",
+          "skill": "syllable",
+          "instruction": "Encontre DRA.",
+          "spoken": "Encontre drá. Como em dragão.",
+          "example": "dragão",
+          "hint": "Olhe para a sílaba DRA. Como em dragão."
+        },
+        {
+          "id": "silabas_dr_2",
+          "options": [
+            "DRI",
+            "DRE"
+          ],
+          "x": 820,
+          "target": "DRE",
+          "skill": "syllable",
+          "instruction": "Encontre DRE.",
+          "spoken": "Encontre drê. Como em drenagem.",
+          "example": "drenagem",
+          "hint": "Olhe para a sílaba DRE. Como em drenagem."
+        },
+        {
+          "id": "silabas_dr_3",
+          "options": [
+            "DRI",
+            "DRO"
+          ],
+          "x": 1240,
+          "target": "DRI",
+          "skill": "syllable",
+          "instruction": "Encontre DRI.",
+          "spoken": "Encontre dri. Como em madrinha.",
+          "example": "madrinha",
+          "hint": "Olhe para a sílaba DRI. Como em madrinha."
+        },
+        {
+          "id": "silabas_dr_4",
+          "options": [
+            "DRU",
+            "DRO"
+          ],
+          "x": 1660,
+          "target": "DRO",
+          "skill": "syllable",
+          "instruction": "Encontre DRO.",
+          "spoken": "Encontre drô. Como em dromedário.",
+          "example": "dromedário",
+          "hint": "Olhe para a sílaba DRO. Como em dromedário."
+        },
+        {
+          "id": "silabas_dr_5",
+          "options": [
+            "DRU",
+            "DRA"
+          ],
+          "x": 2080,
+          "target": "DRU",
+          "skill": "syllable",
+          "instruction": "Encontre DRU.",
+          "spoken": "Encontre dru. Como em drupa.",
+          "example": "drupa",
+          "hint": "Olhe para a sílaba DRU. Como em drupa."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_dr",
+        "template": "primavera-pomar",
+        "title": "Primavera · Trilha perfumada",
+        "view": 0.4,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_fl",
+      "title": "Família FL",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_fl_1",
+          "options": [
+            "FLA",
+            "FLE"
+          ],
+          "x": 400,
+          "target": "FLA",
+          "skill": "syllable",
+          "instruction": "Encontre FLA.",
+          "spoken": "Encontre flá. Como em flamingo.",
+          "example": "flamingo",
+          "hint": "Olhe para a sílaba FLA. Como em flamingo."
+        },
+        {
+          "id": "silabas_fl_2",
+          "options": [
+            "FLI",
+            "FLE"
+          ],
+          "x": 820,
+          "target": "FLE",
+          "skill": "syllable",
+          "instruction": "Encontre FLE.",
+          "spoken": "Encontre flê. Como em flecha.",
+          "example": "flecha",
+          "hint": "Olhe para a sílaba FLE. Como em flecha."
+        },
+        {
+          "id": "silabas_fl_3",
+          "options": [
+            "FLI",
+            "FLO"
+          ],
+          "x": 1240,
+          "target": "FLI",
+          "skill": "syllable",
+          "instruction": "Encontre FLI.",
+          "spoken": "Encontre fli. Como em conflito.",
+          "example": "conflito",
+          "hint": "Olhe para a sílaba FLI. Como em conflito."
+        },
+        {
+          "id": "silabas_fl_4",
+          "options": [
+            "FLU",
+            "FLO"
+          ],
+          "x": 1660,
+          "target": "FLO",
+          "skill": "syllable",
+          "instruction": "Encontre FLO.",
+          "spoken": "Encontre flô. Como em floresta.",
+          "example": "floresta",
+          "hint": "Olhe para a sílaba FLO. Como em floresta."
+        },
+        {
+          "id": "silabas_fl_5",
+          "options": [
+            "FLU",
+            "FLA"
+          ],
+          "x": 2080,
+          "target": "FLU",
+          "skill": "syllable",
+          "instruction": "Encontre FLU.",
+          "spoken": "Encontre flu. Como em flutuar.",
+          "example": "flutuar",
+          "hint": "Olhe para a sílaba FLU. Como em flutuar."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_fl",
+        "template": "outono-bosque",
+        "title": "Outono · Luz dourada",
+        "view": 0.4,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_fr",
+      "title": "Família FR",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_fr_1",
+          "options": [
+            "FRA",
+            "FRE"
+          ],
+          "x": 400,
+          "target": "FRA",
+          "skill": "syllable",
+          "instruction": "Encontre FRA.",
+          "spoken": "Encontre frá. Como em fraco.",
+          "example": "fraco",
+          "hint": "Olhe para a sílaba FRA. Como em fraco."
+        },
+        {
+          "id": "silabas_fr_2",
+          "options": [
+            "FRI",
+            "FRE"
+          ],
+          "x": 820,
+          "target": "FRE",
+          "skill": "syllable",
+          "instruction": "Encontre FRE.",
+          "spoken": "Encontre frê. Como em frevo.",
+          "example": "frevo",
+          "hint": "Olhe para a sílaba FRE. Como em frevo."
+        },
+        {
+          "id": "silabas_fr_3",
+          "options": [
+            "FRI",
+            "FRO"
+          ],
+          "x": 1240,
+          "target": "FRI",
+          "skill": "syllable",
+          "instruction": "Encontre FRI.",
+          "spoken": "Encontre fri. Como em frito.",
+          "example": "frito",
+          "hint": "Olhe para a sílaba FRI. Como em frito."
+        },
+        {
+          "id": "silabas_fr_4",
+          "options": [
+            "FRU",
+            "FRO"
+          ],
+          "x": 1660,
+          "target": "FRO",
+          "skill": "syllable",
+          "instruction": "Encontre FRO.",
+          "spoken": "Encontre frô. Como em fronha.",
+          "example": "fronha",
+          "hint": "Olhe para a sílaba FRO. Como em fronha."
+        },
+        {
+          "id": "silabas_fr_5",
+          "options": [
+            "FRU",
+            "FRA"
+          ],
+          "x": 2080,
+          "target": "FRU",
+          "skill": "syllable",
+          "instruction": "Encontre FRU.",
+          "spoken": "Encontre fru. Como em fruta.",
+          "example": "fruta",
+          "hint": "Olhe para a sílaba FRU. Como em fruta."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_fr",
+        "template": "primavera-lago",
+        "title": "Primavera · Colinas do lago",
+        "view": 0.4,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_gl",
+      "title": "Família GL",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_gl_1",
+          "options": [
+            "GLA",
+            "GLE"
+          ],
+          "x": 400,
+          "target": "GLA",
+          "skill": "syllable",
+          "instruction": "Encontre GLA.",
+          "spoken": "Encontre glá. Como em glacial.",
+          "example": "glacial",
+          "hint": "Olhe para a sílaba GLA. Como em glacial."
+        },
+        {
+          "id": "silabas_gl_2",
+          "options": [
+            "GLI",
+            "GLE"
+          ],
+          "x": 820,
+          "target": "GLE",
+          "skill": "syllable",
+          "instruction": "Encontre GLE.",
+          "spoken": "Encontre glê. Como em gleba.",
+          "example": "gleba",
+          "hint": "Olhe para a sílaba GLE. Como em gleba."
+        },
+        {
+          "id": "silabas_gl_3",
+          "options": [
+            "GLI",
+            "GLO"
+          ],
+          "x": 1240,
+          "target": "GLI",
+          "skill": "syllable",
+          "instruction": "Encontre GLI.",
+          "spoken": "Encontre gli. Como em glicose.",
+          "example": "glicose",
+          "hint": "Olhe para a sílaba GLI. Como em glicose."
+        },
+        {
+          "id": "silabas_gl_4",
+          "options": [
+            "GLU",
+            "GLO"
+          ],
+          "x": 1660,
+          "target": "GLO",
+          "skill": "syllable",
+          "instruction": "Encontre GLO.",
+          "spoken": "Encontre glô. Como em globo.",
+          "example": "globo",
+          "hint": "Olhe para a sílaba GLO. Como em globo."
+        },
+        {
+          "id": "silabas_gl_5",
+          "options": [
+            "GLU",
+            "GLA"
+          ],
+          "x": 2080,
+          "target": "GLU",
+          "skill": "syllable",
+          "instruction": "Encontre GLU.",
+          "spoken": "Encontre glu. Como em glutão.",
+          "example": "glutão",
+          "hint": "Olhe para a sílaba GLU. Como em glutão."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_gl",
+        "template": "outono-vale",
+        "title": "Outono · Trilha dos campos",
+        "view": 0.4,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f0faff",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "silabas_gr",
+      "title": "Família GR",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_gr_1",
+          "options": [
+            "GRA",
+            "GRE"
+          ],
+          "x": 400,
+          "target": "GRA",
+          "skill": "syllable",
+          "instruction": "Encontre GRA.",
+          "spoken": "Encontre grá. Como em gravata.",
+          "example": "gravata",
+          "hint": "Olhe para a sílaba GRA. Como em gravata."
+        },
+        {
+          "id": "silabas_gr_2",
+          "options": [
+            "GRI",
+            "GRE"
+          ],
+          "x": 820,
+          "target": "GRE",
+          "skill": "syllable",
+          "instruction": "Encontre GRE.",
+          "spoken": "Encontre grê. Como em grego.",
+          "example": "grego",
+          "hint": "Olhe para a sílaba GRE. Como em grego."
+        },
+        {
+          "id": "silabas_gr_3",
+          "options": [
+            "GRI",
+            "GRO"
+          ],
+          "x": 1240,
+          "target": "GRI",
+          "skill": "syllable",
+          "instruction": "Encontre GRI.",
+          "spoken": "Encontre gri. Como em grilo.",
+          "example": "grilo",
+          "hint": "Olhe para a sílaba GRI. Como em grilo."
+        },
+        {
+          "id": "silabas_gr_4",
+          "options": [
+            "GRU",
+            "GRO"
+          ],
+          "x": 1660,
+          "target": "GRO",
+          "skill": "syllable",
+          "instruction": "Encontre GRO.",
+          "spoken": "Encontre grô. Como em grosso.",
+          "example": "grosso",
+          "hint": "Olhe para a sílaba GRO. Como em grosso."
+        },
+        {
+          "id": "silabas_gr_5",
+          "options": [
+            "GRU",
+            "GRA"
+          ],
+          "x": 2080,
+          "target": "GRU",
+          "skill": "syllable",
+          "instruction": "Encontre GRU.",
+          "spoken": "Encontre gru. Como em grupo.",
+          "example": "grupo",
+          "hint": "Olhe para a sílaba GRU. Como em grupo."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_gr",
+        "template": "primavera-pomar",
+        "title": "Primavera · Sol entre flores",
+        "view": 0.6,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "silabas_pl",
+      "title": "Família PL",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_pl_1",
+          "options": [
+            "PLA",
+            "PLE"
+          ],
+          "x": 400,
+          "target": "PLA",
+          "skill": "syllable",
+          "instruction": "Encontre PLA.",
+          "spoken": "Encontre plá. Como em placa.",
+          "example": "placa",
+          "hint": "Olhe para a sílaba PLA. Como em placa."
+        },
+        {
+          "id": "silabas_pl_2",
+          "options": [
+            "PLI",
+            "PLE"
+          ],
+          "x": 820,
+          "target": "PLE",
+          "skill": "syllable",
+          "instruction": "Encontre PLE.",
+          "spoken": "Encontre plê. Como em pleno.",
+          "example": "pleno",
+          "hint": "Olhe para a sílaba PLE. Como em pleno."
+        },
+        {
+          "id": "silabas_pl_3",
+          "options": [
+            "PLI",
+            "PLO"
+          ],
+          "x": 1240,
+          "target": "PLI",
+          "skill": "syllable",
+          "instruction": "Encontre PLI.",
+          "spoken": "Encontre pli. Como em aplicativo.",
+          "example": "aplicativo",
+          "hint": "Olhe para a sílaba PLI. Como em aplicativo."
+        },
+        {
+          "id": "silabas_pl_4",
+          "options": [
+            "PLU",
+            "PLO"
+          ],
+          "x": 1660,
+          "target": "PLO",
+          "skill": "syllable",
+          "instruction": "Encontre PLO.",
+          "spoken": "Encontre plô. Como em diploma.",
+          "example": "diploma",
+          "hint": "Olhe para a sílaba PLO. Como em diploma."
+        },
+        {
+          "id": "silabas_pl_5",
+          "options": [
+            "PLU",
+            "PLA"
+          ],
+          "x": 2080,
+          "target": "PLU",
+          "skill": "syllable",
+          "instruction": "Encontre PLU.",
+          "spoken": "Encontre plu. Como em pluma.",
+          "example": "pluma",
+          "hint": "Olhe para a sílaba PLU. Como em pluma."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_pl",
+        "template": "outono-bosque",
+        "title": "Outono · Recanto de outono",
+        "view": 0.6,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "silabas_pr",
+      "title": "Família PR",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_pr_1",
+          "options": [
+            "PRA",
+            "PRE"
+          ],
+          "x": 400,
+          "target": "PRA",
+          "skill": "syllable",
+          "instruction": "Encontre PRA.",
+          "spoken": "Encontre prá. Como em prato.",
+          "example": "prato",
+          "hint": "Olhe para a sílaba PRA. Como em prato."
+        },
+        {
+          "id": "silabas_pr_2",
+          "options": [
+            "PRI",
+            "PRE"
+          ],
+          "x": 820,
+          "target": "PRE",
+          "skill": "syllable",
+          "instruction": "Encontre PRE.",
+          "spoken": "Encontre prê. Como em prego.",
+          "example": "prego",
+          "hint": "Olhe para a sílaba PRE. Como em prego."
+        },
+        {
+          "id": "silabas_pr_3",
+          "options": [
+            "PRI",
+            "PRO"
+          ],
+          "x": 1240,
+          "target": "PRI",
+          "skill": "syllable",
+          "instruction": "Encontre PRI.",
+          "spoken": "Encontre pri. Como em primo.",
+          "example": "primo",
+          "hint": "Olhe para a sílaba PRI. Como em primo."
+        },
+        {
+          "id": "silabas_pr_4",
+          "options": [
+            "PRU",
+            "PRO"
+          ],
+          "x": 1660,
+          "target": "PRO",
+          "skill": "syllable",
+          "instruction": "Encontre PRO.",
+          "spoken": "Encontre prô. Como em prova.",
+          "example": "prova",
+          "hint": "Olhe para a sílaba PRO. Como em prova."
+        },
+        {
+          "id": "silabas_pr_5",
+          "options": [
+            "PRU",
+            "PRA"
+          ],
+          "x": 2080,
+          "target": "PRU",
+          "skill": "syllable",
+          "instruction": "Encontre PRU.",
+          "spoken": "Encontre pru. Como em prumo.",
+          "example": "prumo",
+          "hint": "Olhe para a sílaba PRU. Como em prumo."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_pr",
+        "template": "primavera-lago",
+        "title": "Primavera · Brisa no lago",
+        "view": 0.6,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "silabas_tr",
+      "title": "Família TR",
+      "group": "encontros",
+      "note": "",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "silabas_tr_1",
+          "options": [
+            "TRA",
+            "TRE"
+          ],
+          "x": 400,
+          "target": "TRA",
+          "skill": "syllable",
+          "instruction": "Encontre TRA.",
+          "spoken": "Encontre trá. Como em trator.",
+          "example": "trator",
+          "hint": "Olhe para a sílaba TRA. Como em trator."
+        },
+        {
+          "id": "silabas_tr_2",
+          "options": [
+            "TRI",
+            "TRE"
+          ],
+          "x": 820,
+          "target": "TRE",
+          "skill": "syllable",
+          "instruction": "Encontre TRE.",
+          "spoken": "Encontre trê. Como em trevo.",
+          "example": "trevo",
+          "hint": "Olhe para a sílaba TRE. Como em trevo."
+        },
+        {
+          "id": "silabas_tr_3",
+          "options": [
+            "TRI",
+            "TRO"
+          ],
+          "x": 1240,
+          "target": "TRI",
+          "skill": "syllable",
+          "instruction": "Encontre TRI.",
+          "spoken": "Encontre tri. Como em trigo.",
+          "example": "trigo",
+          "hint": "Olhe para a sílaba TRI. Como em trigo."
+        },
+        {
+          "id": "silabas_tr_4",
+          "options": [
+            "TRU",
+            "TRO"
+          ],
+          "x": 1660,
+          "target": "TRO",
+          "skill": "syllable",
+          "instruction": "Encontre TRO.",
+          "spoken": "Encontre trô. Como em troca.",
+          "example": "troca",
+          "hint": "Olhe para a sílaba TRO. Como em troca."
+        },
+        {
+          "id": "silabas_tr_5",
+          "options": [
+            "TRU",
+            "TRA"
+          ],
+          "x": 2080,
+          "target": "TRU",
+          "skill": "syllable",
+          "instruction": "Encontre TRU.",
+          "spoken": "Encontre tru. Como em truque.",
+          "example": "truque",
+          "hint": "Olhe para a sílaba TRU. Como em truque."
+        }
+      ],
+      "scenery": {
+        "id": "silabas_tr",
+        "template": "outono-vale",
+        "title": "Outono · Brisa de outono",
+        "view": 0.6,
+        "mirror": true,
+        "zoom": 1.12,
+        "tint": "fff0f5",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "nomes_kwy",
+      "title": "K, W e Y nos nomes",
+      "group": "especiais",
+      "note": "Letras presentes no alfabeto. Em nomes e palavras de outras origens a pronúncia depende do contexto; não gerar famílias regulares artificiais.",
+      "length": 1650,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "nomes_kwy_1",
+          "options": [
+            "K",
+            "W"
+          ],
+          "x": 400,
+          "target": "K",
+          "skill": "letter_context",
+          "instruction": "Encontre K.",
+          "spoken": "Encontre a letra cá. Como no nome Kátia.",
+          "hint": "Veja a letra K no nome Kátia.",
+          "example": "Kátia"
+        },
+        {
+          "id": "nomes_kwy_2",
+          "options": [
+            "Y",
+            "W"
+          ],
+          "x": 820,
+          "target": "W",
+          "skill": "letter_context",
+          "instruction": "Encontre W.",
+          "spoken": "Encontre a letra dáblio. Como no nome William.",
+          "hint": "Veja a letra W no nome William.",
+          "example": "William"
+        },
+        {
+          "id": "nomes_kwy_3",
+          "options": [
+            "Y",
+            "K"
+          ],
+          "x": 1240,
+          "target": "Y",
+          "skill": "letter_context",
+          "instruction": "Encontre Y.",
+          "spoken": "Encontre a letra ípsilon. Como no nome Yuri.",
+          "hint": "Veja a letra Y no nome Yuri.",
+          "example": "Yuri"
+        }
+      ],
+      "scenery": {
+        "id": "nomes_kwy",
+        "template": "primavera-pomar",
+        "title": "Primavera · Pomar encantado",
+        "view": 0.8,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "palavras_01",
+      "title": "Palavras · Natureza",
+      "group": "palavras",
+      "note": "Palavras monossílabas: uma única sílaba falada, mantendo os acentos. Reconhecimento com apoio visual e narração.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "palavras_01_1",
+          "options": [
+            "SOL",
+            "MAR"
+          ],
+          "x": 400,
+          "target": "SOL",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra SOL.",
+          "spoken": "Encontre a palavra sol.",
+          "example": "",
+          "hint": "Leia SOL. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_01_2",
+          "options": [
+            "LUZ",
+            "MAR"
+          ],
+          "x": 820,
+          "target": "MAR",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra MAR.",
+          "spoken": "Encontre a palavra mar.",
+          "example": "",
+          "hint": "Leia MAR. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_01_3",
+          "options": [
+            "LUZ",
+            "SOM"
+          ],
+          "x": 1240,
+          "target": "LUZ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra LUZ.",
+          "spoken": "Encontre a palavra luz.",
+          "example": "",
+          "hint": "Leia LUZ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_01_4",
+          "options": [
+            "COR",
+            "SOM"
+          ],
+          "x": 1660,
+          "target": "SOM",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra SOM.",
+          "spoken": "Encontre a palavra som.",
+          "example": "",
+          "hint": "Leia SOM. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_01_5",
+          "options": [
+            "COR",
+            "SOL"
+          ],
+          "x": 2080,
+          "target": "COR",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra COR.",
+          "spoken": "Encontre a palavra cor.",
+          "example": "",
+          "hint": "Leia COR. Falamos esta palavra em uma só sílaba."
+        }
+      ],
+      "scenery": {
+        "id": "palavras_01",
+        "template": "outono-bosque",
+        "title": "Outono · Bosque acolhedor",
+        "view": 0.8,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "palavras_02",
+      "title": "Palavras · Dia a dia",
+      "group": "palavras",
+      "note": "Palavras monossílabas: uma única sílaba falada, mantendo os acentos. Reconhecimento com apoio visual e narração.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "palavras_02_1",
+          "options": [
+            "PÉ",
+            "MÃO"
+          ],
+          "x": 400,
+          "target": "PÉ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra PÉ.",
+          "spoken": "Encontre a palavra pé.",
+          "example": "",
+          "hint": "Leia PÉ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_02_2",
+          "options": [
+            "PÃO",
+            "MÃO"
+          ],
+          "x": 820,
+          "target": "MÃO",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra MÃO.",
+          "spoken": "Encontre a palavra mão.",
+          "example": "",
+          "hint": "Leia MÃO. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_02_3",
+          "options": [
+            "PÃO",
+            "MEL"
+          ],
+          "x": 1240,
+          "target": "PÃO",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra PÃO.",
+          "spoken": "Encontre a palavra pão.",
+          "example": "",
+          "hint": "Leia PÃO. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_02_4",
+          "options": [
+            "SAL",
+            "MEL"
+          ],
+          "x": 1660,
+          "target": "MEL",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra MEL.",
+          "spoken": "Encontre a palavra mel.",
+          "example": "",
+          "hint": "Leia MEL. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_02_5",
+          "options": [
+            "SAL",
+            "PÉ"
+          ],
+          "x": 2080,
+          "target": "SAL",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra SAL.",
+          "spoken": "Encontre a palavra sal.",
+          "example": "",
+          "hint": "Leia SAL. Falamos esta palavra em uma só sílaba."
+        }
+      ],
+      "scenery": {
+        "id": "palavras_02",
+        "template": "primavera-lago",
+        "title": "Primavera · Lago encantado",
+        "view": 0.8,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "palavras_03",
+      "title": "Palavras · Bichos e jardim",
+      "group": "palavras",
+      "note": "Palavras monossílabas: uma única sílaba falada, mantendo os acentos. Reconhecimento com apoio visual e narração.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "palavras_03_1",
+          "options": [
+            "BOI",
+            "CÃO"
+          ],
+          "x": 400,
+          "target": "BOI",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra BOI.",
+          "spoken": "Encontre a palavra boi.",
+          "example": "",
+          "hint": "Leia BOI. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_03_2",
+          "options": [
+            "RÃ",
+            "CÃO"
+          ],
+          "x": 820,
+          "target": "CÃO",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra CÃO.",
+          "spoken": "Encontre a palavra cão.",
+          "example": "",
+          "hint": "Leia CÃO. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_03_3",
+          "options": [
+            "RÃ",
+            "LÃ"
+          ],
+          "x": 1240,
+          "target": "RÃ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra RÃ.",
+          "spoken": "Encontre a palavra rã.",
+          "example": "",
+          "hint": "Leia RÃ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_03_4",
+          "options": [
+            "FLOR",
+            "LÃ"
+          ],
+          "x": 1660,
+          "target": "LÃ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra LÃ.",
+          "spoken": "Encontre a palavra lã.",
+          "example": "",
+          "hint": "Leia LÃ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_03_5",
+          "options": [
+            "FLOR",
+            "BOI"
+          ],
+          "x": 2080,
+          "target": "FLOR",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra FLOR.",
+          "spoken": "Encontre a palavra flor.",
+          "example": "",
+          "hint": "Leia FLOR. Falamos esta palavra em uma só sílaba."
+        }
+      ],
+      "scenery": {
+        "id": "palavras_03",
+        "template": "outono-vale",
+        "title": "Outono · Vale encantado",
+        "view": 0.8,
+        "mirror": true,
+        "zoom": 1.18,
+        "tint": "f6ffe9",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "palavras_04",
+      "title": "Palavras · Descobertas",
+      "group": "palavras",
+      "note": "Palavras monossílabas: uma única sílaba falada, mantendo os acentos. Reconhecimento com apoio visual e narração.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "palavras_04_1",
+          "options": [
+            "CÉU",
+            "REI"
+          ],
+          "x": 400,
+          "target": "CÉU",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra CÉU.",
+          "spoken": "Encontre a palavra céu.",
+          "example": "",
+          "hint": "Leia CÉU. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_04_2",
+          "options": [
+            "PAI",
+            "REI"
+          ],
+          "x": 820,
+          "target": "REI",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra REI.",
+          "spoken": "Encontre a palavra rei.",
+          "example": "",
+          "hint": "Leia REI. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_04_3",
+          "options": [
+            "PAI",
+            "MÃE"
+          ],
+          "x": 1240,
+          "target": "PAI",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra PAI.",
+          "spoken": "Encontre a palavra pai.",
+          "example": "",
+          "hint": "Leia PAI. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_04_4",
+          "options": [
+            "TREM",
+            "MÃE"
+          ],
+          "x": 1660,
+          "target": "MÃE",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra MÃE.",
+          "spoken": "Encontre a palavra mãe.",
+          "example": "",
+          "hint": "Leia MÃE. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_04_5",
+          "options": [
+            "TREM",
+            "CÉU"
+          ],
+          "x": 2080,
+          "target": "TREM",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra TREM.",
+          "spoken": "Encontre a palavra trem.",
+          "example": "",
+          "hint": "Leia TREM. Falamos esta palavra em uma só sílaba."
+        }
+      ],
+      "scenery": {
+        "id": "palavras_04",
+        "template": "primavera-pomar",
+        "title": "Primavera · Caminho das flores",
+        "view": 1.0,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "palavras_05",
+      "title": "Palavras · Pequenas palavras",
+      "group": "palavras",
+      "note": "Palavras monossílabas: uma única sílaba falada, mantendo os acentos. Reconhecimento com apoio visual e narração.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "palavras_05_1",
+          "options": [
+            "CHÁ",
+            "PÓ"
+          ],
+          "x": 400,
+          "target": "CHÁ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra CHÁ.",
+          "spoken": "Encontre a palavra chá.",
+          "example": "",
+          "hint": "Leia CHÁ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_05_2",
+          "options": [
+            "NÓ",
+            "PÓ"
+          ],
+          "x": 820,
+          "target": "PÓ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra PÓ.",
+          "spoken": "Encontre a palavra pó.",
+          "example": "",
+          "hint": "Leia PÓ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_05_3",
+          "options": [
+            "NÓ",
+            "PÁ"
+          ],
+          "x": 1240,
+          "target": "NÓ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra NÓ.",
+          "spoken": "Encontre a palavra nó.",
+          "example": "",
+          "hint": "Leia NÓ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_05_4",
+          "options": [
+            "GIZ",
+            "PÁ"
+          ],
+          "x": 1660,
+          "target": "PÁ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra PÁ.",
+          "spoken": "Encontre a palavra pá.",
+          "example": "",
+          "hint": "Leia PÁ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_05_5",
+          "options": [
+            "GIZ",
+            "CHÁ"
+          ],
+          "x": 2080,
+          "target": "GIZ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra GIZ.",
+          "spoken": "Encontre a palavra giz.",
+          "example": "",
+          "hint": "Leia GIZ. Falamos esta palavra em uma só sílaba."
+        }
+      ],
+      "scenery": {
+        "id": "palavras_05",
+        "template": "outono-bosque",
+        "title": "Outono · Passeio dourado",
+        "view": 1.0,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "palavras_06",
+      "title": "Palavras · Mais conquistas",
+      "group": "palavras",
+      "note": "Palavras monossílabas: uma única sílaba falada, mantendo os acentos. Reconhecimento com apoio visual e narração.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "palavras_06_1",
+          "options": [
+            "PAZ",
+            "VOZ"
+          ],
+          "x": 400,
+          "target": "PAZ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra PAZ.",
+          "spoken": "Encontre a palavra paz.",
+          "example": "",
+          "hint": "Leia PAZ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_06_2",
+          "options": [
+            "GOL",
+            "VOZ"
+          ],
+          "x": 820,
+          "target": "VOZ",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra VOZ.",
+          "spoken": "Encontre a palavra voz.",
+          "example": "",
+          "hint": "Leia VOZ. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_06_3",
+          "options": [
+            "GOL",
+            "BEM"
+          ],
+          "x": 1240,
+          "target": "GOL",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra GOL.",
+          "spoken": "Encontre a palavra gol.",
+          "example": "",
+          "hint": "Leia GOL. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_06_4",
+          "options": [
+            "SIM",
+            "BEM"
+          ],
+          "x": 1660,
+          "target": "BEM",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra BEM.",
+          "spoken": "Encontre a palavra bem.",
+          "example": "",
+          "hint": "Leia BEM. Falamos esta palavra em uma só sílaba."
+        },
+        {
+          "id": "palavras_06_5",
+          "options": [
+            "SIM",
+            "PAZ"
+          ],
+          "x": 2080,
+          "target": "SIM",
+          "skill": "monosyllable_word",
+          "instruction": "Encontre a palavra SIM.",
+          "spoken": "Encontre a palavra sim.",
+          "example": "",
+          "hint": "Leia SIM. Falamos esta palavra em uma só sílaba."
+        }
+      ],
+      "scenery": {
+        "id": "palavras_06",
+        "template": "primavera-lago",
+        "title": "Primavera · Passeio à beira-lago",
+        "view": 1.0,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "dissilabas_01",
+      "title": "Dissílabas · Brinquedos",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_01_1",
+          "options": [
+            "BOLA",
+            "DADO"
+          ],
+          "x": 400,
+          "target": "BOLA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BO",
+            "LA"
+          ],
+          "instruction": "Encontre a palavra BOLA.",
+          "spoken": "Encontre a palavra bola.",
+          "example": "",
+          "hint": "Leia em duas partes: BO · LA. BOLA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_01_2",
+          "options": [
+            "PIPA",
+            "DADO"
+          ],
+          "x": 820,
+          "target": "DADO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "DA",
+            "DO"
+          ],
+          "instruction": "Encontre a palavra DADO.",
+          "spoken": "Encontre a palavra dado.",
+          "example": "",
+          "hint": "Leia em duas partes: DA · DO. DADO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_01_3",
+          "options": [
+            "PIPA",
+            "JOGO"
+          ],
+          "x": 1240,
+          "target": "PIPA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PI",
+            "PA"
+          ],
+          "instruction": "Encontre a palavra PIPA.",
+          "spoken": "Encontre a palavra pipa.",
+          "example": "",
+          "hint": "Leia em duas partes: PI · PA. PIPA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_01_4",
+          "options": [
+            "PEÇA",
+            "JOGO"
+          ],
+          "x": 1660,
+          "target": "JOGO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "JO",
+            "GO"
+          ],
+          "instruction": "Encontre a palavra JOGO.",
+          "spoken": "Encontre a palavra jogo.",
+          "example": "",
+          "hint": "Leia em duas partes: JO · GO. JOGO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_01_5",
+          "options": [
+            "PEÇA",
+            "BOLA"
+          ],
+          "x": 2080,
+          "target": "PEÇA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PE",
+            "ÇA"
+          ],
+          "instruction": "Encontre a palavra PEÇA.",
+          "spoken": "Encontre a palavra peça.",
+          "example": "",
+          "hint": "Leia em duas partes: PE · ÇA. PEÇA tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_01",
+        "template": "outono-bosque",
+        "title": "Outono · Bosque dos brinquedos",
+        "view": 0.0,
+        "mirror": false,
+        "zoom": 1.34,
+        "tint": "ffffff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "dissilabas_02",
+      "title": "Dissílabas · Brincadeiras",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_02_1",
+          "options": [
+            "PULO",
+            "CORDA"
+          ],
+          "x": 400,
+          "target": "PULO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PU",
+            "LO"
+          ],
+          "instruction": "Encontre a palavra PULO.",
+          "spoken": "Encontre a palavra pulo.",
+          "example": "",
+          "hint": "Leia em duas partes: PU · LO. PULO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_02_2",
+          "options": [
+            "ARO",
+            "CORDA"
+          ],
+          "x": 820,
+          "target": "CORDA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "COR",
+            "DA"
+          ],
+          "instruction": "Encontre a palavra CORDA.",
+          "spoken": "Encontre a palavra corda.",
+          "example": "",
+          "hint": "Leia em duas partes: COR · DA. CORDA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_02_3",
+          "options": [
+            "ARO",
+            "PARQUE"
+          ],
+          "x": 1240,
+          "target": "ARO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "A",
+            "RO"
+          ],
+          "instruction": "Encontre a palavra ARO.",
+          "spoken": "Encontre a palavra aro.",
+          "example": "",
+          "hint": "Leia em duas partes: A · RO. ARO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_02_4",
+          "options": [
+            "PRAÇA",
+            "PARQUE"
+          ],
+          "x": 1660,
+          "target": "PARQUE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PAR",
+            "QUE"
+          ],
+          "instruction": "Encontre a palavra PARQUE.",
+          "spoken": "Encontre a palavra parque.",
+          "example": "",
+          "hint": "Leia em duas partes: PAR · QUE. PARQUE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_02_5",
+          "options": [
+            "PRAÇA",
+            "PULO"
+          ],
+          "x": 2080,
+          "target": "PRAÇA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PRA",
+            "ÇA"
+          ],
+          "instruction": "Encontre a palavra PRAÇA.",
+          "spoken": "Encontre a palavra praça.",
+          "example": "",
+          "hint": "Leia em duas partes: PRA · ÇA. PRAÇA tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_02",
+        "template": "primavera-lago",
+        "title": "Primavera · Lago da manhã",
+        "view": 0.0,
+        "mirror": false,
+        "zoom": 1.34,
+        "tint": "ffffff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "dissilabas_03",
+      "title": "Dissílabas · Nossa casa",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_03_1",
+          "options": [
+            "CASA",
+            "MESA"
+          ],
+          "x": 400,
+          "target": "CASA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CA",
+            "SA"
+          ],
+          "instruction": "Encontre a palavra CASA.",
+          "spoken": "Encontre a palavra casa.",
+          "example": "",
+          "hint": "Leia em duas partes: CA · SA. CASA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_03_2",
+          "options": [
+            "CAMA",
+            "MESA"
+          ],
+          "x": 820,
+          "target": "MESA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "ME",
+            "SA"
+          ],
+          "instruction": "Encontre a palavra MESA.",
+          "spoken": "Encontre a palavra mesa.",
+          "example": "",
+          "hint": "Leia em duas partes: ME · SA. MESA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_03_3",
+          "options": [
+            "CAMA",
+            "SOFÁ"
+          ],
+          "x": 1240,
+          "target": "CAMA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CA",
+            "MA"
+          ],
+          "instruction": "Encontre a palavra CAMA.",
+          "spoken": "Encontre a palavra cama.",
+          "example": "",
+          "hint": "Leia em duas partes: CA · MA. CAMA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_03_4",
+          "options": [
+            "PORTA",
+            "SOFÁ"
+          ],
+          "x": 1660,
+          "target": "SOFÁ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "SO",
+            "FÁ"
+          ],
+          "instruction": "Encontre a palavra SOFÁ.",
+          "spoken": "Encontre a palavra sofá.",
+          "example": "",
+          "hint": "Leia em duas partes: SO · FÁ. SOFÁ tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_03_5",
+          "options": [
+            "PORTA",
+            "CASA"
+          ],
+          "x": 2080,
+          "target": "PORTA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "POR",
+            "TA"
+          ],
+          "instruction": "Encontre a palavra PORTA.",
+          "spoken": "Encontre a palavra porta.",
+          "example": "",
+          "hint": "Leia em duas partes: POR · TA. PORTA tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_03",
+        "template": "outono-vale",
+        "title": "Outono · Vale das brincadeiras",
+        "view": 0.0,
+        "mirror": false,
+        "zoom": 1.34,
+        "tint": "ffffff",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "dissilabas_04",
+      "title": "Dissílabas · Na cozinha",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_04_1",
+          "options": [
+            "COPO",
+            "PRATO"
+          ],
+          "x": 400,
+          "target": "COPO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CO",
+            "PO"
+          ],
+          "instruction": "Encontre a palavra COPO.",
+          "spoken": "Encontre a palavra copo.",
+          "example": "",
+          "hint": "Leia em duas partes: CO · PO. COPO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_04_2",
+          "options": [
+            "GARFO",
+            "PRATO"
+          ],
+          "x": 820,
+          "target": "PRATO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PRA",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra PRATO.",
+          "spoken": "Encontre a palavra prato.",
+          "example": "",
+          "hint": "Leia em duas partes: PRA · TO. PRATO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_04_3",
+          "options": [
+            "GARFO",
+            "POTE"
+          ],
+          "x": 1240,
+          "target": "GARFO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "GAR",
+            "FO"
+          ],
+          "instruction": "Encontre a palavra GARFO.",
+          "spoken": "Encontre a palavra garfo.",
+          "example": "",
+          "hint": "Leia em duas partes: GAR · FO. GARFO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_04_4",
+          "options": [
+            "JARRA",
+            "POTE"
+          ],
+          "x": 1660,
+          "target": "POTE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PO",
+            "TE"
+          ],
+          "instruction": "Encontre a palavra POTE.",
+          "spoken": "Encontre a palavra pote.",
+          "example": "",
+          "hint": "Leia em duas partes: PO · TE. POTE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_04_5",
+          "options": [
+            "JARRA",
+            "COPO"
+          ],
+          "x": 2080,
+          "target": "JARRA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "JAR",
+            "RA"
+          ],
+          "instruction": "Encontre a palavra JARRA.",
+          "spoken": "Encontre a palavra jarra.",
+          "example": "",
+          "hint": "Leia em duas partes: JAR · RA. JARRA tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_04",
+        "template": "primavera-pomar",
+        "title": "Primavera · Jardim da família",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "fff5ea",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "dissilabas_05",
+      "title": "Dissílabas · No quarto",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_05_1",
+          "options": [
+            "LIVRO",
+            "LENÇOL"
+          ],
+          "x": 400,
+          "target": "LIVRO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "LI",
+            "VRO"
+          ],
+          "instruction": "Encontre a palavra LIVRO.",
+          "spoken": "Encontre a palavra livro.",
+          "example": "",
+          "hint": "Leia em duas partes: LI · VRO. LIVRO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_05_2",
+          "options": [
+            "COLCHA",
+            "LENÇOL"
+          ],
+          "x": 820,
+          "target": "LENÇOL",
+          "skill": "disyllable_word",
+          "syllables": [
+            "LEN",
+            "ÇOL"
+          ],
+          "instruction": "Encontre a palavra LENÇOL.",
+          "spoken": "Encontre a palavra lençol.",
+          "example": "",
+          "hint": "Leia em duas partes: LEN · ÇOL. LENÇOL tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_05_3",
+          "options": [
+            "COLCHA",
+            "CAIXA"
+          ],
+          "x": 1240,
+          "target": "COLCHA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "COL",
+            "CHA"
+          ],
+          "instruction": "Encontre a palavra COLCHA.",
+          "spoken": "Encontre a palavra colcha.",
+          "example": "",
+          "hint": "Leia em duas partes: COL · CHA. COLCHA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_05_4",
+          "options": [
+            "BERÇO",
+            "CAIXA"
+          ],
+          "x": 1660,
+          "target": "CAIXA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CAI",
+            "XA"
+          ],
+          "instruction": "Encontre a palavra CAIXA.",
+          "spoken": "Encontre a palavra caixa.",
+          "example": "",
+          "hint": "Leia em duas partes: CAI · XA. CAIXA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_05_5",
+          "options": [
+            "BERÇO",
+            "LIVRO"
+          ],
+          "x": 2080,
+          "target": "BERÇO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BER",
+            "ÇO"
+          ],
+          "instruction": "Encontre a palavra BERÇO.",
+          "spoken": "Encontre a palavra berço.",
+          "example": "",
+          "hint": "Leia em duas partes: BER · ÇO. BERÇO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_05",
+        "template": "outono-bosque",
+        "title": "Outono · Folhas ao vento",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "fff5ea",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "dissilabas_06",
+      "title": "Dissílabas · Nossas roupas",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_06_1",
+          "options": [
+            "ROUPA",
+            "MEIA"
+          ],
+          "x": 400,
+          "target": "ROUPA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "ROU",
+            "PA"
+          ],
+          "instruction": "Encontre a palavra ROUPA.",
+          "spoken": "Encontre a palavra roupa.",
+          "example": "",
+          "hint": "Leia em duas partes: ROU · PA. ROUPA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_06_2",
+          "options": [
+            "CALÇA",
+            "MEIA"
+          ],
+          "x": 820,
+          "target": "MEIA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "MEI",
+            "A"
+          ],
+          "instruction": "Encontre a palavra MEIA.",
+          "spoken": "Encontre a palavra meia.",
+          "example": "",
+          "hint": "Leia em duas partes: MEI · A. MEIA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_06_3",
+          "options": [
+            "CALÇA",
+            "BLUSA"
+          ],
+          "x": 1240,
+          "target": "CALÇA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CAL",
+            "ÇA"
+          ],
+          "instruction": "Encontre a palavra CALÇA.",
+          "spoken": "Encontre a palavra calça.",
+          "example": "",
+          "hint": "Leia em duas partes: CAL · ÇA. CALÇA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_06_4",
+          "options": [
+            "BONÉ",
+            "BLUSA"
+          ],
+          "x": 1660,
+          "target": "BLUSA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BLU",
+            "SA"
+          ],
+          "instruction": "Encontre a palavra BLUSA.",
+          "spoken": "Encontre a palavra blusa.",
+          "example": "",
+          "hint": "Leia em duas partes: BLU · SA. BLUSA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_06_5",
+          "options": [
+            "BONÉ",
+            "ROUPA"
+          ],
+          "x": 2080,
+          "target": "BONÉ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BO",
+            "NÉ"
+          ],
+          "instruction": "Encontre a palavra BONÉ.",
+          "spoken": "Encontre a palavra boné.",
+          "example": "",
+          "hint": "Leia em duas partes: BO · NÉ. BONÉ tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_06",
+        "template": "primavera-lago",
+        "title": "Primavera · Margem tranquila",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "fff5ea",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "dissilabas_07",
+      "title": "Dissílabas · Hora de cuidar",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_07_1",
+          "options": [
+            "BANHO",
+            "DENTE"
+          ],
+          "x": 400,
+          "target": "BANHO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BA",
+            "NHO"
+          ],
+          "instruction": "Encontre a palavra BANHO.",
+          "spoken": "Encontre a palavra banho.",
+          "example": "",
+          "hint": "Leia em duas partes: BA · NHO. BANHO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_07_2",
+          "options": [
+            "PENTE",
+            "DENTE"
+          ],
+          "x": 820,
+          "target": "DENTE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "DEN",
+            "TE"
+          ],
+          "instruction": "Encontre a palavra DENTE.",
+          "spoken": "Encontre a palavra dente.",
+          "example": "",
+          "hint": "Leia em duas partes: DEN · TE. DENTE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_07_3",
+          "options": [
+            "PENTE",
+            "FRALDA"
+          ],
+          "x": 1240,
+          "target": "PENTE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PEN",
+            "TE"
+          ],
+          "instruction": "Encontre a palavra PENTE.",
+          "spoken": "Encontre a palavra pente.",
+          "example": "",
+          "hint": "Leia em duas partes: PEN · TE. PENTE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_07_4",
+          "options": [
+            "ROSTO",
+            "FRALDA"
+          ],
+          "x": 1660,
+          "target": "FRALDA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "FRAL",
+            "DA"
+          ],
+          "instruction": "Encontre a palavra FRALDA.",
+          "spoken": "Encontre a palavra fralda.",
+          "example": "",
+          "hint": "Leia em duas partes: FRAL · DA. FRALDA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_07_5",
+          "options": [
+            "ROSTO",
+            "BANHO"
+          ],
+          "x": 2080,
+          "target": "ROSTO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "ROS",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra ROSTO.",
+          "spoken": "Encontre a palavra rosto.",
+          "example": "",
+          "hint": "Leia em duas partes: ROS · TO. ROSTO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_07",
+        "template": "outono-vale",
+        "title": "Outono · Campos ao entardecer",
+        "view": 0.2,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "fff5ea",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "dissilabas_08",
+      "title": "Dissílabas · Nosso corpo",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_08_1",
+          "options": [
+            "BOCA",
+            "DEDO"
+          ],
+          "x": 400,
+          "target": "BOCA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BO",
+            "CA"
+          ],
+          "instruction": "Encontre a palavra BOCA.",
+          "spoken": "Encontre a palavra boca.",
+          "example": "",
+          "hint": "Leia em duas partes: BO · CA. BOCA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_08_2",
+          "options": [
+            "BRAÇO",
+            "DEDO"
+          ],
+          "x": 820,
+          "target": "DEDO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "DE",
+            "DO"
+          ],
+          "instruction": "Encontre a palavra DEDO.",
+          "spoken": "Encontre a palavra dedo.",
+          "example": "",
+          "hint": "Leia em duas partes: DE · DO. DEDO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_08_3",
+          "options": [
+            "BRAÇO",
+            "PERNA"
+          ],
+          "x": 1240,
+          "target": "BRAÇO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BRA",
+            "ÇO"
+          ],
+          "instruction": "Encontre a palavra BRAÇO.",
+          "spoken": "Encontre a palavra braço.",
+          "example": "",
+          "hint": "Leia em duas partes: BRA · ÇO. BRAÇO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_08_4",
+          "options": [
+            "NARIZ",
+            "PERNA"
+          ],
+          "x": 1660,
+          "target": "PERNA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PER",
+            "NA"
+          ],
+          "instruction": "Encontre a palavra PERNA.",
+          "spoken": "Encontre a palavra perna.",
+          "example": "",
+          "hint": "Leia em duas partes: PER · NA. PERNA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_08_5",
+          "options": [
+            "NARIZ",
+            "BOCA"
+          ],
+          "x": 2080,
+          "target": "NARIZ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "NA",
+            "RIZ"
+          ],
+          "instruction": "Encontre a palavra NARIZ.",
+          "spoken": "Encontre a palavra nariz.",
+          "example": "",
+          "hint": "Leia em duas partes: NA · RIZ. NARIZ tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_08",
+        "template": "primavera-pomar",
+        "title": "Primavera · Trilha das maçãs",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.46,
+        "tint": "f0faff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "dissilabas_09",
+      "title": "Dissílabas · Nossa família",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_09_1",
+          "options": [
+            "MAMÃE",
+            "PAPAI"
+          ],
+          "x": 400,
+          "target": "MAMÃE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "MA",
+            "MÃE"
+          ],
+          "instruction": "Encontre a palavra MAMÃE.",
+          "spoken": "Encontre a palavra mamãe.",
+          "example": "",
+          "hint": "Leia em duas partes: MA · MÃE. MAMÃE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_09_2",
+          "options": [
+            "VOVÓ",
+            "PAPAI"
+          ],
+          "x": 820,
+          "target": "PAPAI",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PA",
+            "PAI"
+          ],
+          "instruction": "Encontre a palavra PAPAI.",
+          "spoken": "Encontre a palavra papai.",
+          "example": "",
+          "hint": "Leia em duas partes: PA · PAI. PAPAI tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_09_3",
+          "options": [
+            "VOVÓ",
+            "VOVÔ"
+          ],
+          "x": 1240,
+          "target": "VOVÓ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "VO",
+            "VÓ"
+          ],
+          "instruction": "Encontre a palavra VOVÓ.",
+          "spoken": "Encontre a palavra vovó.",
+          "example": "",
+          "hint": "Leia em duas partes: VO · VÓ. VOVÓ tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_09_4",
+          "options": [
+            "BEBÊ",
+            "VOVÔ"
+          ],
+          "x": 1660,
+          "target": "VOVÔ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "VO",
+            "VÔ"
+          ],
+          "instruction": "Encontre a palavra VOVÔ.",
+          "spoken": "Encontre a palavra vovô.",
+          "example": "",
+          "hint": "Leia em duas partes: VO · VÔ. VOVÔ tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_09_5",
+          "options": [
+            "BEBÊ",
+            "MAMÃE"
+          ],
+          "x": 2080,
+          "target": "BEBÊ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BE",
+            "BÊ"
+          ],
+          "instruction": "Encontre a palavra BEBÊ.",
+          "spoken": "Encontre a palavra bebê.",
+          "example": "",
+          "hint": "Leia em duas partes: BE · BÊ. BEBÊ tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_09",
+        "template": "outono-bosque",
+        "title": "Outono · Caminho de cobre",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.46,
+        "tint": "f0faff",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "dissilabas_10",
+      "title": "Dissílabas · Na aula",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_10_1",
+          "options": [
+            "LÁPIS",
+            "TINTA"
+          ],
+          "x": 400,
+          "target": "LÁPIS",
+          "skill": "disyllable_word",
+          "syllables": [
+            "LÁ",
+            "PIS"
+          ],
+          "instruction": "Encontre a palavra LÁPIS.",
+          "spoken": "Encontre a palavra lápis.",
+          "example": "",
+          "hint": "Leia em duas partes: LÁ · PIS. LÁPIS tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_10_2",
+          "options": [
+            "PINCEL",
+            "TINTA"
+          ],
+          "x": 820,
+          "target": "TINTA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "TIN",
+            "TA"
+          ],
+          "instruction": "Encontre a palavra TINTA.",
+          "spoken": "Encontre a palavra tinta.",
+          "example": "",
+          "hint": "Leia em duas partes: TIN · TA. TINTA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_10_3",
+          "options": [
+            "PINCEL",
+            "PAPEL"
+          ],
+          "x": 1240,
+          "target": "PINCEL",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PIN",
+            "CEL"
+          ],
+          "instruction": "Encontre a palavra PINCEL.",
+          "spoken": "Encontre a palavra pincel.",
+          "example": "",
+          "hint": "Leia em duas partes: PIN · CEL. PINCEL tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_10_4",
+          "options": [
+            "AULA",
+            "PAPEL"
+          ],
+          "x": 1660,
+          "target": "PAPEL",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PA",
+            "PEL"
+          ],
+          "instruction": "Encontre a palavra PAPEL.",
+          "spoken": "Encontre a palavra papel.",
+          "example": "",
+          "hint": "Leia em duas partes: PA · PEL. PAPEL tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_10_5",
+          "options": [
+            "AULA",
+            "LÁPIS"
+          ],
+          "x": 2080,
+          "target": "AULA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "AU",
+            "LA"
+          ],
+          "instruction": "Encontre a palavra AULA.",
+          "spoken": "Encontre a palavra aula.",
+          "example": "",
+          "hint": "Leia em duas partes: AU · LA. AULA tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_10",
+        "template": "primavera-lago",
+        "title": "Primavera · Águas da primavera",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.46,
+        "tint": "f0faff",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "dissilabas_11",
+      "title": "Dissílabas · Hora do lanche",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_11_1",
+          "options": [
+            "BOLO",
+            "LEITE"
+          ],
+          "x": 400,
+          "target": "BOLO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BO",
+            "LO"
+          ],
+          "instruction": "Encontre a palavra BOLO.",
+          "spoken": "Encontre a palavra bolo.",
+          "example": "",
+          "hint": "Leia em duas partes: BO · LO. BOLO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_11_2",
+          "options": [
+            "SUCO",
+            "LEITE"
+          ],
+          "x": 820,
+          "target": "LEITE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "LEI",
+            "TE"
+          ],
+          "instruction": "Encontre a palavra LEITE.",
+          "spoken": "Encontre a palavra leite.",
+          "example": "",
+          "hint": "Leia em duas partes: LEI · TE. LEITE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_11_3",
+          "options": [
+            "SUCO",
+            "QUEIJO"
+          ],
+          "x": 1240,
+          "target": "SUCO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "SU",
+            "CO"
+          ],
+          "instruction": "Encontre a palavra SUCO.",
+          "spoken": "Encontre a palavra suco.",
+          "example": "",
+          "hint": "Leia em duas partes: SU · CO. SUCO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_11_4",
+          "options": [
+            "DOCE",
+            "QUEIJO"
+          ],
+          "x": 1660,
+          "target": "QUEIJO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "QUEI",
+            "JO"
+          ],
+          "instruction": "Encontre a palavra QUEIJO.",
+          "spoken": "Encontre a palavra queijo.",
+          "example": "",
+          "hint": "Leia em duas partes: QUEI · JO. QUEIJO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_11_5",
+          "options": [
+            "DOCE",
+            "BOLO"
+          ],
+          "x": 2080,
+          "target": "DOCE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "DO",
+            "CE"
+          ],
+          "instruction": "Encontre a palavra DOCE.",
+          "spoken": "Encontre a palavra doce.",
+          "example": "",
+          "hint": "Leia em duas partes: DO · CE. DOCE tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_11",
+        "template": "outono-vale",
+        "title": "Outono · Colinas douradas",
+        "view": 0.4,
+        "mirror": false,
+        "zoom": 1.46,
+        "tint": "f0faff",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "dissilabas_12",
+      "title": "Dissílabas · Nossas frutas",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_12_1",
+          "options": [
+            "UVA",
+            "MAÇÃ"
+          ],
+          "x": 400,
+          "target": "UVA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "U",
+            "VA"
+          ],
+          "instruction": "Encontre a palavra UVA.",
+          "spoken": "Encontre a palavra uva.",
+          "example": "",
+          "hint": "Leia em duas partes: U · VA. UVA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_12_2",
+          "options": [
+            "PERA",
+            "MAÇÃ"
+          ],
+          "x": 820,
+          "target": "MAÇÃ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "MA",
+            "ÇÃ"
+          ],
+          "instruction": "Encontre a palavra MAÇÃ.",
+          "spoken": "Encontre a palavra maçã.",
+          "example": "",
+          "hint": "Leia em duas partes: MA · ÇÃ. MAÇÃ tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_12_3",
+          "options": [
+            "PERA",
+            "MANGA"
+          ],
+          "x": 1240,
+          "target": "PERA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PE",
+            "RA"
+          ],
+          "instruction": "Encontre a palavra PERA.",
+          "spoken": "Encontre a palavra pera.",
+          "example": "",
+          "hint": "Leia em duas partes: PE · RA. PERA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_12_4",
+          "options": [
+            "COCO",
+            "MANGA"
+          ],
+          "x": 1660,
+          "target": "MANGA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "MAN",
+            "GA"
+          ],
+          "instruction": "Encontre a palavra MANGA.",
+          "spoken": "Encontre a palavra manga.",
+          "example": "",
+          "hint": "Leia em duas partes: MAN · GA. MANGA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_12_5",
+          "options": [
+            "COCO",
+            "UVA"
+          ],
+          "x": 2080,
+          "target": "COCO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CO",
+            "CO"
+          ],
+          "instruction": "Encontre a palavra COCO.",
+          "spoken": "Encontre a palavra coco.",
+          "example": "",
+          "hint": "Leia em duas partes: CO · CO. COCO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_12",
+        "template": "primavera-pomar",
+        "title": "Primavera · Pomar sereno",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.34,
+        "tint": "fff0f5",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "dissilabas_13",
+      "title": "Dissílabas · Na refeição",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_13_1",
+          "options": [
+            "ARROZ",
+            "FEIJÃO"
+          ],
+          "x": 400,
+          "target": "ARROZ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "AR",
+            "ROZ"
+          ],
+          "instruction": "Encontre a palavra ARROZ.",
+          "spoken": "Encontre a palavra arroz.",
+          "example": "",
+          "hint": "Leia em duas partes: AR · ROZ. ARROZ tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_13_2",
+          "options": [
+            "CARNE",
+            "FEIJÃO"
+          ],
+          "x": 820,
+          "target": "FEIJÃO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "FEI",
+            "JÃO"
+          ],
+          "instruction": "Encontre a palavra FEIJÃO.",
+          "spoken": "Encontre a palavra feijão.",
+          "example": "",
+          "hint": "Leia em duas partes: FEI · JÃO. FEIJÃO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_13_3",
+          "options": [
+            "CARNE",
+            "SOPA"
+          ],
+          "x": 1240,
+          "target": "CARNE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CAR",
+            "NE"
+          ],
+          "instruction": "Encontre a palavra CARNE.",
+          "spoken": "Encontre a palavra carne.",
+          "example": "",
+          "hint": "Leia em duas partes: CAR · NE. CARNE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_13_4",
+          "options": [
+            "OVO",
+            "SOPA"
+          ],
+          "x": 1660,
+          "target": "SOPA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "SO",
+            "PA"
+          ],
+          "instruction": "Encontre a palavra SOPA.",
+          "spoken": "Encontre a palavra sopa.",
+          "example": "",
+          "hint": "Leia em duas partes: SO · PA. SOPA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_13_5",
+          "options": [
+            "OVO",
+            "ARROZ"
+          ],
+          "x": 2080,
+          "target": "OVO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "O",
+            "VO"
+          ],
+          "instruction": "Encontre a palavra OVO.",
+          "spoken": "Encontre a palavra ovo.",
+          "example": "",
+          "hint": "Leia em duas partes: O · VO. OVO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_13",
+        "template": "outono-bosque",
+        "title": "Outono · Árvores ao sol",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.34,
+        "tint": "fff0f5",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "dissilabas_14",
+      "title": "Dissílabas · Bichos conhecidos",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_14_1",
+          "options": [
+            "GATO",
+            "PATO"
+          ],
+          "x": 400,
+          "target": "GATO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "GA",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra GATO.",
+          "spoken": "Encontre a palavra gato.",
+          "example": "",
+          "hint": "Leia em duas partes: GA · TO. GATO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_14_2",
+          "options": [
+            "SAPO",
+            "PATO"
+          ],
+          "x": 820,
+          "target": "PATO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PA",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra PATO.",
+          "spoken": "Encontre a palavra pato.",
+          "example": "",
+          "hint": "Leia em duas partes: PA · TO. PATO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_14_3",
+          "options": [
+            "SAPO",
+            "VACA"
+          ],
+          "x": 1240,
+          "target": "SAPO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "SA",
+            "PO"
+          ],
+          "instruction": "Encontre a palavra SAPO.",
+          "spoken": "Encontre a palavra sapo.",
+          "example": "",
+          "hint": "Leia em duas partes: SA · PO. SAPO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_14_4",
+          "options": [
+            "PORCO",
+            "VACA"
+          ],
+          "x": 1660,
+          "target": "VACA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "VA",
+            "CA"
+          ],
+          "instruction": "Encontre a palavra VACA.",
+          "spoken": "Encontre a palavra vaca.",
+          "example": "",
+          "hint": "Leia em duas partes: VA · CA. VACA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_14_5",
+          "options": [
+            "PORCO",
+            "GATO"
+          ],
+          "x": 2080,
+          "target": "PORCO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "POR",
+            "CO"
+          ],
+          "instruction": "Encontre a palavra PORCO.",
+          "spoken": "Encontre a palavra porco.",
+          "example": "",
+          "hint": "Leia em duas partes: POR · CO. PORCO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_14",
+        "template": "primavera-lago",
+        "title": "Primavera · Jardim da cachoeira",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.34,
+        "tint": "fff0f5",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "dissilabas_15",
+      "title": "Dissílabas · Mais bichos",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_15_1",
+          "options": [
+            "PEIXE",
+            "URSO"
+          ],
+          "x": 400,
+          "target": "PEIXE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PEI",
+            "XE"
+          ],
+          "instruction": "Encontre a palavra PEIXE.",
+          "spoken": "Encontre a palavra peixe.",
+          "example": "",
+          "hint": "Leia em duas partes: PEI · XE. PEIXE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_15_2",
+          "options": [
+            "TIGRE",
+            "URSO"
+          ],
+          "x": 820,
+          "target": "URSO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "UR",
+            "SO"
+          ],
+          "instruction": "Encontre a palavra URSO.",
+          "spoken": "Encontre a palavra urso.",
+          "example": "",
+          "hint": "Leia em duas partes: UR · SO. URSO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_15_3",
+          "options": [
+            "TIGRE",
+            "ZEBRA"
+          ],
+          "x": 1240,
+          "target": "TIGRE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "TI",
+            "GRE"
+          ],
+          "instruction": "Encontre a palavra TIGRE.",
+          "spoken": "Encontre a palavra tigre.",
+          "example": "",
+          "hint": "Leia em duas partes: TI · GRE. TIGRE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_15_4",
+          "options": [
+            "RATO",
+            "ZEBRA"
+          ],
+          "x": 1660,
+          "target": "ZEBRA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "ZE",
+            "BRA"
+          ],
+          "instruction": "Encontre a palavra ZEBRA.",
+          "spoken": "Encontre a palavra zebra.",
+          "example": "",
+          "hint": "Leia em duas partes: ZE · BRA. ZEBRA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_15_5",
+          "options": [
+            "RATO",
+            "PEIXE"
+          ],
+          "x": 2080,
+          "target": "RATO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "RA",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra RATO.",
+          "spoken": "Encontre a palavra rato.",
+          "example": "",
+          "hint": "Leia em duas partes: RA · TO. RATO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_15",
+        "template": "outono-vale",
+        "title": "Outono · Moinho ao sol",
+        "view": 0.6,
+        "mirror": false,
+        "zoom": 1.34,
+        "tint": "fff0f5",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "dissilabas_16",
+      "title": "Dissílabas · Na natureza",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_16_1",
+          "options": [
+            "CHUVA",
+            "VENTO"
+          ],
+          "x": 400,
+          "target": "CHUVA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CHU",
+            "VA"
+          ],
+          "instruction": "Encontre a palavra CHUVA.",
+          "spoken": "Encontre a palavra chuva.",
+          "example": "",
+          "hint": "Leia em duas partes: CHU · VA. CHUVA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_16_2",
+          "options": [
+            "NUVEM",
+            "VENTO"
+          ],
+          "x": 820,
+          "target": "VENTO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "VEN",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra VENTO.",
+          "spoken": "Encontre a palavra vento.",
+          "example": "",
+          "hint": "Leia em duas partes: VEN · TO. VENTO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_16_3",
+          "options": [
+            "NUVEM",
+            "FOLHA"
+          ],
+          "x": 1240,
+          "target": "NUVEM",
+          "skill": "disyllable_word",
+          "syllables": [
+            "NU",
+            "VEM"
+          ],
+          "instruction": "Encontre a palavra NUVEM.",
+          "spoken": "Encontre a palavra nuvem.",
+          "example": "",
+          "hint": "Leia em duas partes: NU · VEM. NUVEM tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_16_4",
+          "options": [
+            "PEDRA",
+            "FOLHA"
+          ],
+          "x": 1660,
+          "target": "FOLHA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "FO",
+            "LHA"
+          ],
+          "instruction": "Encontre a palavra FOLHA.",
+          "spoken": "Encontre a palavra folha.",
+          "example": "",
+          "hint": "Leia em duas partes: FO · LHA. FOLHA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_16_5",
+          "options": [
+            "PEDRA",
+            "CHUVA"
+          ],
+          "x": 2080,
+          "target": "PEDRA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PE",
+            "DRA"
+          ],
+          "instruction": "Encontre a palavra PEDRA.",
+          "spoken": "Encontre a palavra pedra.",
+          "example": "",
+          "hint": "Leia em duas partes: PE · DRA. PEDRA tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_16",
+        "template": "primavera-pomar",
+        "title": "Primavera · Cerejeiras ao sol",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "f6ffe9",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "dissilabas_17",
+      "title": "Dissílabas · Vamos passear",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_17_1",
+          "options": [
+            "CARRO",
+            "MOTO"
+          ],
+          "x": 400,
+          "target": "CARRO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CAR",
+            "RO"
+          ],
+          "instruction": "Encontre a palavra CARRO.",
+          "spoken": "Encontre a palavra carro.",
+          "example": "",
+          "hint": "Leia em duas partes: CAR · RO. CARRO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_17_2",
+          "options": [
+            "BARCO",
+            "MOTO"
+          ],
+          "x": 820,
+          "target": "MOTO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "MO",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra MOTO.",
+          "spoken": "Encontre a palavra moto.",
+          "example": "",
+          "hint": "Leia em duas partes: MO · TO. MOTO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_17_3",
+          "options": [
+            "BARCO",
+            "RUA"
+          ],
+          "x": 1240,
+          "target": "BARCO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BAR",
+            "CO"
+          ],
+          "instruction": "Encontre a palavra BARCO.",
+          "spoken": "Encontre a palavra barco.",
+          "example": "",
+          "hint": "Leia em duas partes: BAR · CO. BARCO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_17_4",
+          "options": [
+            "PONTE",
+            "RUA"
+          ],
+          "x": 1660,
+          "target": "RUA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "RU",
+            "A"
+          ],
+          "instruction": "Encontre a palavra RUA.",
+          "spoken": "Encontre a palavra rua.",
+          "example": "",
+          "hint": "Leia em duas partes: RU · A. RUA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_17_5",
+          "options": [
+            "PONTE",
+            "CARRO"
+          ],
+          "x": 2080,
+          "target": "PONTE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PON",
+            "TE"
+          ],
+          "instruction": "Encontre a palavra PONTE.",
+          "spoken": "Encontre a palavra ponte.",
+          "example": "",
+          "hint": "Leia em duas partes: PON · TE. PONTE tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_17",
+        "template": "outono-bosque",
+        "title": "Outono · Clareira das cores",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "f6ffe9",
+        "terrain": "ffd6ac"
+      }
+    },
+    {
+      "id": "dissilabas_18",
+      "title": "Dissílabas · Nossas cores",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_18_1",
+          "options": [
+            "ROSA",
+            "ROXO"
+          ],
+          "x": 400,
+          "target": "ROSA",
+          "skill": "disyllable_word",
+          "syllables": [
+            "RO",
+            "SA"
+          ],
+          "instruction": "Encontre a palavra ROSA.",
+          "spoken": "Encontre a palavra rosa.",
+          "example": "",
+          "hint": "Leia em duas partes: RO · SA. ROSA tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_18_2",
+          "options": [
+            "VERDE",
+            "ROXO"
+          ],
+          "x": 820,
+          "target": "ROXO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "RO",
+            "XO"
+          ],
+          "instruction": "Encontre a palavra ROXO.",
+          "spoken": "Encontre a palavra roxo.",
+          "example": "",
+          "hint": "Leia em duas partes: RO · XO. ROXO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_18_3",
+          "options": [
+            "VERDE",
+            "PRETO"
+          ],
+          "x": 1240,
+          "target": "VERDE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "VER",
+            "DE"
+          ],
+          "instruction": "Encontre a palavra VERDE.",
+          "spoken": "Encontre a palavra verde.",
+          "example": "",
+          "hint": "Leia em duas partes: VER · DE. VERDE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_18_4",
+          "options": [
+            "BRANCO",
+            "PRETO"
+          ],
+          "x": 1660,
+          "target": "PRETO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PRE",
+            "TO"
+          ],
+          "instruction": "Encontre a palavra PRETO.",
+          "spoken": "Encontre a palavra preto.",
+          "example": "",
+          "hint": "Leia em duas partes: PRE · TO. PRETO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_18_5",
+          "options": [
+            "BRANCO",
+            "ROSA"
+          ],
+          "x": 2080,
+          "target": "BRANCO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BRAN",
+            "CO"
+          ],
+          "instruction": "Encontre a palavra BRANCO.",
+          "spoken": "Encontre a palavra branco.",
+          "example": "",
+          "hint": "Leia em duas partes: BRAN · CO. BRANCO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_18",
+        "template": "primavera-lago",
+        "title": "Primavera · Colinas azuis",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "f6ffe9",
+        "terrain": "eeedff"
+      }
+    },
+    {
+      "id": "dissilabas_19",
+      "title": "Dissílabas · O que sentimos",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_19_1",
+          "options": [
+            "AMOR",
+            "FELIZ"
+          ],
+          "x": 400,
+          "target": "AMOR",
+          "skill": "disyllable_word",
+          "syllables": [
+            "A",
+            "MOR"
+          ],
+          "instruction": "Encontre a palavra AMOR.",
+          "spoken": "Encontre a palavra amor.",
+          "example": "",
+          "hint": "Leia em duas partes: A · MOR. AMOR tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_19_2",
+          "options": [
+            "TRISTE",
+            "FELIZ"
+          ],
+          "x": 820,
+          "target": "FELIZ",
+          "skill": "disyllable_word",
+          "syllables": [
+            "FE",
+            "LIZ"
+          ],
+          "instruction": "Encontre a palavra FELIZ.",
+          "spoken": "Encontre a palavra feliz.",
+          "example": "",
+          "hint": "Leia em duas partes: FE · LIZ. FELIZ tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_19_3",
+          "options": [
+            "TRISTE",
+            "MEDO"
+          ],
+          "x": 1240,
+          "target": "TRISTE",
+          "skill": "disyllable_word",
+          "syllables": [
+            "TRIS",
+            "TE"
+          ],
+          "instruction": "Encontre a palavra TRISTE.",
+          "spoken": "Encontre a palavra triste.",
+          "example": "",
+          "hint": "Leia em duas partes: TRIS · TE. TRISTE tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_19_4",
+          "options": [
+            "RISO",
+            "MEDO"
+          ],
+          "x": 1660,
+          "target": "MEDO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "ME",
+            "DO"
+          ],
+          "instruction": "Encontre a palavra MEDO.",
+          "spoken": "Encontre a palavra medo.",
+          "example": "",
+          "hint": "Leia em duas partes: ME · DO. MEDO tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_19_5",
+          "options": [
+            "RISO",
+            "AMOR"
+          ],
+          "x": 2080,
+          "target": "RISO",
+          "skill": "disyllable_word",
+          "syllables": [
+            "RI",
+            "SO"
+          ],
+          "instruction": "Encontre a palavra RISO.",
+          "spoken": "Encontre a palavra riso.",
+          "example": "",
+          "hint": "Leia em duas partes: RI · SO. RISO tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_19",
+        "template": "outono-vale",
+        "title": "Outono · Caminho do vale",
+        "view": 0.8,
+        "mirror": false,
+        "zoom": 1.4,
+        "tint": "f6ffe9",
+        "terrain": "ffcab0"
+      }
+    },
+    {
+      "id": "dissilabas_20",
+      "title": "Dissílabas · O que fazemos",
+      "group": "dissilabas",
+      "note": "Palavras familiares ao cotidiano infantil com duas sílabas. Use a ajuda para ver a divisão silábica.",
+      "length": 2490,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "dissilabas_20_1",
+          "options": [
+            "PULAR",
+            "ANDAR"
+          ],
+          "x": 400,
+          "target": "PULAR",
+          "skill": "disyllable_word",
+          "syllables": [
+            "PU",
+            "LAR"
+          ],
+          "instruction": "Encontre a palavra PULAR.",
+          "spoken": "Encontre a palavra pular.",
+          "example": "",
+          "hint": "Leia em duas partes: PU · LAR. PULAR tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_20_2",
+          "options": [
+            "BRINCAR",
+            "ANDAR"
+          ],
+          "x": 820,
+          "target": "ANDAR",
+          "skill": "disyllable_word",
+          "syllables": [
+            "AN",
+            "DAR"
+          ],
+          "instruction": "Encontre a palavra ANDAR.",
+          "spoken": "Encontre a palavra andar.",
+          "example": "",
+          "hint": "Leia em duas partes: AN · DAR. ANDAR tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_20_3",
+          "options": [
+            "BRINCAR",
+            "CANTAR"
+          ],
+          "x": 1240,
+          "target": "BRINCAR",
+          "skill": "disyllable_word",
+          "syllables": [
+            "BRIN",
+            "CAR"
+          ],
+          "instruction": "Encontre a palavra BRINCAR.",
+          "spoken": "Encontre a palavra brincar.",
+          "example": "",
+          "hint": "Leia em duas partes: BRIN · CAR. BRINCAR tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_20_4",
+          "options": [
+            "DORMIR",
+            "CANTAR"
+          ],
+          "x": 1660,
+          "target": "CANTAR",
+          "skill": "disyllable_word",
+          "syllables": [
+            "CAN",
+            "TAR"
+          ],
+          "instruction": "Encontre a palavra CANTAR.",
+          "spoken": "Encontre a palavra cantar.",
+          "example": "",
+          "hint": "Leia em duas partes: CAN · TAR. CANTAR tem duas sílabas."
+        },
+        {
+          "id": "dissilabas_20_5",
+          "options": [
+            "DORMIR",
+            "PULAR"
+          ],
+          "x": 2080,
+          "target": "DORMIR",
+          "skill": "disyllable_word",
+          "syllables": [
+            "DOR",
+            "MIR"
+          ],
+          "instruction": "Encontre a palavra DORMIR.",
+          "spoken": "Encontre a palavra dormir.",
+          "example": "",
+          "hint": "Leia em duas partes: DOR · MIR. DORMIR tem duas sílabas."
+        }
+      ],
+      "scenery": {
+        "id": "dissilabas_20",
+        "template": "primavera-pomar",
+        "title": "Primavera · Brisa nas flores",
+        "view": 1.0,
+        "mirror": false,
+        "zoom": 1.46,
+        "tint": "f1f0ff",
+        "terrain": "e9fff0"
+      }
+    },
+    {
+      "id": "jardim_inicio",
+      "title": "Jardim das primeiras descobertas",
+      "group": "extra",
+      "note": "Fase original preservada com o progresso anterior.",
+      "length": 2240,
+      "checkpoint": 1110,
+      "activities": [
+        {
+          "id": "letra_a",
+          "skill": "letter_name",
+          "target": "A",
+          "options": [
+            "A",
+            "M"
+          ],
+          "instruction": "Encontre a letra A.",
+          "spoken": "Encontre a letra á.",
+          "hint": "A letra A tem duas pernas e um tracinho no meio.",
+          "x": 400
+        },
+        {
+          "id": "letra_m",
+          "skill": "letter_name",
+          "target": "M",
+          "options": [
+            "A",
+            "M"
+          ],
+          "instruction": "Encontre a letra M.",
+          "spoken": "Encontre a letra eme.",
+          "hint": "A letra M tem duas pontas em cima e um encontro no meio.",
+          "x": 820
+        },
+        {
+          "id": "letra_l",
+          "skill": "letter_name",
+          "target": "L",
+          "options": [
+            "L",
+            "A"
+          ],
+          "instruction": "Encontre a letra L.",
+          "spoken": "Encontre a letra ele.",
+          "hint": "A letra L tem um traço em pé e outro deitado.",
+          "x": 1330
+        },
+        {
+          "id": "quantidade_3",
+          "skill": "quantity",
+          "target": "3",
+          "options": [
+            "2",
+            "3"
+          ],
+          "instruction": "Encontre o grupo com 3 estrelas.",
+          "spoken": "Encontre o grupo com três estrelas.",
+          "hint": "Conte as estrelas com calma: uma, duas, três.",
+          "x": 1830
+        }
+      ],
+      "scenery": {
+        "id": "jardim_inicio",
+        "template": "outono-vale",
+        "title": "Outono · Fim de tarde",
+        "view": 1.0,
+        "mirror": true,
+        "zoom": 1.24,
+        "tint": "f1f0ff",
+        "terrain": "ffcab0"
+      }
+    }
+  ],
+  "positive_feedback": [
+    "Isso, você acertou!!!",
+    "Muito bem! Você conseguiu!",
+    "Uhu! Você encontrou!",
+    "Boa descoberta! Vamos continuar!",
+    "Que legal! Mais uma conquista!",
+    "Parabéns! Você está aprendendo!",
+    "Mandou bem! Vamos para a próxima!",
+    "Isso mesmo! Continue explorando!"
+  ],
+  "sources": [
+    "https://ceale.fae.ufmg.br/glossarioceale/verbetes/silaba",
+    "https://ceale.fae.ufmg.br/glossarioceale/verbetes/metodo-silabico",
+    "https://www.academia.org.br/artigos/novas-letras-k-w-e-y",
+    "https://ceale.fae.ufmg.br/glossarioceale/verbetes/convencoes-da-escrita"
+  ]
+}

@@ -1,0 +1,55 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  publication:
+    name: Publication safety
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - run: python3 tools/check_publication.py
+      - name: Scan history with Gitleaks
+        shell: bash
+        run: |
+          set -euo pipefail
+          folder="$(mktemp -d)"
+          base="https://github.com/gitleaks/gitleaks/releases/download/v8.30.1"
+          curl -fsSL "$base/gitleaks_8.30.1_linux_x64.tar.gz" -o "$folder/gitleaks_8.30.1_linux_x64.tar.gz"
+          curl -fsSL "$base/gitleaks_8.30.1_checksums.txt" -o "$folder/checksums.txt"
+          (cd "$folder" && grep '  gitleaks_8.30.1_linux_x64.tar.gz$' checksums.txt | sha256sum -c -)
+          tar -xzf "$folder/gitleaks_8.30.1_linux_x64.tar.gz" -C "$folder" gitleaks
+          "$folder/gitleaks" git . --redact --no-banner
+  tests:
+    name: Godot and Python tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Install official Godot 4.7.2
+        shell: bash
+        run: |
+          set -euo pipefail
+          folder="$(mktemp -d)"
+          base="https://github.com/godotengine/godot/releases/download/4.7.2-stable"
+          name="Godot_v4.7.2-stable_linux.x86_64.zip"
+          curl -fsSL "$base/$name" -o "$folder/$name"
+          curl -fsSL "$base/SHA512-SUMS.txt" -o "$folder/SHA512-SUMS.txt"
+          (cd "$folder" && grep " $name\$" SHA512-SUMS.txt | sha512sum -c -)
+          unzip -q "$folder/$name" -d "$folder"
+          chmod +x "$folder/Godot_v4.7.2-stable_linux.x86_64"
+          echo "GODOT_BIN=$folder/Godot_v4.7.2-stable_linux.x86_64" >> "$GITHUB_ENV"
+      - run: python3 tools/run_tests.py

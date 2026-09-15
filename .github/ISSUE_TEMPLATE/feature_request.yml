@@ -1,0 +1,17 @@
+name: Propor uma melhoria / Feature request
+description: Sugira uma contribuição ao jogo ou à documentação.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Qual necessidade você quer atender?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta e alternativas
+      description: Explique quem se beneficia e como verificar o resultado.
+    validations:
+      required: true

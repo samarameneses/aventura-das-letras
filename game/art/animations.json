@@ -1,0 +1,1226 @@
+{
+  "joao_miguel": {
+    "walk": [
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 41,
+        "y": 99,
+        "w": 246,
+        "h": 511,
+        "scale_reference_height": 512
+      },
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 367,
+        "y": 98,
+        "w": 233,
+        "h": 512,
+        "scale_reference_height": 512
+      },
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 670,
+        "y": 98,
+        "w": 234,
+        "h": 512,
+        "scale_reference_height": 512
+      },
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 980,
+        "y": 98,
+        "w": 244,
+        "h": 512,
+        "scale_reference_height": 512
+      },
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 41,
+        "y": 682,
+        "w": 254,
+        "h": 512,
+        "scale_reference_height": 512
+      },
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 361,
+        "y": 682,
+        "w": 239,
+        "h": 512,
+        "scale_reference_height": 512
+      },
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 669,
+        "y": 682,
+        "w": 241,
+        "h": 512,
+        "scale_reference_height": 512
+      },
+      {
+        "file": "joao_miguel-walk.png",
+        "x": 982,
+        "y": 682,
+        "w": 250,
+        "h": 512,
+        "scale_reference_height": 512
+      }
+    ],
+    "jump_cycle": [
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 78,
+        "y": 73,
+        "w": 336,
+        "h": 549,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 495,
+        "y": 80,
+        "w": 281,
+        "h": 501,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 839,
+        "y": 80,
+        "w": 353,
+        "h": 450,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 49,
+        "y": 661,
+        "w": 364,
+        "h": 524,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 503,
+        "y": 727,
+        "w": 299,
+        "h": 470,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 903,
+        "y": 660,
+        "w": 251,
+        "h": 537,
+        "scale_reference_height": 537
+      }
+    ],
+    "idle": [
+      {
+        "file": "joao_miguel-idle.png",
+        "x": 199,
+        "y": 50,
+        "w": 275,
+        "h": 577,
+        "scale_reference_height": 602
+      },
+      {
+        "file": "joao_miguel-idle.png",
+        "x": 766,
+        "y": 55,
+        "w": 272,
+        "h": 572,
+        "scale_reference_height": 602
+      },
+      {
+        "file": "joao_miguel-idle.png",
+        "x": 199,
+        "y": 627,
+        "w": 277,
+        "h": 602,
+        "scale_reference_height": 602
+      },
+      {
+        "file": "joao_miguel-idle.png",
+        "x": 765,
+        "y": 627,
+        "w": 276,
+        "h": 602,
+        "scale_reference_height": 602
+      }
+    ],
+    "run": [
+      {
+        "file": "joao_miguel-run.png",
+        "x": 30,
+        "y": 129,
+        "w": 269,
+        "h": 484,
+        "scale_reference_height": 488
+      },
+      {
+        "file": "joao_miguel-run.png",
+        "x": 357,
+        "y": 141,
+        "w": 270,
+        "h": 468,
+        "scale_reference_height": 488
+      },
+      {
+        "file": "joao_miguel-run.png",
+        "x": 640,
+        "y": 129,
+        "w": 279,
+        "h": 484,
+        "scale_reference_height": 488
+      },
+      {
+        "file": "joao_miguel-run.png",
+        "x": 943,
+        "y": 120,
+        "w": 294,
+        "h": 467,
+        "scale_reference_height": 488
+      },
+      {
+        "file": "joao_miguel-run.png",
+        "x": 20,
+        "y": 660,
+        "w": 294,
+        "h": 488,
+        "scale_reference_height": 488
+      },
+      {
+        "file": "joao_miguel-run.png",
+        "x": 364,
+        "y": 672,
+        "w": 257,
+        "h": 475,
+        "scale_reference_height": 488
+      },
+      {
+        "file": "joao_miguel-run.png",
+        "x": 649,
+        "y": 661,
+        "w": 291,
+        "h": 487,
+        "scale_reference_height": 488
+      },
+      {
+        "file": "joao_miguel-run.png",
+        "x": 940,
+        "y": 660,
+        "w": 297,
+        "h": 445,
+        "scale_reference_height": 488
+      }
+    ],
+    "jump": [
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 78,
+        "y": 73,
+        "w": 336,
+        "h": 549,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 495,
+        "y": 80,
+        "w": 281,
+        "h": 501,
+        "scale_reference_height": 537
+      }
+    ],
+    "fall": [
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 839,
+        "y": 80,
+        "w": 353,
+        "h": 450,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 49,
+        "y": 661,
+        "w": 364,
+        "h": 524,
+        "scale_reference_height": 537
+      }
+    ],
+    "land": [
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 503,
+        "y": 727,
+        "w": 299,
+        "h": 470,
+        "scale_reference_height": 537
+      },
+      {
+        "file": "joao_miguel-jump_cycle.png",
+        "x": 903,
+        "y": 660,
+        "w": 251,
+        "h": 537,
+        "scale_reference_height": 537
+      }
+    ],
+    "celebrate": [
+      {
+        "file": "joao_miguel-celebrate.png",
+        "x": 217,
+        "y": 38,
+        "w": 278,
+        "h": 568,
+        "scale_reference_height": 568
+      },
+      {
+        "file": "joao_miguel-celebrate.png",
+        "x": 707,
+        "y": 38,
+        "w": 359,
+        "h": 568,
+        "scale_reference_height": 568
+      },
+      {
+        "file": "joao_miguel-celebrate.png",
+        "x": 200,
+        "y": 649,
+        "w": 350,
+        "h": 565,
+        "scale_reference_height": 568
+      },
+      {
+        "file": "joao_miguel-celebrate.png",
+        "x": 708,
+        "y": 655,
+        "w": 370,
+        "h": 559,
+        "scale_reference_height": 568
+      }
+    ]
+  },
+  "luna": {
+    "walk": [
+      {
+        "file": "luna-walk.png",
+        "x": 30,
+        "y": 172,
+        "w": 267,
+        "h": 455,
+        "scale_reference_height": 516
+      },
+      {
+        "file": "luna-walk.png",
+        "x": 348,
+        "y": 173,
+        "w": 245,
+        "h": 454,
+        "scale_reference_height": 516
+      },
+      {
+        "file": "luna-walk.png",
+        "x": 658,
+        "y": 172,
+        "w": 241,
+        "h": 455,
+        "scale_reference_height": 516
+      },
+      {
+        "file": "luna-walk.png",
+        "x": 972,
+        "y": 165,
+        "w": 253,
+        "h": 461,
+        "scale_reference_height": 516
+      },
+      {
+        "file": "luna-walk.png",
+        "x": 30,
+        "y": 627,
+        "w": 275,
+        "h": 516,
+        "scale_reference_height": 516
+      },
+      {
+        "file": "luna-walk.png",
+        "x": 347,
+        "y": 627,
+        "w": 247,
+        "h": 514,
+        "scale_reference_height": 516
+      },
+      {
+        "file": "luna-walk.png",
+        "x": 659,
+        "y": 627,
+        "w": 254,
+        "h": 514,
+        "scale_reference_height": 516
+      },
+      {
+        "file": "luna-walk.png",
+        "x": 965,
+        "y": 672,
+        "w": 260,
+        "h": 469,
+        "scale_reference_height": 516
+      }
+    ],
+    "jump_cycle": [
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 60,
+        "y": 78,
+        "w": 354,
+        "h": 537,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 466,
+        "y": 78,
+        "w": 305,
+        "h": 480,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 862,
+        "y": 78,
+        "w": 358,
+        "h": 462,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 45,
+        "y": 665,
+        "w": 373,
+        "h": 525,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 418,
+        "y": 712,
+        "w": 380,
+        "h": 477,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 899,
+        "y": 665,
+        "w": 287,
+        "h": 526,
+        "scale_reference_height": 526
+      }
+    ],
+    "idle": [
+      {
+        "file": "luna-idle.png",
+        "x": 233,
+        "y": 57,
+        "w": 296,
+        "h": 551,
+        "scale_reference_height": 557
+      },
+      {
+        "file": "luna-idle.png",
+        "x": 705,
+        "y": 56,
+        "w": 297,
+        "h": 553,
+        "scale_reference_height": 557
+      },
+      {
+        "file": "luna-idle.png",
+        "x": 233,
+        "y": 646,
+        "w": 298,
+        "h": 557,
+        "scale_reference_height": 557
+      },
+      {
+        "file": "luna-idle.png",
+        "x": 704,
+        "y": 646,
+        "w": 297,
+        "h": 557,
+        "scale_reference_height": 557
+      }
+    ],
+    "run": [
+      {
+        "file": "luna-run.png",
+        "x": 32,
+        "y": 172,
+        "w": 282,
+        "h": 455,
+        "scale_reference_height": 463
+      },
+      {
+        "file": "luna-run.png",
+        "x": 314,
+        "y": 188,
+        "w": 295,
+        "h": 439,
+        "scale_reference_height": 463
+      },
+      {
+        "file": "luna-run.png",
+        "x": 632,
+        "y": 164,
+        "w": 280,
+        "h": 463,
+        "scale_reference_height": 463
+      },
+      {
+        "file": "luna-run.png",
+        "x": 940,
+        "y": 159,
+        "w": 282,
+        "h": 446,
+        "scale_reference_height": 463
+      },
+      {
+        "file": "luna-run.png",
+        "x": 32,
+        "y": 676,
+        "w": 279,
+        "h": 457,
+        "scale_reference_height": 463
+      },
+      {
+        "file": "luna-run.png",
+        "x": 343,
+        "y": 709,
+        "w": 267,
+        "h": 424,
+        "scale_reference_height": 463
+      },
+      {
+        "file": "luna-run.png",
+        "x": 634,
+        "y": 676,
+        "w": 280,
+        "h": 456,
+        "scale_reference_height": 463
+      },
+      {
+        "file": "luna-run.png",
+        "x": 944,
+        "y": 670,
+        "w": 285,
+        "h": 446,
+        "scale_reference_height": 463
+      }
+    ],
+    "jump": [
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 60,
+        "y": 78,
+        "w": 354,
+        "h": 537,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 466,
+        "y": 78,
+        "w": 305,
+        "h": 480,
+        "scale_reference_height": 526
+      }
+    ],
+    "fall": [
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 862,
+        "y": 78,
+        "w": 358,
+        "h": 462,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 45,
+        "y": 665,
+        "w": 373,
+        "h": 525,
+        "scale_reference_height": 526
+      }
+    ],
+    "land": [
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 418,
+        "y": 712,
+        "w": 380,
+        "h": 477,
+        "scale_reference_height": 526
+      },
+      {
+        "file": "luna-jump_cycle.png",
+        "x": 899,
+        "y": 665,
+        "w": 287,
+        "h": 526,
+        "scale_reference_height": 526
+      }
+    ],
+    "celebrate": [
+      {
+        "file": "luna-celebrate.png",
+        "x": 220,
+        "y": 70,
+        "w": 290,
+        "h": 535,
+        "scale_reference_height": 535
+      },
+      {
+        "file": "luna-celebrate.png",
+        "x": 705,
+        "y": 79,
+        "w": 357,
+        "h": 526,
+        "scale_reference_height": 535
+      },
+      {
+        "file": "luna-celebrate.png",
+        "x": 219,
+        "y": 670,
+        "w": 332,
+        "h": 533,
+        "scale_reference_height": 535
+      },
+      {
+        "file": "luna-celebrate.png",
+        "x": 712,
+        "y": 670,
+        "w": 348,
+        "h": 532,
+        "scale_reference_height": 535
+      }
+    ]
+  },
+  "lucas_engenheiro": {
+    "walk": [
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 33,
+        "y": 116,
+        "w": 259,
+        "h": 507,
+        "scale_reference_height": 515
+      },
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 377,
+        "y": 125,
+        "w": 204,
+        "h": 499,
+        "scale_reference_height": 515
+      },
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 660,
+        "y": 116,
+        "w": 235,
+        "h": 508,
+        "scale_reference_height": 515
+      },
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 980,
+        "y": 109,
+        "w": 236,
+        "h": 514,
+        "scale_reference_height": 515
+      },
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 37,
+        "y": 669,
+        "w": 270,
+        "h": 508,
+        "scale_reference_height": 515
+      },
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 361,
+        "y": 673,
+        "w": 235,
+        "h": 504,
+        "scale_reference_height": 515
+      },
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 662,
+        "y": 666,
+        "w": 237,
+        "h": 511,
+        "scale_reference_height": 515
+      },
+      {
+        "file": "lucas_engenheiro-walk.png",
+        "x": 979,
+        "y": 662,
+        "w": 247,
+        "h": 515,
+        "scale_reference_height": 515
+      }
+    ],
+    "jump_cycle": [
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 66,
+        "y": 76,
+        "w": 352,
+        "h": 548,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 418,
+        "y": 80,
+        "w": 418,
+        "h": 496,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 836,
+        "y": 82,
+        "w": 375,
+        "h": 472,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 45,
+        "y": 661,
+        "w": 373,
+        "h": 530,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 418,
+        "y": 736,
+        "w": 371,
+        "h": 458,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 904,
+        "y": 659,
+        "w": 254,
+        "h": 538,
+        "scale_reference_height": 538
+      }
+    ],
+    "idle": [
+      {
+        "file": "lucas_engenheiro-idle.png",
+        "x": 240,
+        "y": 27,
+        "w": 276,
+        "h": 591,
+        "scale_reference_height": 592
+      },
+      {
+        "file": "lucas_engenheiro-idle.png",
+        "x": 723,
+        "y": 27,
+        "w": 278,
+        "h": 591,
+        "scale_reference_height": 592
+      },
+      {
+        "file": "lucas_engenheiro-idle.png",
+        "x": 240,
+        "y": 639,
+        "w": 276,
+        "h": 592,
+        "scale_reference_height": 592
+      },
+      {
+        "file": "lucas_engenheiro-idle.png",
+        "x": 722,
+        "y": 640,
+        "w": 279,
+        "h": 591,
+        "scale_reference_height": 592
+      }
+    ],
+    "run": [
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 31,
+        "y": 141,
+        "w": 244,
+        "h": 449,
+        "scale_reference_height": 449
+      },
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 344,
+        "y": 172,
+        "w": 235,
+        "h": 418,
+        "scale_reference_height": 449
+      },
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 643,
+        "y": 146,
+        "w": 249,
+        "h": 442,
+        "scale_reference_height": 449
+      },
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 942,
+        "y": 134,
+        "w": 285,
+        "h": 425,
+        "scale_reference_height": 449
+      },
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 23,
+        "y": 689,
+        "w": 259,
+        "h": 445,
+        "scale_reference_height": 449
+      },
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 337,
+        "y": 717,
+        "w": 241,
+        "h": 420,
+        "scale_reference_height": 449
+      },
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 640,
+        "y": 693,
+        "w": 257,
+        "h": 443,
+        "scale_reference_height": 449
+      },
+      {
+        "file": "lucas_engenheiro-run.png",
+        "x": 949,
+        "y": 674,
+        "w": 283,
+        "h": 429,
+        "scale_reference_height": 449
+      }
+    ],
+    "jump": [
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 66,
+        "y": 76,
+        "w": 352,
+        "h": 548,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 418,
+        "y": 80,
+        "w": 418,
+        "h": 496,
+        "scale_reference_height": 538
+      }
+    ],
+    "fall": [
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 836,
+        "y": 82,
+        "w": 375,
+        "h": 472,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 45,
+        "y": 661,
+        "w": 373,
+        "h": 530,
+        "scale_reference_height": 538
+      }
+    ],
+    "land": [
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 418,
+        "y": 736,
+        "w": 371,
+        "h": 458,
+        "scale_reference_height": 538
+      },
+      {
+        "file": "lucas_engenheiro-jump_cycle.png",
+        "x": 904,
+        "y": 659,
+        "w": 254,
+        "h": 538,
+        "scale_reference_height": 538
+      }
+    ],
+    "celebrate": [
+      {
+        "file": "lucas_engenheiro-celebrate.png",
+        "x": 203,
+        "y": 35,
+        "w": 277,
+        "h": 569,
+        "scale_reference_height": 569
+      },
+      {
+        "file": "lucas_engenheiro-celebrate.png",
+        "x": 724,
+        "y": 38,
+        "w": 365,
+        "h": 566,
+        "scale_reference_height": 569
+      },
+      {
+        "file": "lucas_engenheiro-celebrate.png",
+        "x": 197,
+        "y": 635,
+        "w": 322,
+        "h": 591,
+        "scale_reference_height": 569
+      },
+      {
+        "file": "lucas_engenheiro-celebrate.png",
+        "x": 746,
+        "y": 656,
+        "w": 320,
+        "h": 570,
+        "scale_reference_height": 569
+      }
+    ]
+  },
+  "samara": {
+    "walk": [
+      {
+        "file": "samara-walk.png",
+        "x": 39,
+        "y": 88,
+        "w": 273,
+        "h": 514,
+        "scale_reference_height": 518
+      },
+      {
+        "file": "samara-walk.png",
+        "x": 354,
+        "y": 89,
+        "w": 244,
+        "h": 513,
+        "scale_reference_height": 518
+      },
+      {
+        "file": "samara-walk.png",
+        "x": 672,
+        "y": 88,
+        "w": 224,
+        "h": 514,
+        "scale_reference_height": 518
+      },
+      {
+        "file": "samara-walk.png",
+        "x": 974,
+        "y": 87,
+        "w": 248,
+        "h": 516,
+        "scale_reference_height": 518
+      },
+      {
+        "file": "samara-walk.png",
+        "x": 39,
+        "y": 666,
+        "w": 275,
+        "h": 515,
+        "scale_reference_height": 518
+      },
+      {
+        "file": "samara-walk.png",
+        "x": 314,
+        "y": 666,
+        "w": 277,
+        "h": 518,
+        "scale_reference_height": 518
+      },
+      {
+        "file": "samara-walk.png",
+        "x": 671,
+        "y": 666,
+        "w": 240,
+        "h": 516,
+        "scale_reference_height": 518
+      },
+      {
+        "file": "samara-walk.png",
+        "x": 981,
+        "y": 667,
+        "w": 246,
+        "h": 515,
+        "scale_reference_height": 518
+      }
+    ],
+    "jump_cycle": [
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 75,
+        "y": 128,
+        "w": 332,
+        "h": 483,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 483,
+        "y": 106,
+        "w": 293,
+        "h": 444,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 868,
+        "y": 113,
+        "w": 350,
+        "h": 414,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 54,
+        "y": 679,
+        "w": 364,
+        "h": 513,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 418,
+        "y": 762,
+        "w": 366,
+        "h": 430,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 917,
+        "y": 692,
+        "w": 253,
+        "h": 500,
+        "scale_reference_height": 500
+      }
+    ],
+    "jump": [
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 75,
+        "y": 128,
+        "w": 332,
+        "h": 483,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 483,
+        "y": 106,
+        "w": 293,
+        "h": 444,
+        "scale_reference_height": 500
+      }
+    ],
+    "fall": [
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 868,
+        "y": 113,
+        "w": 350,
+        "h": 414,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 54,
+        "y": 679,
+        "w": 364,
+        "h": 513,
+        "scale_reference_height": 500
+      }
+    ],
+    "land": [
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 418,
+        "y": 762,
+        "w": 366,
+        "h": 430,
+        "scale_reference_height": 500
+      },
+      {
+        "file": "samara-jump_cycle.png",
+        "x": 917,
+        "y": 692,
+        "w": 253,
+        "h": 500,
+        "scale_reference_height": 500
+      }
+    ],
+    "idle": [
+      {
+        "file": "samara-idle.png",
+        "x": 212,
+        "y": 54,
+        "w": 292,
+        "h": 558,
+        "scale_reference_height": 558
+      },
+      {
+        "file": "samara-idle.png",
+        "x": 741,
+        "y": 55,
+        "w": 293,
+        "h": 557,
+        "scale_reference_height": 558
+      },
+      {
+        "file": "samara-idle.png",
+        "x": 213,
+        "y": 661,
+        "w": 293,
+        "h": 557,
+        "scale_reference_height": 558
+      },
+      {
+        "file": "samara-idle.png",
+        "x": 741,
+        "y": 661,
+        "w": 293,
+        "h": 557,
+        "scale_reference_height": 558
+      }
+    ],
+    "celebrate": [
+      {
+        "file": "samara-celebrate.png",
+        "x": 211,
+        "y": 49,
+        "w": 295,
+        "h": 562,
+        "scale_reference_height": 562
+      },
+      {
+        "file": "samara-celebrate.png",
+        "x": 728,
+        "y": 49,
+        "w": 331,
+        "h": 563,
+        "scale_reference_height": 562
+      },
+      {
+        "file": "samara-celebrate.png",
+        "x": 220,
+        "y": 650,
+        "w": 301,
+        "h": 569,
+        "scale_reference_height": 562
+      },
+      {
+        "file": "samara-celebrate.png",
+        "x": 741,
+        "y": 668,
+        "w": 317,
+        "h": 550,
+        "scale_reference_height": 562
+      }
+    ],
+    "run": [
+      {
+        "file": "samara-run.png",
+        "x": 35,
+        "y": 153,
+        "w": 279,
+        "h": 474,
+        "scale_reference_height": 474
+      },
+      {
+        "file": "samara-run.png",
+        "x": 314,
+        "y": 177,
+        "w": 312,
+        "h": 449,
+        "scale_reference_height": 474
+      },
+      {
+        "file": "samara-run.png",
+        "x": 643,
+        "y": 153,
+        "w": 297,
+        "h": 474,
+        "scale_reference_height": 474
+      },
+      {
+        "file": "samara-run.png",
+        "x": 940,
+        "y": 153,
+        "w": 290,
+        "h": 448,
+        "scale_reference_height": 474
+      },
+      {
+        "file": "samara-run.png",
+        "x": 31,
+        "y": 670,
+        "w": 283,
+        "h": 469,
+        "scale_reference_height": 474
+      },
+      {
+        "file": "samara-run.png",
+        "x": 314,
+        "y": 694,
+        "w": 307,
+        "h": 445,
+        "scale_reference_height": 474
+      },
+      {
+        "file": "samara-run.png",
+        "x": 634,
+        "y": 670,
+        "w": 283,
+        "h": 469,
+        "scale_reference_height": 474
+      },
+      {
+        "file": "samara-run.png",
+        "x": 947,
+        "y": 670,
+        "w": 291,
+        "h": 445,
+        "scale_reference_height": 474
+      }
+    ]
+  }
+}
