@@ -20,6 +20,24 @@ The game runs locally without an account, API key or sensor. Optional narration 
 
 The optional ESP32/IMU integration sends USB or local Wi-Fi samples to a Python jump detector. See [sensor setup](docs/SENSOR.md). Hardware behavior needs validation for each setup.
 
+## See the game in action
+
+Original screenshots captured directly from the current game using a test profile.
+
+### Running through word challenges
+
+![Character running toward the Portuguese words CÉU and REI](docs/images/corrida-palavras.png)
+
+### A correct answer brings confetti
+
+Collecting **CÉU** with a jump triggers a colorful celebration and an encouraging message.
+
+![Character jumping after collecting CÉU, surrounded by colorful confetti](docs/images/acerto-confetes.png)
+
+### Exploring two-syllable words
+
+![Word challenge with BOLA and DADO in a pixel-art landscape](docs/images/palavras-dissilabas.png)
+
 ## Start your own game from scratch
 
 Use the **[customizable master prompt (Portuguese)](docs/PROMPT-MESTRE.md)** to describe your own characters, audience, hardware and visual direction. It guides an assistant through feasibility, a first playable level, artwork, optional motion input and Markdown documentation. You can also fork this repository to adapt the existing game.

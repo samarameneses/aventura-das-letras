@@ -19,6 +19,28 @@
 - **Narração em português**, quando uma voz compatível está disponível no sistema operacional.
 - **ESP32 + sensor inercial opcionais:** USB ou Wi-Fi local para transformar movimentos em saltos. Todo o conteúdo também funciona sem hardware.
 
+## Veja o jogo em ação
+
+Capturas originais da versão atual, feitas diretamente no jogo com um perfil de teste.
+
+### Corrida com palavras
+
+O personagem corre pelo cenário enquanto a criança encontra a palavra indicada e pula para coletá-la.
+
+![Personagem correndo na fase de palavras, com as opções CÉU e REI](docs/images/corrida-palavras.png)
+
+### Acertou? Chuva de confetes!
+
+Ao coletar a palavra **CÉU** com um salto, o jogo comemora com uma explosão de confetes e uma mensagem de incentivo.
+
+![Personagem no ar após coletar CÉU, cercado por confetes coloridos e uma mensagem de parabéns](docs/images/acerto-confetes.png)
+
+### Descobrindo palavras dissílabas
+
+As fases também trazem palavras como **BOLA** e **DADO**, ampliando o conteúdo educativo ao longo da aventura.
+
+![Fase de palavras dissílabas com o personagem e as opções BOLA e DADO](docs/images/palavras-dissilabas.png)
+
 ## Comece em poucos minutos
 
 1. Instale o [Godot 4.7.2 Standard](https://godotengine.org/download/archive/4.7.2-stable/) para seu sistema. A edição .NET não é necessária.
