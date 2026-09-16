@@ -9,7 +9,7 @@ A Portuguese-language 2D literacy platformer built with Godot. Explore letters, 
 ## Play from source
 
 1. Install [Godot 4.7.2 Standard](https://godotengine.org/download/archive/4.7.2-stable/).
-2. Clone `https://github.com/Sa-Meneses/aventura-das-letras.git`.
+2. Clone `https://github.com/samarameneses/aventura-das-letras.git`.
 3. Import `game/project.godot` in Godot, wait for assets to import, then press F5.
 
 The game runs locally without an account, API key or sensor. Optional narration depends on your operating system's Portuguese voices. The original development platform is macOS Apple Silicon; Windows/Linux testing is welcome.

@@ -2,7 +2,7 @@
 
 ## Relatar uma vulnerabilidade
 
-Use [Report a vulnerability](https://github.com/Sa-Meneses/aventura-das-letras/security/advisories/new) para enviar um relato privado aos mantenedores. Não publique credenciais ou detalhes exploráveis em uma issue pública. Inclua a revisão afetada, o impacto e passos mínimos para reprodução com valores fictícios.
+Use [Report a vulnerability](https://github.com/samarameneses/aventura-das-letras/security/advisories/new) para enviar um relato privado aos mantenedores. Não publique credenciais ou detalhes exploráveis em uma issue pública. Inclua a revisão afetada, o impacto e passos mínimos para reprodução com valores fictícios.
 
 A branch `main` recebe correções. Não há garantia de atendimento em prazo específico.
 

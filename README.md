@@ -2,7 +2,7 @@
 
 **Pule. Descubra. Brinque.** Um jogo de plataforma 2D em português para explorar letras, sílabas e palavras — com teclado, controle ou um sensor de movimento opcional.
 
-[![CI](https://github.com/Sa-Meneses/aventura-das-letras/actions/workflows/ci.yml/badge.svg)](https://github.com/Sa-Meneses/aventura-das-letras/actions/workflows/ci.yml)
+[![CI](https://github.com/samarameneses/aventura-das-letras/actions/workflows/ci.yml/badge.svg)](https://github.com/samarameneses/aventura-das-letras/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Godot 4.7.2](https://img.shields.io/badge/Godot-4.7.2-478cbf.svg)](https://godotengine.org/download/)
 
@@ -16,7 +16,7 @@
 2. Faça um fork ou clone:
 
    ```sh
-   git clone https://github.com/Sa-Meneses/aventura-das-letras.git
+   git clone https://github.com/samarameneses/aventura-das-letras.git
    cd aventura-das-letras
    ```
 
@@ -111,7 +111,7 @@ Fotografias pessoais, configurações de rede, backups de hardware, medições l
 
 ## Colabore
 
-Forks, correções, traduções, revisão pedagógica, acessibilidade, novas fases e testes de hardware são bem-vindos. Leia [CONTRIBUTING.md](CONTRIBUTING.md), veja o [roadmap](docs/ROADMAP.md) e abra uma [issue](https://github.com/Sa-Meneses/aventura-das-letras/issues/new/choose) ou participe das [discussões](https://github.com/Sa-Meneses/aventura-das-letras/discussions).
+Forks, correções, traduções, revisão pedagógica, acessibilidade, novas fases e testes de hardware são bem-vindos. Leia [CONTRIBUTING.md](CONTRIBUTING.md), veja o [roadmap](docs/ROADMAP.md) e abra uma [issue](https://github.com/samarameneses/aventura-das-letras/issues/new/choose) ou participe das [discussões](https://github.com/samarameneses/aventura-das-letras/discussions).
 
 ## Criação e licença
 
