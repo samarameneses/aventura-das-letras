@@ -96,7 +96,8 @@ func _ready():
  player.auto_run=Data.speedrun_active
  player.position=Vector2(float(Data.round_progress().checkpoint),GROUND_Y-3)
  return_x=float(Data.round_progress().checkpoint);checkpoint_active=return_x>=checkpoint_x
- player.fell.connect(respawn);player.jumped.connect(on_jump);add_child(player)
+ player.fell.connect(respawn);player.jumped.connect(on_jump)
+ player.movement_updated.connect(update_environment);add_child(player)
  var bridge=StaticBody2D.new();bridge.position=Vector2(991,155)
  bridge_shape=CollisionShape2D.new();var bridge_rect=RectangleShape2D.new();bridge_rect.size=Vector2(40,10)
  bridge_shape.shape=bridge_rect;bridge_shape.disabled=true;bridge.add_child(bridge_shape);add_child(bridge)
@@ -143,7 +144,6 @@ func _physics_process(delta):
  if not active:return
  if player.position.y>240:
   respawn();return
- update_environment(delta)
  update_power_effects(delta)
  question_cooldown=maxf(0,question_cooldown-delta)
  camera.position.x=clampf(roundf(player.position.x+camera_lead),160,level_length-160)
@@ -194,6 +194,10 @@ func update_environment(delta: float):
   if player.position.y<146 or player.position.y>165:continue
   if zone.kind=="water":player.wet_seconds=2.2
   elif zone.kind=="lava" and lava_immunity<=0:
+   # Evaluate after movement: a jump in this frame must leave the fire safely.
+   if not player.is_on_floor():continue
+   # Allow a small landing margin at either edge instead of testing the heels.
+   if player.position.x<=zone.x+4 or player.position.x>=zone.x+zone.width-4:continue
    lava_immunity=2.5;player.burn_seconds=1.2
    # A nearby safe bank preserves the session; auto-run continues on the far side.
    var safe_x=zone.x+zone.width+20 if player.auto_run or player.velocity.x>=0 else zone.x-20
@@ -213,9 +217,22 @@ func skip_choice(index: int):
  mark_completed(index)
 
 func respawn():
+ # Replay the reachable segment, keeping discoveries before the safe point.
+ var progress=Data.round_progress()
+ for i in range(Data.activities.size()):
+  var a=Data.activities[i]
+  if float(a.x)<return_x:continue
+  progress.completed.erase(a.id);skipped.erase(a.id)
+  for token in tokens[i]:
+   token.sprite.position=token.position;token.sprite.modulate=Color.WHITE
+   token.label.position=token.position-Vector2(token.label.size.x/2,22)
+   token.sprite.show();token.label.show()
+ if not Data.speedrun_active:Data.save_progress()
  player.position=Vector2(return_x,GROUND_Y-3);player.clear_commands()
+ player.success_pending=false;player.success_seconds=0
  camera.position.x=clampf(return_x+camera_lead,160,level_length-160)
- current_activity=-1;selected=false;marker.hide()
+ current_activity=-1;choice=0;selected=false;marker.hide()
+ answer_locked=false;question_cooldown=0;light_announced=-1;magnet_target=Vector2.ZERO
  motor_fall.emit()
 
 func on_jump():

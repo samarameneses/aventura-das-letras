@@ -45,7 +45,7 @@ Ande pelo jardim. Ao ouvir o pedido, fique abaixo da opção escolhida e pule pa
 
 Os dois poderes escolhidos ficam disponíveis desde o início e recarregam automaticamente. O tênis do caminho também recarrega os poderes. Há botões na própria tela para os dois poderes e para pular.
 
-Ao cair no vão, o personagem retorna ao começo ou à bandeira já alcançada. As descobertas continuam guardadas. Cair não conta como erro de leitura.
+Ao cair no vão, o personagem retorna ao começo ou à bandeira já alcançada. As letras, sílabas, palavras e demais opções a partir desse ponto reaparecem para serem coletadas novamente, inclusive as que ficaram para trás. As descobertas anteriores ao ponto de retorno e o histórico de tentativas continuam guardados. Cair não conta como erro de leitura.
 
 ## Jogar por mais tempo, sem parar a cada fase
 
@@ -93,7 +93,7 @@ No menu, escolha **Speed Run** e depois a fase. O personagem corre sozinho para 
 
 Os acertos continuam com comemoração. É possível chegar ao portal mesmo deixando atividades para trás. Quando a duração escolhida for uma fase por vez, a tela final mostra as descobertas realmente feitas; só corridas com todas as descobertas entram na comparação de recordes pessoais. Os recordes antigos permanecem guardados; os tempos com os novos poderes têm uma lista separada.
 
-O cronômetro segue correndo após erros. A pausa voluntária e a proteção por perda de foco ou conexão do sensor continuam disponíveis. Quedas ainda retornam ao ponto seguro, preservando descobertas e corações.
+O cronômetro segue correndo após erros. A pausa voluntária e a proteção por perda de foco ou conexão do sensor continuam disponíveis. Quedas retornam ao ponto seguro e fazem as opções desse trecho reaparecerem, preservando os corações e as descobertas anteriores ao ponto de retorno.
 
 **Reiniciar corrida** na pausa e **Jogar outra vez** no final são escolhas voluntárias para começar outra partida. Corridas ficam separadas da aventura e não guardam a posição ao sair para os personagens. [Atualização sem interrupções por erro](history/18-brincadeira-sem-interrupcoes.md).
 
@@ -117,4 +117,4 @@ O jogo abre com a janela maximizada no computador. O menu aumenta título, perso
 
 ## Lava, rios e pontes
 
-Pule a lava e os troncos com Espaço. Se tocar na lava, perde um coração e reaparece na margem próxima com um foguinho breve, sem reiniciar. O rio é raso: molha os pés e não tira vidas. Atravesse as pontes andando. Os trechos alternam dia, entardecer e noite.
+Pule a lava e os troncos com Espaço. Passar por cima da lava durante o salto não queima os pés nem tira corações; as bordas têm uma pequena margem de tolerância para aterrissar. Se pisar ou aterrissar no interior da lava, perde um coração e reaparece na margem próxima com um foguinho breve, sem reiniciar. O rio é raso: molha os pés e não tira vidas. Atravesse as pontes andando. Os trechos alternam dia, entardecer e noite.

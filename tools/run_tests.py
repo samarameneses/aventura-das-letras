@@ -6,7 +6,7 @@ from godot_runtime import ROOT, find_godot
 # Deterministic 60 Hz simulation runs without real-time pacing.
 # Hardware and screenshot labs run separately.
 GODOT_TESTS = ["curriculum", "speedrun", "gentle_flow",
-               "powers_continuity", "adventure_terrain", "player_fast_fall",
+               "powers_continuity", "adventure_terrain", "lava_jump", "player_fast_fall", "respawn_collectibles",
                "sensor_game_jump", "sensor_repeat_jumps", "sensor_wifi_timeout", "answer_feedback", "acceptance"]
 
 def run(command, timeout=360):

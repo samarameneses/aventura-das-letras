@@ -22,6 +22,10 @@ O comando executa os testes Python do protocolo e receptor, importa os recursos 
 
 As simulações rodam a 60 passos por segundo sem esperar o tempo real da partida. Os registros ficam em `evidence/`, ignorada pelo Git. Os testes usam perfis isolados e não reprogramam a placa.
 
+`respawn_collectibles.gd` verifica que quedas restauram as opções coletadas ou ignoradas a partir do ponto de retorno, com nova coleta por salto, preservação do histórico e retomada do progresso salvo. Cobre letras, sílabas, palavras e quantidades nos modos manual e Speed Run.
+
+`lava_jump.gd` verifica saltos nas bordas da lava, nos dois sentidos, com teclado e comandos simulados de sensor, nos modos manual e automático, com e sem velocidade extra. Também diferencia a passagem no ar de pisar ou aterrissar no interior da lava.
+
 Para verificar apenas a camada Python:
 
 ```sh

@@ -166,7 +166,7 @@ func start_game(continuing=false, carry: Dictionary={}):
  world.player.configure_sensor_jump(mode=="sensor")
  world.activity_entered.connect(on_activity)
  world.answer_collected.connect(on_answer)
- world.motor_fall.connect(func():Data.record_motor("virtual_fall");toast("Tudo bem! Você voltou ao ponto seguro."))
+ world.motor_fall.connect(on_motor_fall)
  world.checkpoint_reached.connect(func():toast("Ponto de retorno salvo!"))
  world.lava_touched.connect(func():
   Data.round_progress().lives=maxi(0,Data.lives_remaining()-1)
@@ -249,6 +249,14 @@ func resume_game():
  world.player.configure_sensor_jump(mode=="sensor")
  world.set_active(true)
  if speedrun_selected:run_clock.resume()
+ update_hud()
+
+func on_motor_fall():
+ active_activity=-1;helped=false;success_timer=0
+ success_banner.hide()
+ instruction.text="Vamos tentar novamente! Pegue as descobertas pelo caminho."
+ Data.record_motor("virtual_fall")
+ toast("Tudo bem! Você voltou ao ponto seguro.")
  update_hud()
 
 func on_activity(index: int):

@@ -4,6 +4,7 @@ signal jumped
 signal fell
 signal power_used
 signal power_activated(id: String)
+signal movement_updated(delta: float)
 const Powers=preload("res://scripts/powers.gd")
 var cooldowns: Dictionary={}
 var effects: Dictionary={}
@@ -149,6 +150,7 @@ func _physics_process(delta):
  elif land_seconds>0:animate("land")
  elif absf(velocity.x)>3:animate("run" if auto_run or (power_seconds>0 and not decision_zone) else "walk")
  else:animate("idle")
+ movement_updated.emit(delta)
  if position.y>240:
   fell.emit()
 

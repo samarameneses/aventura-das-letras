@@ -1,7 +1,7 @@
 extends "res://tests/speedrun.gd"
 
 func fresh(sid="alfabeto_01"):
- data.choose_stage(sid);main.speedrun_selected=true;main.start_game();await frames(4)
+ data.choose_stage(sid);main.speedrun_selected=true;main.start_game();await frames(15)
 
 func run():
  data=root.get_node("Data");data.save_path="res://../evidence/terrain-progress.json";data.migration_source=""
